@@ -1,67 +1,55 @@
-LOW GLYCEMIC INDEX (55 or less),
-,
-Fruits,
-Apples (120g),40
-Apple juice (250g),39
-"Apricots, dried (60g)",32
-Bananas (120g),47
-Fruit cocktail (120g),55
-Grapefruit (120g),25
-Grapes (120g),43
-Mangoes (120g),51
-"Oranges, raw (120g)",48
-"Peaches, canned in light syrup (120g)",52
-Pineapple (120g),51
-Plums (120g),53
-Strawberries (120g),40
-,
-Vegetables,
-Carrot juice (250g),43
-"Carrots, raw (80g)",35
-"Corn, sweet (80g)",55
-"Lima beans, baby, frozen (150g)",32
-"Parsnips, peeled boiled (80g)",52
-"Potato, white, boiled (150g)",54
-Tomato soup (250 g),38
-,
-"Grains, Breads & Cereals",
-Barley (150g),22
-Basmati rice (150g),52
-Bran cereal (30g),43
-"Brown rice, steamed (50g)",50
-"Bulgur wheat, whole, cooked (150g)",46
-Chickpeas (150g),36
-Instant noodles (180g),52
-Instant oatmeal (25 g),50
-Mixed grain bread (30g),52
-Oat bran bread (30g),44
-Rye kernel bread (30 g),41
-"Rye flour bread, 50%  rye flour, 50% wheat flour (30g)",50
-"Water crackers, whole grain, sesame seeds (25g)",53
-"White rice, boiled (150g)",47
-,
-Dairy and Dairy Alternatives,
-Skim milk (250g),32
-Soy milk (250g),43
-,
-Nuts and Legumes,
-Black beans (150g),30
-Butter beans (150g),36
-Cashews (50g),25
-Kidney beans (150g),29
-"Kidney beans, canned (150g)",52
-"Lentils, canned (150g)",42
-"Split peas, yellow, boiled (150g)",25
-,
-Snacks & Sweets,
-Blueberry muffin (60g),50
-"Cake, pound (50g)",38
-Corn chips (50g),42
-Hummus (30g),6
-"Ice cream, full-fat, French vanilla (50g)",38
-"Ice cream, low-fat, vanilla, “light” (50g)",46
-Oatmeal cookies (25g),54
-Snickers (60g),43
-Sponge cake (63g),46
-Strawberry jam (30g),51
-Sushi (100g),55
+food_name,glycemic_index
+Apples (120g),40.0
+Apple juice (250g),39.0
+"Apricots, dried (60g)",32.0
+Bananas (120g),47.0
+Fruit cocktail (120g),55.0
+Grapefruit (120g),25.0
+Grapes (120g),43.0
+Mangoes (120g),51.0
+"Oranges, raw (120g)",48.0
+"Peaches, canned in light syrup (120g)",52.0
+Pineapple (120g),51.0
+Plums (120g),53.0
+Strawberries (120g),40.0
+Carrot juice (250g),43.0
+"Carrots, raw (80g)",35.0
+"Corn, sweet (80g)",55.0
+"Lima beans, baby, frozen (150g)",32.0
+"Parsnips, peeled boiled (80g)",52.0
+"Potato, white, boiled (150g)",54.0
+Tomato soup (250 g),38.0
+Barley (150g),22.0
+Basmati rice (150g),52.0
+Bran cereal (30g),43.0
+"Brown rice, steamed (50g)",50.0
+"Bulgur wheat, whole, cooked (150g)",46.0
+Chickpeas (150g),36.0
+Instant noodles (180g),52.0
+Instant oatmeal (25 g),50.0
+Mixed grain bread (30g),52.0
+Oat bran bread (30g),44.0
+Rye kernel bread (30 g),41.0
+"Rye flour bread, 50%  rye flour, 50% wheat flour (30g)",50.0
+"Water crackers, whole grain, sesame seeds (25g)",53.0
+"White rice, boiled (150g)",47.0
+Skim milk (250g),32.0
+Soy milk (250g),43.0
+Black beans (150g),30.0
+Butter beans (150g),36.0
+Cashews (50g),25.0
+Kidney beans (150g),29.0
+"Kidney beans, canned (150g)",52.0
+"Lentils, canned (150g)",42.0
+"Split peas, yellow, boiled (150g)",25.0
+Blueberry muffin (60g),50.0
+"Cake, pound (50g)",38.0
+Corn chips (50g),42.0
+Hummus (30g),6.0
+"Ice cream, full-fat, French vanilla (50g)",38.0
+"Ice cream, low-fat, vanilla, “light” (50g)",46.0
+Oatmeal cookies (25g),54.0
+Snickers (60g),43.0
+Sponge cake (63g),46.0
+Strawberry jam (30g),51.0
+Sushi (100g),55.0

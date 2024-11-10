@@ -1,4 +1,4 @@
-food_name,calories_x,carbohydrates_x,fiber_x,fats_x,glycemic_index,category_x,description_x,brand_x,food_category_x,sugars_x,proteins_x,serving_size_x,serving_weight_x,restaurant_name_x,serving_unit_x,sodium_x,potassium_x,saturated_fats_x,cholesterol_x,glycemic_index_x,glycemic_index_y,serving_weight_y,serving_size_y,sugars_y,proteins_y,restaurant_name_y,serving_unit_y,calories_y,category_y,sodium_y,carbohydrates_y,brand_y,fats_y,potassium_y,food_category_y,saturated_fats_y,description_y,fiber_y,cholesterol_y,restaurant_name,serving_size,serving_unit,calories,carbohydrates,sugars,fats,saturated_fats,cholesterol,sodium,fiber,potassium,proteins,serving_weight,category,brand,food_category,description,calories_per_100g,carbs_per_100g,fats_per_100g,gi_category
+food_name,calories_x,carbohydrates_x,fiber_x,fats_x,glycemic_index,category_x,description_x,brand_x,food_category_x,sugars_x,proteins_x,potassium_x,serving_weight_x,glycemic_index_x,saturated_fats_x,serving_size_x,serving_unit_x,cholesterol_x,restaurant_name_x,sodium_x,glycemic_index_y,serving_weight_y,potassium_y,calories_y,brand_y,saturated_fats_y,serving_size_y,serving_unit_y,cholesterol_y,fats_y,proteins_y,food_category_y,restaurant_name_y,carbohydrates_y,sugars_y,fiber_y,description_y,category_y,sodium_y,restaurant_name,serving_size,serving_unit,calories,carbohydrates,sugars,fats,saturated_fats,cholesterol,sodium,fiber,potassium,proteins,serving_weight,brand,food_category,description,category,calories_per_100g,carbs_per_100g,fats_per_100g,gi_category
 almonds,594.8,18.119999999999997,11.9,51.9,,Diabetic-Friendly Foods,ALMONDS,HARVEST FRESH,"Popcorn, Peanuts, Seeds & Related Snacks",,23.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
 "americano, large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,McDonald's,1.0,Serving,8.88,1.65,0.0,0.18,0.09,0.0,28.81,0.0,113.47,0.12,,,,,,,,,Unknown
 "americano, medium",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,McDonald's,1.0,Serving,8.88,1.65,0.0,0.18,0.09,0.0,28.81,0.0,113.47,0.12,,,,,,,,,Unknown
@@ -57,7 +57,6 @@ cherries,264.0,58.04,1.92,0.04,,Diabetic-Friendly Foods,CHERRIES,DELL'S MARASCHI
 chia seeds,493.0,44.7,36.1,31.160000000000004,,Diabetic-Friendly Foods,CHIA SEEDS,HARRIS TEETER,Other Grains & Seeds,,17.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
 chick-fil-a breakfast filet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Chick-fil-A,1.0,Serving,161.7,0.0,0.0,3.5,0.99,83.3,72.52,0.0,250.88,30.4,,,,,,,,,Unknown
 "chick-fil-a chick-n-minis, 10 ct",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Chick-fil-A,1.0,Serving,396.0,40.34,3.46,19.71,7.54,31.68,1145.76,1.85,271.92,15.75,,,,,,,,,Unknown
-"chick-fil-a chick-n-minis, 4 ct",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Chick-fil-A,1.0,Serving,396.0,40.34,3.46,19.71,7.54,31.68,1145.76,1.85,271.92,15.75,,,,,,,,,Unknown
 chick-fil-a chicken biscuit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Chick-fil-A,1.0,Serving,396.0,40.34,3.46,19.71,7.54,31.68,1145.76,1.85,271.92,15.75,,,,,,,,,Unknown
 chick-fil-a chicken sandwich,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Chick-fil-A,1.0,Serving,465.63,39.06,6.81,20.93,3.97,65.45,1408.11,2.62,458.15,30.44,,,,,,,,,Unknown
 chick-fil-a cool wrap,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Chick-fil-A,1.0,Serving,747.68,46.02,1.94,40.35,12.55,125.72,1055.49,5.43,770.26,48.63,,,,,,,,,Unknown
@@ -94,7 +93,6 @@ dave's single,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wendy's,1.0,serving,65.52,1
 dave's triple,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wendy's,1.0,serving,771.9,40.24,8.19,47.73,19.96,156.87,1586.13,1.25,572.7,45.32,,,,,,,,,Unknown
 deluxe mccrispy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,McDonald's,1.0,Serving,530.0,,,,,,,,,,,,,,,,,,Unknown
 double cheeseburger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,McDonald's,1.0,Serving,761.6,40.4,9.77,45.42,18.12,159.6,1344.0,2.8,677.6,47.49,,,,,,,,,Unknown
-double decker taco,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Taco Bell,1.0,Taco,337.35,53.76,31.93,11.14,6.07,28.78,246.73,1.33,212.49,6.88,,,,,,,,,Unknown
 double stack,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wendy's,1.0,serving,342.89,40.94,5.29,16.83,7.32,0.0,447.32,4.86,224.07,8.74,,,,,,,,,Unknown
 double stacked taco,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Taco Bell,1.0,Taco,337.35,53.76,31.93,11.14,6.07,28.78,246.73,1.33,212.49,6.88,,,,,,,,,Unknown
 double whopper,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Burger King,1.0,serving,194.18,22.67,19.4,11.16,6.04,8.74,32.68,1.25,140.6,2.9,,,,,,,,,Unknown
@@ -123,6 +121,7 @@ instant oatmeal,,,,,,,,,,,,,,,,,,,,,50.0,25 g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 jr. cheeseburger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wendy's,1.0,serving,535.31,39.24,7.16,28.66,14.0,95.52,1176.09,2.39,443.77,30.27,,,,,,,,,Unknown
 jr. hamburger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wendy's,1.0,serving,355.95,35.3,5.05,16.6,3.05,9.3,719.36,5.25,434.23,16.24,,,,,,,,,Unknown
 kale,69.6,7.366,2.94,1.238,,Diabetic-Friendly Foods,KALE,CUT 'N CLEAN,Pre-Packaged Fruit & Vegetables,,3.54,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
+kalua pork nachos bellgrande (regional),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Taco Bell,1.0,Order,150.44,9.54,0.43,7.95,2.3,40.87,386.4,0.62,138.84,9.63,,,,,,,,,Unknown
 kidney beans,86.4,15.079999999999998,5.88,0.076,,Diabetic-Friendly Foods,KIDNEY BEANS,JACK'S QUALITY,Canned & Bottled Beans,,7.69,,,,,,,,,,29.0,150g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
 "kidney beans, canned",,,,,,,,,,,,,,,,,,,,,52.0,150g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
 kiwi,167.5,32.2,2.175,0.34,,Diabetic-Friendly Foods,KIWI,MIGHTIES,Pre-Packaged Fruit & Vegetables,,1.35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
@@ -176,7 +175,7 @@ rodeo cheeseburger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Burger King,1.0,servin
 "rye flour bread, 50%  rye flour, 50% wheat flour",,,,,,,,,,,,,,,,,,,,,50.0,30g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
 rye kernel bread,,,,,,,,,,,,,,,,,,,,,41.0,30 g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
 salmon,911.4,0.8939999999999999,0.13999999999999999,29.689999999999998,,Diabetic-Friendly Foods,SALMON,SEA CUISINE,Fish & Seafood,,19.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-sauce,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Chick-fil-A,2.0,Tbsp,160.0,,,,,,,,,,,,,,,,,,Unknown
+sauce,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Chick-fil-A,2.0,Tbsp,66.0,9.81,6.48,2.13,0.29,2.64,576.84,2.38,422.4,1.83,,,,,,,,,Unknown
 sausage biscuit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wendy's,1.0,serving,411.81,33.29,1.76,27.11,8.24,31.08,903.54,0.44,169.83,10.73,,,,,,,,,Unknown
 "seasoning mix, original taco",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Taco Bell,2.0,tsp,37.65,5.26,4.96,2.03,0.4,0.0,10.05,0.17,14.4,0.1,,,,,,,,,Unknown
 skim milk,,,,,,,,,,,,,,,,,,,,,32.0,250g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown

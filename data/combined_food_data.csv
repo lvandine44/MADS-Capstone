@@ -1,213 +1,726 @@
-food_name,calories_x,carbohydrates_x,fiber_x,fats_x,glycemic_index,category_x,description_x,brand_x,food_category_x,sugars_x,proteins_x,potassium_x,serving_weight_x,glycemic_index_x,saturated_fats_x,serving_size_x,serving_unit_x,cholesterol_x,restaurant_name_x,sodium_x,glycemic_index_y,serving_weight_y,potassium_y,calories_y,brand_y,saturated_fats_y,serving_size_y,serving_unit_y,cholesterol_y,fats_y,proteins_y,food_category_y,restaurant_name_y,carbohydrates_y,sugars_y,fiber_y,description_y,category_y,sodium_y,restaurant_name,serving_size,serving_unit,calories,carbohydrates,sugars,fats,saturated_fats,cholesterol,sodium,fiber,potassium,proteins,serving_weight,brand,food_category,description,category,calories_per_100g,carbs_per_100g,fats_per_100g,gi_category
-almonds,594.8,18.119999999999997,11.9,51.9,,Diabetic-Friendly Foods,ALMONDS,HARVEST FRESH,"Popcorn, Peanuts, Seeds & Related Snacks",,23.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-"americano, large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,McDonald's,1.0,Serving,8.88,1.65,0.0,0.18,0.09,0.0,28.81,0.0,113.47,0.12,,,,,,,,,Unknown
-"americano, medium",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,McDonald's,1.0,Serving,8.88,1.65,0.0,0.18,0.09,0.0,28.81,0.0,113.47,0.12,,,,,,,,,Unknown
-"americano, small",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,McDonald's,1.0,Serving,8.88,1.65,0.0,0.18,0.09,0.0,28.81,0.0,113.47,0.12,,,,,,,,,Unknown
-apple bites,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wendy's,1.0,serving,98.92,8.69,1.32,5.8,1.42,22.67,158.12,0.87,73.01,3.0,,,,,,,,,Unknown
-apple juice,,,,,,,,,,,,,,,,,,,,,39.0,250g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-apple slices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,McDonald's,1.0,Serving,114.08,28.02,23.86,0.32,0.05,0.0,9.92,0.5,250.48,0.25,,,,,,,,,Unknown
-apples,52.8,14.180000000000001,2.7600000000000002,0.0,,Diabetic-Friendly Foods,APPLES,APPLE COUNTRY,Pre-Packaged Fruit & Vegetables,,0.0,,,,,,,,,,40.0,120g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-"apricots, dried",,,,,,,,,,,,,,,,,,,,,32.0,60g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-asparagus,21.0,3.9199999999999995,2.3600000000000003,0.0,,Diabetic-Friendly Foods,ASPARAGUS,WEGMANS,Pre-Packaged Fruit & Vegetables,,2.35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-avocado,1259.5,6.662000000000001,4.775,32.1,,Diabetic-Friendly Foods,"Oil, avocado",,Fats and Oils,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-avocado oil,813.4,0.0,,93.3,,Diabetic-Friendly Foods,AVOCADO OIL,PUBLIX,Vegetable & Cooking Oils,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-bacon cheeseburger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Burger King,1.0,serving,595.02,39.86,9.77,33.46,12.93,105.5,1422.14,2.74,502.18,33.3,,,,,,,,,Unknown
-bacon king,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Burger King,1.0,serving,161.46,0.59,0.0,12.11,4.13,34.16,580.98,0.0,172.16,11.7,,,,,,,,,Unknown
-bacon melt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Burger King,1.0,serving,899.39,46.04,5.69,56.62,29.48,200.83,1406.19,5.57,762.08,49.94,,,,,,,,,Unknown
-baconator,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wendy's,1.0,serving,930.6,62.34,15.28,52.34,20.22,165.0,2224.2,4.29,785.4,52.07,,,,,,,,,Unknown
-baconator fries,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wendy's,1.0,serving,930.6,62.34,15.28,52.34,20.22,165.0,2224.2,4.29,785.4,52.07,,,,,,,,,Unknown
-bananas,,,,,,,,,,,,,,,,,,,,,47.0,120g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-barley,485.0,50.38,9.120000000000001,1.158,,Diabetic-Friendly Foods,BARLEY,FABI-SAA,Other Grains & Seeds,,1.77,,,,,,,,,,22.0,150g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-basil,185.0,14.280000000000001,35.7,21.16,,Diabetic-Friendly Foods,BASIL,CORA,Herbs & Spices,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-basmati rice,,,,,,,,,,,,,,,,,,,,,52.0,150g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-beach bell beer (12 oz),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Taco Bell,12.0,oz,31.92,7.64,5.0,0.23,0.03,0.0,2.28,1.37,189.24,1.05,,,,,,,,,Unknown
-beach bell beer (16 oz),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Taco Bell,16.0,oz,31.92,7.64,5.0,0.23,0.03,0.0,2.28,1.37,189.24,1.05,,,,,,,,,Unknown
-bean crunchy taco,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Taco Bell Canada,1.0,Taco,155.94,13.7,0.62,8.76,3.02,19.32,273.93,2.69,144.21,6.11,,,,,,,,,Unknown
-bell peppers,18.0,5.888,1.0677999999999999,0.1018,,Diabetic-Friendly Foods,BELL PEPPERS,PERO FAMILY FARMS,Pre-Packaged Fruit & Vegetables,,1.18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-bell tower cerveza (12 oz),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Taco Bell,12.0,oz,50.22,11.76,,0.39,0.06,0.0,3.72,1.67,394.32,1.86,,,,,,,,,Unknown
-bell tower cerveza (16 oz),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Taco Bell,16.0,oz,50.22,11.76,,0.39,0.06,0.0,3.72,1.67,394.32,1.86,,,,,,,,,Unknown
-big breakfast,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,McDonald's,1.0,Serving,345.84,68.62,11.04,1.73,0.47,0.0,552.82,2.1,140.17,13.83,,,,,,,,,Unknown
-big fish,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Burger King,1.0,serving,562.83,43.98,8.69,32.76,8.33,78.84,1007.4,3.5,396.39,25.89,,,,,,,,,Unknown
-big mac,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,McDonald's,1.0,Serving,562.83,43.98,8.69,32.76,8.33,78.84,1007.4,3.5,396.39,25.89,,,,,,,,,Unknown
-black beans,104.4,24.419999999999998,12.040000000000001,0.0,,Diabetic-Friendly Foods,BLACK BEANS,AHOLD,Canned & Bottled Beans,,6.15,,,,,,,,,,30.0,150g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-blueberries,54.2,12.1,2.9,0.71,,Diabetic-Friendly Foods,BLUEBERRIES,PARADE,Frozen Fruit & Fruit Juice Concentrates,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-blueberry muffin,,,,,,,,,,,,,,,,,,,,,50.0,60g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-bran cereal,,,,,,,,,,,,,,,,,,,,,43.0,30g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-breakfast baconator,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wendy's,1.0,serving,157.14,30.01,,2.48,1.55,7.76,420.98,,516.04,4.56,,,,,,,,,Unknown
-broccoli,28.0,4.614,2.98,0.068,,Diabetic-Friendly Foods,BROCCOLI,GREAT VALUE,Frozen Vegetables,,2.35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-brown rice,364.8,76.9,4.84,3.0460000000000003,,Diabetic-Friendly Foods,BROWN RICE,BIG WIN,Rice,,9.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-"brown rice, steamed",,,,,,,,,,,,,,,,,,,,,50.0,50g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-brussels sprouts,47.0,8.47,3.5,0.188,,Diabetic-Friendly Foods,BRUSSELS SPROUTS,EAT SMART,Pre-Packaged Fruit & Vegetables,,3.53,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-buckwheat,622.3333333333334,61.55999999999999,7.4300000000000015,2.524,,Diabetic-Friendly Foods,Buckwheat,LIOR,Cereal Grains and Pasta,,13.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-bulgur,522.0,53.9,9.4,1.2280000000000002,,Diabetic-Friendly Foods,BULGUR,MEIJER,Other Grains & Seeds,,12.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-"bulgur wheat, whole, cooked",,,,,,,,,,,,,,,,,,,,,46.0,150g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-butter beans,,,,,,,,,,,,,,,,,,,,,36.0,150g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-"cake, pound",,,,,,,,,,,,,,,,,,,,,38.0,50g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-"cappuccino, large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,McDonald's,1.0,Serving,119.7,11.97,11.57,4.64,2.93,18.3,115.8,0.0,388.33,7.62,,,,,,,,,Unknown
-"cappuccino, medium",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,McDonald's,1.0,Serving,19.32,3.25,3.11,0.51,0.29,1.52,8.05,0.0,32.25,0.49,,,,,,,,,Unknown
-"cappuccino, small",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,McDonald's,1.0,Serving,19.32,3.25,3.11,0.51,0.29,1.52,8.05,0.0,32.25,0.49,,,,,,,,,Unknown
-carrot juice,,,,,,,,,,,,,,,,,,,,,43.0,250g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-"carrots, raw",,,,,,,,,,,,,,,,,,,,,35.0,80g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-cashews,,,,,,,,,,,,,,,,,,,,,25.0,50g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-"catering, chick-fil-a chicken sandwich",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Chick-fil-A,1.0,Serving,465.63,39.06,6.81,20.93,3.97,65.45,1408.11,2.62,458.15,30.44,,,,,,,,,Unknown
-cauliflower,80.4,13.059999999999999,6.92,0.118,,Diabetic-Friendly Foods,CAULIFLOWER,TOPS,Frozen Vegetables,,12.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-cheese fries,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wendy's,1.0,serving,281.28,8.63,0.28,21.44,11.69,59.25,392.34,0.43,155.44,13.48,,,,,,,,,Unknown
-cheeseburger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,McDonald's,1.0,Serving,535.31,39.24,7.16,28.66,14.0,95.52,1176.09,2.39,443.77,30.27,,,,,,,,,Unknown
-cherries,264.0,58.04,1.92,0.04,,Diabetic-Friendly Foods,CHERRIES,DELL'S MARASCHINO CHERRIES,Baking Decorations & Dessert Toppings,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-chia seeds,493.0,44.7,36.1,31.160000000000004,,Diabetic-Friendly Foods,CHIA SEEDS,HARRIS TEETER,Other Grains & Seeds,,17.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-chick-fil-a breakfast filet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Chick-fil-A,1.0,Serving,161.7,0.0,0.0,3.5,0.99,83.3,72.52,0.0,250.88,30.4,,,,,,,,,Unknown
-"chick-fil-a chick-n-minis, 10 ct",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Chick-fil-A,1.0,Serving,396.0,40.34,3.46,19.71,7.54,31.68,1145.76,1.85,271.92,15.75,,,,,,,,,Unknown
-chick-fil-a chicken biscuit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Chick-fil-A,1.0,Serving,396.0,40.34,3.46,19.71,7.54,31.68,1145.76,1.85,271.92,15.75,,,,,,,,,Unknown
-chick-fil-a chicken sandwich,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Chick-fil-A,1.0,Serving,465.63,39.06,6.81,20.93,3.97,65.45,1408.11,2.62,458.15,30.44,,,,,,,,,Unknown
-chick-fil-a cool wrap,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Chick-fil-A,1.0,Serving,747.68,46.02,1.94,40.35,12.55,125.72,1055.49,5.43,770.26,48.63,,,,,,,,,Unknown
-chick-fil-a filet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Chick-fil-A,1.0,Serving,161.7,0.0,0.0,3.5,0.99,83.3,72.52,0.0,250.88,30.4,,,,,,,,,Unknown
-chick-fil-a icedream cone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Chick-fil-A,1.0,Serving,274.11,35.08,26.54,12.81,7.73,49.72,120.2,0.96,239.37,4.75,,,,,,,,,Unknown
-chick-fil-a icedream cup,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Chick-fil-A,1.0,Serving,168.03,7.95,2.9,6.15,1.06,48.19,352.44,2.56,430.08,20.0,,,,,,,,,Unknown
-"chick-fil-a lemonade, gallon",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Chick-fil-A,1.0,Serving,482.04,77.05,56.11,18.07,2.92,46.5,407.95,0.56,120.19,3.4,,,,,,,,,Unknown
-"chick-fil-a lemonade, large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Chick-fil-A,1.0,Serving,98.8,25.74,24.65,0.1,0.01,0.0,9.88,0.0,37.05,0.17,,,,,,,,,Unknown
-"chick-fil-a lemonade, medium",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Chick-fil-A,1.0,Serving,67.68,17.56,17.05,0.19,0.03,0.0,9.18,0.07,26.46,0.0,,,,,,,,,Unknown
-"chick-fil-a lemonade, small",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Chick-fil-A,1.0,Serving,98.8,25.74,24.65,0.1,0.01,0.0,9.88,0.0,37.05,0.17,,,,,,,,,Unknown
-chick-fil-a sauce,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Chick-fil-A,1.0,Serving,161.7,0.0,0.0,3.5,0.99,83.3,72.52,0.0,250.88,30.4,,,,,,,,,Unknown
-chicken breast,123.6,2.4259999999999997,0.26,4.954,,Diabetic-Friendly Foods,CHICKEN BREAST,GIANT EAGLE,"Poultry, Chicken & Turkey",,20.4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-chicken jr.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Burger King,1.0,serving,187.0,0.04,,11.11,3.11,79.9,60.35,0.0,173.4,20.37,,,,,,,,,Unknown
-chickpeas,111.4,19.575,5.880000000000001,1.436,,Diabetic-Friendly Foods,CHICKPEAS,LOWES FOODS,Canned & Bottled Beans,,8.0,,,,,,,,,,36.0,150g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-chili,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wendy's,1.0,can,566.4,29.28,5.28,34.08,10.82,100.8,1972.8,2.4,888.0,36.14,,,,,,,,,Unknown
-"chili, large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wendy's,1.0,serving,71.5,0.36,0.19,4.76,1.56,186.0,71.0,0.0,69.0,6.28,,,,,,,,,Unknown
-chocolate milk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wendy's,1.0,serving,207.5,25.85,23.85,8.48,5.26,30.0,150.0,2.0,417.5,7.93,,,,,,,,,Unknown
-chocolate shake,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Burger King,1.0,serving,540.74,96.11,94.74,12.27,7.64,49.98,504.38,1.36,1017.86,13.86,,,,,,,,,Unknown
-cinnamon,32.0,13.34,0.0,0.0,,Diabetic-Friendly Foods,CINNAMON,ROUNDY'S,Herbs & Spices,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-classic melt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Burger King,1.0,serving,805.45,7.18,3.5,77.56,22.46,96.96,3060.17,1.03,303.67,22.58,,,,,,,,,Unknown
-cobb salad with chick-fil-a filet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Chick-fil-A,1.0,Serving,161.7,0.0,0.0,3.5,0.99,83.3,72.52,0.0,250.88,30.4,,,,,,,,,Unknown
-coconut oil,875.4,0.0,0.0,98.66,,Diabetic-Friendly Foods,COCONUT OIL,HARVEST FARMS,Vegetable & Cooking Oils,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-cod,876.6,1.058,0.15,20.96,,Diabetic-Friendly Foods,COD,MOREY'S,Frozen Fish & Seafood,,12.4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-corn chips,,,,,,,,,,,,,,,,,,,,,42.0,50g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-"corn, sweet",,,,,,,,,,,,,,,,,,,,,55.0,80g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-cottage cheese,91.4,4.3740000000000006,0.0,3.094,,Diabetic-Friendly Foods,COTTAGE CHEESE,DARIGOLD,Cheese,,11.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-crunchy taco,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Taco Bell,1.0,Taco,155.94,13.7,0.62,8.76,3.02,19.32,273.93,2.69,144.21,6.11,,,,,,,,,Unknown
-crunchy taco supreme,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Taco Bell,1.0,Taco,63.31,8.44,0.2,2.9,0.94,0.0,43.09,0.89,30.72,0.85,,,,,,,,,Unknown
-cucumber,30.0,2.598,0.85,0.2156,,Diabetic-Friendly Foods,"Cucumber, peeled, raw",,Vegetables and Vegetable Products,,0.59,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-dark chocolate,539.6666666666666,46.5,8.933333333333334,39.6,,Diabetic-Friendly Foods,DARK CHOCOLATE,CIRCLE K,"Popcorn, Peanuts, Seeds & Related Snacks",,13.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-dasani water,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,McDonald's,1.0,Serving,0.42,0.14,0.04,0.0,0.0,0.0,19.54,0.02,2.72,0.01,,,,,,,,,Unknown
-dave's double,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wendy's,1.0,serving,342.89,40.94,5.29,16.83,7.32,0.0,447.32,4.86,224.07,8.74,,,,,,,,,Unknown
-dave's single,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wendy's,1.0,serving,65.52,1.85,1.3,4.85,2.8,16.38,274.89,0.0,59.43,3.6,,,,,,,,,Unknown
-dave's triple,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wendy's,1.0,serving,771.9,40.24,8.19,47.73,19.96,156.87,1586.13,1.25,572.7,45.32,,,,,,,,,Unknown
-deluxe mccrispy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,McDonald's,1.0,Serving,530.0,,,,,,,,,,,,,,,,,,Unknown
-double cheeseburger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,McDonald's,1.0,Serving,761.6,40.4,9.77,45.42,18.12,159.6,1344.0,2.8,677.6,47.49,,,,,,,,,Unknown
-double stack,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wendy's,1.0,serving,342.89,40.94,5.29,16.83,7.32,0.0,447.32,4.86,224.07,8.74,,,,,,,,,Unknown
-double stacked taco,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Taco Bell,1.0,Taco,337.35,53.76,31.93,11.14,6.07,28.78,246.73,1.33,212.49,6.88,,,,,,,,,Unknown
-double whopper,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Burger King,1.0,serving,194.18,22.67,19.4,11.16,6.04,8.74,32.68,1.25,140.6,2.9,,,,,,,,,Unknown
-edamame,119.4,10.267999999999999,4.7,4.62,,Diabetic-Friendly Foods,EDAMAME,GREAT VALUE,Frozen Vegetables,,11.8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-egg blt mcmuffin with shredded lettuce (mcdonald's in walmart),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,McDonald's Canada,1.0,Serving,7.99,1.55,0.56,0.14,0.02,0.0,3.76,0.99,116.09,0.58,,,,,,,,,Unknown
-eggs,140.4,0.0,0.0,9.508,,Diabetic-Friendly Foods,EGGS,OAKDELL EGG,Eggs & Egg Substitutes,,12.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-farro,263.4,53.779999999999994,5.12,1.085,,Diabetic-Friendly Foods,FARRO,SIMPLY BALANCED,Other Grains & Seeds,,3.33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-flax seeds,487.6,29.580000000000002,27.439999999999998,40.54,,Diabetic-Friendly Foods,FLAX SEEDS,FAIRWAY,Other Grains & Seeds,,20.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-fries bell grande,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Taco Bell UK,1.0,Order,31.92,7.64,5.0,0.23,0.03,0.0,2.28,1.37,189.24,1.05,,,,,,,,,Unknown
-fruit cocktail,,,,,,,,,,,,,,,,,,,,,55.0,120g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-ginger,458.25,22.349999999999998,5.366666666666667,1.2475,,Diabetic-Friendly Foods,GINGER,SUGAR 'N SPICE,Herbs & Spices,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-grapefruit,66.8,10.268,1.4,0.02,,Diabetic-Friendly Foods,GRAPEFRUIT,WEGMANS ORGANIC,Pre-Packaged Fruit & Vegetables,,0.77,,,,,,,,,,25.0,120g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-grapes,,,,,,,,,,,,,,,,,,,,,43.0,120g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-greek yogurt,167.4,21.824,0.8,5.8100000000000005,,Diabetic-Friendly Foods,GREEK YOGURT,OCEAN SPRAY,"Popcorn, Peanuts, Seeds & Related Snacks",,3.33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-green beans,27.0,5.8839999999999995,2.1399999999999997,0.0,,Diabetic-Friendly Foods,GREEN BEANS,FREEDOM'S CHOICE,Canned Vegetables,,0.83,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-hamburger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,McDonald's,1.0,Serving,540.14,40.27,,26.56,10.52,122.04,791.0,,569.52,34.28,,,,,,,,,Unknown
-hard-boiled eggs,145.2,0.22799999999999998,0.0,9.534,,Diabetic-Friendly Foods,HARD-BOILED EGGS,ARCHER FARMS,Eggs & Egg Substitutes,,12.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-honey,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,McDonald's,1.0,Serving,63.84,17.3,17.25,0.0,0.0,0.0,0.84,0.04,10.92,0.06,,,,,,,,,Unknown
-hotcakes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,McDonald's,1.0,Serving,90.8,11.32,,3.88,0.85,23.6,175.6,,52.8,2.56,,,,,,,,,Unknown
-hummus,235.4,17.16,4.9799999999999995,17.119999999999997,,Diabetic-Friendly Foods,HUMMUS,HAFLA,Dips & Salsa,,7.14,,,,,,,,,,6.0,30g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-"ice cream, full-fat, french vanilla",,,,,,,,,,,,,,,,,,,,,38.0,50g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-"ice cream, low-fat, vanilla, “light”",,,,,,,,,,,,,,,,,,,,,46.0,50g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-impossible whopper,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Burger King,1.0,serving,194.18,22.67,19.4,11.16,6.04,8.74,32.68,1.25,140.6,2.9,,,,,,,,,Unknown
-instant noodles,,,,,,,,,,,,,,,,,,,,,52.0,180g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-instant oatmeal,,,,,,,,,,,,,,,,,,,,,50.0,25 g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-jr. cheeseburger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wendy's,1.0,serving,535.31,39.24,7.16,28.66,14.0,95.52,1176.09,2.39,443.77,30.27,,,,,,,,,Unknown
-jr. hamburger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wendy's,1.0,serving,355.95,35.3,5.05,16.6,3.05,9.3,719.36,5.25,434.23,16.24,,,,,,,,,Unknown
-kale,69.6,7.366,2.94,1.238,,Diabetic-Friendly Foods,KALE,CUT 'N CLEAN,Pre-Packaged Fruit & Vegetables,,3.54,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-kalua pork nachos bellgrande (regional),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Taco Bell,1.0,Order,150.44,9.54,0.43,7.95,2.3,40.87,386.4,0.62,138.84,9.63,,,,,,,,,Unknown
-kidney beans,86.4,15.079999999999998,5.88,0.076,,Diabetic-Friendly Foods,KIDNEY BEANS,JACK'S QUALITY,Canned & Bottled Beans,,7.69,,,,,,,,,,29.0,150g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-"kidney beans, canned",,,,,,,,,,,,,,,,,,,,,52.0,150g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-kiwi,167.5,32.2,2.175,0.34,,Diabetic-Friendly Foods,KIWI,MIGHTIES,Pre-Packaged Fruit & Vegetables,,1.35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-large sprite,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Burger King,1.0,serving,480.48,63.82,0.46,22.68,3.6,0.0,323.4,5.85,891.66,5.28,,,,,,,,,Unknown
-lentils,233.0,50.18,15.4,0.702,,Diabetic-Friendly Foods,LENTILS,STATER BROS.,Vegetable and Lentil Mixes,,22.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-"lentils, canned",,,,,,,,,,,,,,,,,,,,,42.0,150g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-"lima beans, baby, frozen",,,,,,,,,,,,,,,,,,,,,32.0,150g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-mangoes,,,,,,,,,,,,,,,,,,,,,51.0,120g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-maple pepper bacon sandwich with chick-fil-a filet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Chick-fil-A,1.0,Serving,377.88,35.36,4.92,19.62,3.8,42.88,581.56,1.88,294.8,15.09,,,,,,,,,Unknown
-market salad with chick-fil-a filet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Chick-fil-A,1.0,Serving,199.23,6.99,,11.6,2.86,61.77,243.6,0.61,295.8,15.74,,,,,,,,,Unknown
-mcchicken,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,McDonald's,1.0,Serving,193.28,9.66,0.05,12.68,2.09,28.16,362.24,,161.28,10.11,,,,,,,,,Unknown
-mccrispy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,McDonald's,1.0,Serving,470.0,,,,,,,,,,,,,,,,,,Unknown
-mcdouble,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,McDonald's,1.0,Serving,391.64,38.51,8.68,17.48,7.22,52.34,878.77,2.23,303.71,20.09,,,,,,,,,Unknown
-medium sprite,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Burger King,1.0,serving,197.7,25.67,25.58,0.0,0.0,0.0,25.06,0.0,2.88,0.22,,,,,,,,,Unknown
-mild sauce,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Taco Bell,1.0,tsp,6.3,0.66,0.66,0.0,0.0,0.0,1413.18,0.0,51.84,0.91,,,,,,,,,Unknown
-milk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wendy's,1.0,serving,122.0,11.71,12.35,4.83,3.07,19.52,114.68,0.0,341.6,8.05,,,,,,,,,Unknown
-mixed grain bread,,,,,,,,,,,,,,,,,,,,,52.0,30g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-mixed nuts,619.4,19.04,8.52,55.96,,Diabetic-Friendly Foods,MIXED NUTS,DIAMOND OF CALIFORNIA,"Popcorn, Peanuts, Seeds & Related Snacks",,16.7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-motts applesauce,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Burger King,1.0,serving,75.48,19.41,16.28,0.19,0.03,0.0,2.22,1.33,83.25,0.18,,,,,,,,,Unknown
-mozzarella cheese,292.8,3.678,0.0,20.06,,Diabetic-Friendly Foods,MOZZARELLA CHEESE,LAURA LYNN,Cheese,,25.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-nachos bell grande,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Taco Bell UK,1.0,Order,57.26,2.52,0.65,4.16,2.53,13.14,232.73,0.03,55.26,2.48,,,,,,,,,Unknown
-nachos bellgrande - beef,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Taco Bell,1.0,Order,1233.77,26.46,10.07,96.18,39.27,282.47,1744.25,4.0,1257.22,67.11,,,,,,,,,Unknown
-nachos bellgrande - chicken,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Taco Bell,1.0,Order,1313.69,106.94,3.78,66.21,22.58,192.56,2827.83,8.25,920.74,74.96,,,,,,,,,Unknown
-nachos bellgrande - steak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Taco Bell,1.0,Order,1242.48,26.46,10.07,97.76,40.31,294.07,1687.74,4.0,1164.48,65.89,,,,,,,,,Unknown
-oat bran bread,,,,,,,,,,,,,,,,,,,,,44.0,30g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-oatmeal cookies,,,,,,,,,,,,,,,,,,,,,54.0,25g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-oats,738.2,45.62,5.62,23.619999999999997,,Diabetic-Friendly Foods,OATS,ROLLINI' OATS,Cereal,,12.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-olive oil,739.2,1.428,0.0,83.22,,Diabetic-Friendly Foods,OLIVE OIL,GOYA,Vegetable & Cooking Oils,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-oranges,105.8,26.560000000000002,1.7,0.48999999999999994,,Diabetic-Friendly Foods,ORANGES,LONE STAR,Pre-Packaged Fruit & Vegetables,,0.65,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-"oranges, raw",,,,,,,,,,,,,,,,,,,,,48.0,120g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-oregano,0.0,0.0,0.0,0.0,,Diabetic-Friendly Foods,OREGANO,SUGAR 'N SPICE,Herbs & Spices,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-pancake platter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Burger King,1.0,serving,1080.65,95.65,8.59,55.52,16.97,140.9,1283.4,8.31,1570.14,47.97,,,,,,,,,Unknown
-parsley,0.0,0.0,0.0,0.0,,Diabetic-Friendly Foods,PARSLEY,CUB,Herbs & Spices,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-"parsnips, peeled boiled",,,,,,,,,,,,,,,,,,,,,52.0,80g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-peaches,172.8,41.538,4.9799999999999995,0.068,,Diabetic-Friendly Foods,PEACHES,NUTT,Wholesome Snacks,,2.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-"peaches, canned in light syrup",,,,,,,,,,,,,,,,,,,,,52.0,120g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-pears,152.0,24.18,5.08,0.074,,Diabetic-Friendly Foods,PEARS,ROBINSON FRESH,Pre-Packaged Fruit & Vegetables,,0.6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-philly melt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Burger King,1.0,serving,390.88,54.89,8.52,13.53,6.31,35.15,1114.8,0.51,203.02,11.0,,,,,,,,,Unknown
-pineapple,,,,,,,,,,,,,,,,,,,,,51.0,120g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-pinto beans,119.2,26.025,6.38,0.154,,Diabetic-Friendly Foods,PINTO BEANS,KROGER,Canned & Bottled Beans,,4.62,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-plums,199.0,23.6,3.283333333333333,0.4944,,Diabetic-Friendly Foods,"Plums, raw",,Fruits and Fruit Juices,,0.7,,,,,,,,,,53.0,120g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-popcorn,349.0,68.06,9.2,6.142,,Diabetic-Friendly Foods,POPCORN,RALEY'S,"Popcorn, Peanuts, Seeds & Related Snacks",,11.8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-"potato, white, boiled",,,,,,,,,,,,,,,,,,,,,54.0,150g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-pretzel baconator,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wendy's,1.0,serving,930.6,62.34,15.28,52.34,20.22,165.0,2224.2,4.29,785.4,52.07,,,,,,,,,Unknown
-pumpkin seeds,537.6,17.84,12.52,44.339999999999996,,Diabetic-Friendly Foods,PUMPKIN SEEDS,VALUED NATURALS,"Popcorn, Peanuts, Seeds & Related Snacks",,23.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-quinoa,306.4,58.48,6.359999999999999,4.965999999999999,,Diabetic-Friendly Foods,QUINOA,EASY QUINOA,Frozen Dinners & Entrees,,2.86,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-raspberries,64.0,14.62,5.540000000000001,0.49799999999999994,,Diabetic-Friendly Foods,RASPBERRIES,AHOLD,Frozen Fruit & Fruit Juice Concentrates,,1.43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-ricotta cheese,121.2,6.266,0.32,4.646,,Diabetic-Friendly Foods,RICOTTA CHEESE,B-L,Cheese,,11.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-rodeo burger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Burger King,1.0,serving,540.14,40.27,,26.56,10.52,122.04,791.0,,569.52,34.28,,,,,,,,,Unknown
-rodeo cheeseburger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Burger King,1.0,serving,595.02,39.86,9.77,33.46,12.93,105.5,1422.14,2.74,502.18,33.3,,,,,,,,,Unknown
-"rye flour bread, 50%  rye flour, 50% wheat flour",,,,,,,,,,,,,,,,,,,,,50.0,30g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-rye kernel bread,,,,,,,,,,,,,,,,,,,,,41.0,30 g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-salmon,911.4,0.8939999999999999,0.13999999999999999,29.689999999999998,,Diabetic-Friendly Foods,SALMON,SEA CUISINE,Fish & Seafood,,19.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-sauce,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Chick-fil-A,2.0,Tbsp,66.0,9.81,6.48,2.13,0.29,2.64,576.84,2.38,422.4,1.83,,,,,,,,,Unknown
-sausage biscuit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wendy's,1.0,serving,411.81,33.29,1.76,27.11,8.24,31.08,903.54,0.44,169.83,10.73,,,,,,,,,Unknown
-"seasoning mix, original taco",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Taco Bell,2.0,tsp,37.65,5.26,4.96,2.03,0.4,0.0,10.05,0.17,14.4,0.1,,,,,,,,,Unknown
-skim milk,,,,,,,,,,,,,,,,,,,,,32.0,250g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-snickers,,,,,,,,,,,,,,,,,,,,,43.0,60g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-soft taco - beef,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Taco Bell,1.0,Taco,130.0,22.24,,2.84,0.7,0.0,191.2,1.32,52.4,3.48,,,,,,,,,Unknown
-soft taco - chicken,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Taco Bell,1.0,Taco,130.0,22.24,,2.84,0.7,0.0,191.2,1.32,52.4,3.48,,,,,,,,,Unknown
-soy milk,,,,,,,,,,,,,,,,,,,,,43.0,250g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-spicy southwest salad with chick-fil-a filet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Chick-fil-A,1.0,Serving,491.43,42.3,7.21,19.4,4.72,86.82,681.87,10.11,778.3,38.53,,,,,,,,,Unknown
-spinach,21.8,3.07,1.8199999999999998,0.0,,Diabetic-Friendly Foods,SPINACH,AHOLD,Pre-Packaged Fruit & Vegetables,,3.53,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-"split peas, yellow, boiled",,,,,,,,,,,,,,,,,,,,,25.0,150g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-sponge cake,,,,,,,,,,,,,,,,,,,,,46.0,63g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-"sprite, large",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wendy's,1.0,serving,151.29,38.45,38.3,0.0,0.0,0.0,36.9,0.0,3.69,0.33,,,,,,,,,Unknown
-"sprite, medium",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wendy's,1.0,serving,151.29,38.45,38.3,0.0,0.0,0.0,36.9,0.0,3.69,0.33,,,,,,,,,Unknown
-"sprite, small",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wendy's,1.0,serving,83.28,21.03,18.78,0.32,0.09,0.0,41.64,1.85,527.44,1.25,,,,,,,,,Unknown
-strawberries,35.25,8.747499999999999,1.725,0.078,,Diabetic-Friendly Foods,STRAWBERRIES,NEW SEASONS,Frozen Fruit & Fruit Juice Concentrates,,0.71,,,,,,,,,,40.0,120g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-strawberry jam,,,,,,,,,,,,,,,,,,,,,51.0,30g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-sunflower seeds,441.4,17.6,8.14,37.38,,Diabetic-Friendly Foods,SUNFLOWER SEEDS,WILD DUTCHMAN,"Popcorn, Peanuts, Seeds & Related Snacks",,11.7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-sushi,,,,,,,,,,,,,,,,,,,,,55.0,100g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-sweet potatoes,83.6,20.02,2.96,0.0,,Diabetic-Friendly Foods,SWEET POTATOES,RALEY'S,Pre-Packaged Fruit & Vegetables,,1.18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-"taco shells, bell essentials, crunchy",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Taco Bell,3.0,taco shells,158.01,13.7,0.62,8.76,3.02,19.32,273.93,2.69,144.21,6.11,,,,,,,,,Unknown
-taco tuesday - crunchy beef taco,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Taco Bell UK,1.0,serving,158.01,13.7,0.62,8.76,3.02,19.32,273.93,2.69,144.21,6.11,,,,,,,,,Unknown
-tempeh,431.8,12.516,6.3,8.004000000000001,,Diabetic-Friendly Foods,Tempeh,LIGHTLIFE,Legumes and Legume Products,,20.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-tofu,79.75,1.745,0.8999999999999999,4.3725000000000005,,Diabetic-Friendly Foods,TOFU,ALOHA TOFU,Other Meats,,9.41,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-tomato soup,,,,,,,,,,,,,,,,,,,,,38.0,250 g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-turkey breast,99.4,1.786,0.0,1.268,,Diabetic-Friendly Foods,TURKEY BREAST,DIESTEL,"Pepperoni, Salami & Cold Cuts",,28.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-turmeric,0.0,75.0,15.6,0.0,,Diabetic-Friendly Foods,TURMERIC,LA FLOR,Herbs & Spices,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-unsweetened almond milk,130.0,3.3176,0.1,1.492,,Diabetic-Friendly Foods,"Almond milk, unsweetened, plain, refrigerated",,Beverages,,0.656,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-unsweetened soy milk,193.0,3.8862,0.06,1.722,,Diabetic-Friendly Foods,"Soy milk, unsweetened, plain, shelf stable",,Legumes and Legume Products,,3.55,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-vinegar,13.4,1.334,0.0,0.0,,Diabetic-Friendly Foods,VINEGAR,RALEY'S,Other Cooking Sauces,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-walnuts,657.6,14.459999999999999,6.14,64.32000000000001,,Diabetic-Friendly Foods,WALNUTS,PUBLIX,"Popcorn, Peanuts, Seeds & Related Snacks",,14.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-"water crackers, whole grain, sesame seeds",,,,,,,,,,,,,,,,,,,,,53.0,25g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-"white rice, boiled",,,,,,,,,,,,,,,,,,,,,47.0,150g,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-whole wheat pasta,912.8,65.1,9.76,4.582,,Diabetic-Friendly Foods,WHOLE WHEAT PASTA,DELALLO,Pasta by Shape & Type,,10.7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
-whopper,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Burger King,1.0,serving,194.18,22.67,19.4,11.16,6.04,8.74,32.68,1.25,140.6,2.9,,,,,,,,,Unknown
-zucchini,61.75,4.32,0.988,0.20700000000000002,,Diabetic-Friendly Foods,ZUCCHINI,FRESH FROM THE FARM,Pre-Packaged Fruit & Vegetables,,1.05,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown
+food_name,calories_x,carbohydrates_x,fiber_x,fats_x,glycemic_index,category,description,brand,food_category,sugars_x,proteins_x,serving_weight,restaurant_name,serving_size,serving_unit,calories_y,carbohydrates_y,sugars_y,fats_y,saturated_fats,cholesterol,sodium,fiber_y,potassium,proteins_y,calories_per_100g,carbs_per_100g,fats_per_100g,gi_category
+#1 whataburger,,,,,,,,,,,,,Whataburger,1.0,Serving,184.62,22.29,22.2,4.25,2.76,21.34,196.12,0.0,708.41,14.46,,,,Unknown
+#2 double meat whataburger,,,,,,,,,,,,,Whataburger,1.0,Serving,354.0,28.92,4.98,17.23,6.12,56.4,496.8,1.08,271.2,20.5,,,,Unknown
+#3 triple meat whataburger,,,,,,,,,,,,,Whataburger,1.0,Serving,771.9,40.24,8.19,47.73,19.96,156.87,1586.13,1.25,572.7,45.32,,,,Unknown
+#4 jalapeno & cheese whataburger,,,,,,,,,,,,,Whataburger,1.0,Serving,543.53,41.09,8.33,28.76,14.02,95.52,1176.94,3.18,514.08,30.53,,,,Unknown
+#5 bacon & cheese whataburger,,,,,,,,,,,,,Whataburger,1.0,Serving,595.02,39.86,9.77,33.46,12.93,105.5,1422.14,2.74,502.18,33.3,,,,Unknown
+#7 whataburger jr.,,,,,,,,,,,,,Whataburger,1.0,Serving,62.04,4.63,1.01,4.09,1.61,7.57,255.86,1.5,142.82,2.14,,,,Unknown
+#8 double meat whataburger jr.,,,,,,,,,,,,,Whataburger,1.0,Serving,354.0,28.92,4.98,17.23,6.12,56.4,496.8,1.08,271.2,20.5,,,,Unknown
+2% milk,,,,,,,,,,,,,The Old Spaghetti Factory,1.0,Serving,122.0,11.71,12.35,4.83,3.07,19.52,114.68,0.0,341.6,8.05,,,,Unknown
+3 chicken tenders,,,,,,,,,,,,,Smashburger,1.0,Serving,111.74,7.14,0.09,6.15,1.09,17.02,296.0,0.33,119.88,6.99,,,,Unknown
+359. ihop,,,,,,,,,,,,,Ike's Love & Sandwiches,1.0,Sandwich,1400.0,,,,,,,,,,,,,Unknown
+5 chicken tenders,,,,,,,,,,,,,Smashburger,1.0,Serving,111.74,7.14,0.09,6.15,1.09,17.02,296.0,0.33,119.88,6.99,,,,Unknown
+55+ blt,,,,,,,,,,,,,IHOP,1.0,Serving,761.16,7.49,4.5,74.03,18.85,104.95,1534.27,1.04,472.19,16.55,,,,Unknown
+6 inch #11 subway club,,,,,,,,,,,,,Subway,1.0,Serving,1411.81,245.11,5.0,30.52,4.27,0.0,2377.19,10.05,392.52,34.71,,,,Unknown
+"7up (with ice), large",,,,,,,,,,,,,In-N-Out Burger,22.0,oz.,399.84,58.22,41.96,16.93,10.22,92.61,145.53,0.56,54.77,4.19,,,,Unknown
+"7up (with ice), medium",,,,,,,,,,,,,In-N-Out Burger,15.0,oz.,399.84,58.22,41.96,16.93,10.22,92.61,145.53,0.56,54.77,4.19,,,,Unknown
+"7up (with ice), small",,,,,,,,,,,,,In-N-Out Burger,11.0,oz.,221.52,29.42,0.21,10.46,1.66,0.0,149.1,2.7,411.09,2.44,,,,Unknown
+"7up (with ice), x-large",,,,,,,,,,,,,In-N-Out Burger,29.0,oz.,399.84,58.22,41.96,16.93,10.22,92.61,145.53,0.56,54.77,4.19,,,,Unknown
+"7up (without ice), large",,,,,,,,,,,,,In-N-Out Burger,30.0,oz.,399.84,58.22,41.96,16.93,10.22,92.61,145.53,0.56,54.77,4.19,,,,Unknown
+"7up (without ice), medium",,,,,,,,,,,,,In-N-Out Burger,20.0,oz.,171.38,24.5,1.07,6.42,0.94,0.0,277.83,1.28,94.64,3.63,,,,Unknown
+"7up (without ice), small",,,,,,,,,,,,,In-N-Out Burger,14.0,oz.,221.52,29.42,0.21,10.46,1.66,0.0,149.1,2.7,411.09,2.44,,,,Unknown
+"7up (without ice), x-large",,,,,,,,,,,,,In-N-Out Burger,42.0,oz.,399.84,58.22,41.96,16.93,10.22,92.61,145.53,0.56,54.77,4.19,,,,Unknown
+add cadi,,,,,,,,,,,,,Chili's,1.0,Serving,3.36,0.91,0.8,0.0,0.0,0.0,0.0,0.0,0.04,0.0,,,,Unknown
+add guacamole,,,,,,,,,,,,,Chili's,1.0,Serving,45.26,2.55,0.16,4.09,0.56,0.0,127.42,1.84,139.74,0.55,,,,Unknown
+add shrimp,,,,,,,,,,,,,Chili's,1.0,Serving,5.95,0.08,0.0,0.09,0.03,10.55,47.35,0.0,8.5,1.14,,,,Unknown
+"airport locations, outback breakfast",,,,,,,,,,,,,Outback Steakhouse,1.0,Serving,210.67,28.13,1.48,5.36,2.66,14.44,570.34,1.54,181.88,11.55,,,,Unknown
+almonds,594.8,18.119999999999997,11.9,51.9,,Diabetic-Friendly Foods,ALMONDS,HARVEST FRESH,"Popcorn, Peanuts, Seeds & Related Snacks",,23.3,,,,,,,,,,,,,,,,,,Unknown
+amaretto sour,,,,,,,,,,,,,Olive Garden,1.0,serving,227.69,34.48,33.07,0.2,0.06,0.0,7.47,0.1,43.95,0.16,,,,Unknown
+american,,,,,,,,,,,,,Subway,1.0,Serving,8.88,1.65,0.0,0.18,0.09,0.0,28.81,0.0,113.47,0.12,,,,Unknown
+"americano, large",,,,,,,,,,,,,McDonald's,1.0,Serving,8.88,1.65,0.0,0.18,0.09,0.0,28.81,0.0,113.47,0.12,,,,Unknown
+"americano, medium",,,,,,,,,,,,,McDonald's,1.0,Serving,8.88,1.65,0.0,0.18,0.09,0.0,28.81,0.0,113.47,0.12,,,,Unknown
+"americano, small",,,,,,,,,,,,,McDonald's,1.0,Serving,8.88,1.65,0.0,0.18,0.09,0.0,28.81,0.0,113.47,0.12,,,,Unknown
+ancho salmon,,,,,,,,,,,,,Chili's,1.0,Serving,467.62,0.0,0.0,28.03,5.44,143.01,138.47,0.0,871.68,50.17,,,,Unknown
+appetizer sampler,,,,,,,,,,,,,IHOP,1.0,Serving,64.72,15.41,8.66,0.61,0.03,0.0,1.42,5.55,191.38,1.4,,,,Unknown
+apple,,,,,,,,,,,,,Panera Bread,1.0,Apple,94.64,25.13,18.91,0.31,0.05,0.0,1.82,4.37,194.74,0.47,,,,Unknown
+apple bites,,,,,,,,,,,,,Wendy's,1.0,serving,98.92,8.69,1.32,5.8,1.42,22.67,158.12,0.87,73.01,3.0,,,,Unknown
+apple juice,,,,,39.0,,,,,,,,Olive Garden,1.0,serving,114.08,28.02,23.86,0.32,0.05,0.0,9.92,0.5,250.48,0.25,,,,Low
+apple pie,,,,,,,,,,,,,Church's Chicken,1.0,Serving,296.25,42.5,19.56,13.75,4.75,0.0,251.25,2.0,81.25,2.38,,,,Unknown
+apple slices,,,,,,,,,,,,,McDonald's,1.0,Serving,114.08,28.02,23.86,0.32,0.05,0.0,9.92,0.5,250.48,0.25,,,,Unknown
+apples,52.8,14.180000000000001,2.7600000000000002,0.0,40.0,Diabetic-Friendly Foods,APPLES,APPLE COUNTRY,Pre-Packaged Fruit & Vegetables,,0.0,,,,,,,,,,,,,,,,,,Low
+applesauce,,,,,,,,,,,,,Subway,1.0,Serving,75.48,19.41,16.28,0.19,0.03,0.0,2.22,1.33,83.25,0.18,,,,Unknown
+"apricots, dried",,,,,32.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+"artisan ciabatta bread,",,,,,,,,,,,,,Panera Bread,57.0,gram,82.46,15.32,1.76,1.03,0.22,0.0,151.9,0.84,39.06,2.74,,,,Unknown
+asparagus,21.0,3.9199999999999995,2.3600000000000003,0.0,,Diabetic-Friendly Foods,ASPARAGUS,WEGMANS,Pre-Packaged Fruit & Vegetables,,2.35,,Chili's,1.0,Serving,16.5,3.08,0.98,0.17,0.04,0.0,10.5,1.5,168.0,1.8,,,,Unknown
+atomic boneless tenders,,,,,,,,,,,,,Wingstop,1.0,each,111.74,7.14,0.09,6.15,1.09,17.02,296.0,0.33,119.88,6.99,,,,Unknown
+atomic boneless wings,,,,,,,,,,,,,Wingstop,1.0,each,75.34,7.41,2.94,3.38,0.59,9.19,249.37,0.26,84.97,3.84,,,,Unknown
+atomic chicken sandwich,,,,,,,,,,,,,Wingstop,1.0,each,419.52,41.65,5.17,20.66,3.74,44.08,937.84,2.13,272.08,16.63,,,,Unknown
+atomic wings,,,,,,,,,,,,,Wingstop,1.0,each,98.64,0.42,0.01,8.43,2.68,33.67,146.45,0.02,46.78,5.16,,,,Unknown
+avocado,1259.5,6.662000000000001,4.775,32.1,,Diabetic-Friendly Foods,"Oil, avocado",,Fats and Oils,,0.0,,IHOP,1.0,Serving,321.6,17.15,1.33,29.47,4.27,0.0,14.07,13.47,974.85,4.02,,,,Unknown
+avocado bacon club,,,,,,,,,,,,,Smashburger,1.0,Serving,105.0,0.04,0.04,0.0,0.0,0.0,0.0,0.0,0.42,0.0,,,,Unknown
+avocado oil,813.4,0.0,,93.3,,Diabetic-Friendly Foods,AVOCADO OIL,PUBLIX,Vegetable & Cooking Oils,,0.0,,,,,,,,,,,,,,,,,,Unknown
+avocado toast,,,,,,,,,,,,,IHOP,1.0,Serving,188.97,19.89,1.81,11.42,1.64,0.0,439.08,5.39,380.54,3.84,,,,Unknown
+baby spinach,,,,,,,,,,,,,Sweetgreen,1.0,Serving,6.9,1.09,0.13,0.12,0.02,0.0,23.7,0.66,167.4,0.86,,,,Unknown
+backyard bbq salad,,,,,,,,,,,,,Noodles & Company,1.0,Serving,663.6,52.43,35.88,37.01,14.71,97.77,1676.49,7.7,1363.81,34.21,,,,Unknown
+bacon,,,,,,,,,,,,,Subway,2.0,Strips,161.46,0.59,0.0,12.11,4.13,34.16,580.98,0.0,172.16,11.7,,,,Unknown
+bacon & cheese whataburger jr.,,,,,,,,,,,,,Whataburger,1.0,Serving,595.02,39.86,9.77,33.46,12.93,105.5,1422.14,2.74,502.18,33.3,,,,Unknown
+bacon biscuit,,,,,,,,,,,,,Popeye's,1.0,Serving,396.0,40.34,3.46,19.71,7.54,31.68,1145.76,1.85,271.92,15.75,,,,Unknown
+bacon cheeseburger,,,,,,,,,,,,,Burger King,1.0,serving,595.02,39.86,9.77,33.46,12.93,105.5,1422.14,2.74,502.18,33.3,,,,Unknown
+bacon king,,,,,,,,,,,,,Burger King,1.0,serving,161.46,0.59,0.0,12.11,4.13,34.16,580.98,0.0,172.16,11.7,,,,Unknown
+"bacon mac & cheese, bread bowl",,,,,,,,,,,,,Panera Bread,1.0,Serving,850.04,69.05,2.27,45.12,24.82,130.43,870.2,3.81,504.76,41.04,,,,Unknown
+bacon macaroni & cheese,,,,,,,,,,,,,Tony Roma's,1.0,serving,850.04,69.05,2.27,45.12,24.82,130.43,870.2,3.81,504.76,41.04,,,,Unknown
+bacon melt,,,,,,,,,,,,,Burger King,1.0,serving,899.39,46.04,5.69,56.62,29.48,200.83,1406.19,5.57,762.08,49.94,,,,Unknown
+bacon smash,,,,,,,,,,,,,Smashburger,1.0,Serving,33.32,2.0,0.0,1.81,0.28,0.0,123.9,0.71,10.15,2.24,,,,Unknown
+baconator,,,,,,,,,,,,,Wendy's,1.0,serving,930.6,62.34,15.28,52.34,20.22,165.0,2224.2,4.29,785.4,52.07,,,,Unknown
+baconator fries,,,,,,,,,,,,,Wendy's,1.0,serving,930.6,62.34,15.28,52.34,20.22,165.0,2224.2,4.29,785.4,52.07,,,,Unknown
+baguette (side),,,,,,,,,,,,,Noodles & Company,1.0,Serving,881.28,168.09,14.97,7.84,1.71,0.0,1950.48,7.13,379.08,34.83,,,,Unknown
+baked potato,,,,,,,,,,,,,Tony Roma's,1.0,serving,160.89,36.59,2.04,0.22,0.06,0.0,17.3,3.81,925.55,4.33,,,,Unknown
+baked ravoili,,,,,,,,,,,,,Bertucci's,1.0,Serving,217.6,0.0,0.0,4.51,1.6,96.9,95.2,0.0,646.0,44.46,,,,Unknown
+balsamic vinaigrette,,,,,,,,,,,,,TGI Friday's,1.0,Serving,70.56,3.56,3.17,6.21,0.87,0.0,291.94,0.0,24.7,0.12,,,,Unknown
+balsamic vinegar,,,,,,,,,,,,,Sweetgreen,1.0,Serving,14.08,2.72,2.39,0.0,0.0,,3.68,,17.92,0.08,,,,Unknown
+banana,,,,,,,,,,,,,Panera Bread,1.0,Banana,105.02,26.95,14.43,0.39,0.13,0.0,1.18,3.07,422.44,1.29,,,,Unknown
+bananas,,,,,47.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+bar harbor lobster bake,,,,,,,,,,,,,Red Lobster,1.0,serving,306.47,18.29,2.09,18.58,3.01,84.12,396.15,1.53,215.52,16.27,,,,Unknown
+bar harbor lobster bake family feast,,,,,,,,,,,,,Red Lobster,1.0,order,121.55,2.65,,1.65,0.26,76.5,192.95,0.0,176.8,22.45,,,,Unknown
+barbacoa,,,,,,,,,,,,,Chipotle,4.0,oz,204.76,2.35,0.27,7.14,2.85,99.73,70.83,0.78,401.43,33.11,,,,Unknown
+barley,485.0,50.38,9.120000000000001,1.158,22.0,Diabetic-Friendly Foods,BARLEY,FABI-SAA,Other Grains & Seeds,,1.77,,,,,,,,,,,,,,,,,,Low
+"barq's root beer, 22 fl oz",,,,,,,,,,,,,Chipotle,22.0,fl oz,151.7,39.22,39.22,0.0,0.0,0.0,48.1,0.0,3.7,0.0,,,,Unknown
+"barq's root beer, 32 fl oz",,,,,,,,,,,,,Chipotle,32.0,fl oz,151.7,39.22,39.22,0.0,0.0,0.0,48.1,0.0,3.7,0.0,,,,Unknown
+basil,185.0,14.280000000000001,35.7,21.16,,Diabetic-Friendly Foods,BASIL,CORA,Herbs & Spices,,0.0,,,,,,,,,,,,,,,,,,Unknown
+basmati rice,,,,,52.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+bbq bacon cheddar,,,,,,,,,,,,,Smashburger,1.0,Serving,253.97,20.01,1.46,16.56,9.81,47.5,436.58,0.73,74.59,6.43,,,,Unknown
+bbq flavored jimmy chips,,,,,,,,,,,,,Jimmy John's Sandwiches,1.0,medium sweet potato,138.06,15.85,1.55,8.81,1.13,0.0,154.51,1.08,336.23,1.85,,,,Unknown
+bbq jimmy chips,,,,,,,,,,,,,Jimmy John's,1.0,Serving,132.96,20.24,1.42,5.16,0.75,0.0,157.06,1.36,204.4,1.42,,,,Unknown
+bbq sauce,,,,,,,,,,,,,Five Guys,1.0,Serving,58.48,13.86,11.3,0.21,0.02,0.0,349.18,0.31,78.88,0.28,,,,Unknown
+bbq wings,,,,,,,,,,,,,Smashburger,1.0,Serving,131.07,0.31,0.31,9.2,2.36,65.79,295.29,0.0,145.35,11.94,,,,Unknown
+beach bell beer (12 oz),,,,,,,,,,,,,Taco Bell,12.0,oz,31.92,7.64,5.0,0.23,0.03,0.0,2.28,1.37,189.24,1.05,,,,Unknown
+beach bell beer (16 oz),,,,,,,,,,,,,Taco Bell,16.0,oz,31.92,7.64,5.0,0.23,0.03,0.0,2.28,1.37,189.24,1.05,,,,Unknown
+bean crunchy taco,,,,,,,,,,,,,Taco Bell Canada,1.0,Taco,155.94,13.7,0.62,8.76,3.02,19.32,273.93,2.69,144.21,6.11,,,,Unknown
+beef and broccoli,,,,,,,,,,,,,Pick Up Stix,0.5,Portion,337.91,18.01,7.61,20.63,5.41,63.36,995.8,2.52,558.43,20.87,,,,Unknown
+beef chow mein,,,,,,,,,,,,,Pick Up Stix,0.5,Portion,441.97,27.43,2.67,27.37,7.07,81.15,792.82,2.42,363.28,21.51,,,,Unknown
+beef fried rice,,,,,,,,,,,,,Pick Up Stix,0.5,Portion,336.84,24.99,0.98,18.52,4.53,111.46,344.81,0.91,261.84,16.47,,,,Unknown
+"beer, 6% abv & up, half yard",,,,,,,,,,,,,Yard House,1.0,Serving,18.45,0.71,0.62,1.56,1.05,5.25,9.15,0.0,19.8,0.47,,,,Unknown
+"beer, light, half yard",,,,,,,,,,,,,Yard House,1.0,Serving,102.66,5.81,0.32,0.0,0.0,0.0,14.16,0.0,74.34,0.85,,,,Unknown
+"beer, under 6% abv, half yard",,,,,,,,,,,,,Yard House,1.0,Serving,18.45,0.71,0.62,1.56,1.05,5.25,9.15,0.0,19.8,0.47,,,,Unknown
+belgian waffle,,,,,,,,,,,,,IHOP,1.0,Serving,218.25,24.68,,10.58,2.15,51.75,383.25,,119.25,5.93,,,,Unknown
+bell peppers,18.0,5.888,1.0677999999999999,0.1018,,Diabetic-Friendly Foods,BELL PEPPERS,PERO FAMILY FARMS,Pre-Packaged Fruit & Vegetables,,1.18,,,,,,,,,,,,,,,,,,Unknown
+bell tower cerveza (12 oz),,,,,,,,,,,,,Taco Bell,12.0,oz,50.22,11.76,,0.39,0.06,0.0,3.72,1.67,394.32,1.86,,,,Unknown
+bell tower cerveza (16 oz),,,,,,,,,,,,,Taco Bell,16.0,oz,50.22,11.76,,0.39,0.06,0.0,3.72,1.67,394.32,1.86,,,,Unknown
+bertucci's sampler,,,,,,,,,,,,,Bertucci's,1.0,Serving,64.72,15.41,8.66,0.61,0.03,0.0,1.42,5.55,191.38,1.4,,,,Unknown
+big breakfast,,,,,,,,,,,,,McDonald's,1.0,Serving,345.84,68.62,11.04,1.73,0.47,0.0,552.82,2.1,140.17,13.83,,,,Unknown
+big brunch,,,,,,,,,,,,,IHOP,1.0,Serving,562.83,43.98,8.69,32.76,8.33,78.84,1007.4,3.5,396.39,25.89,,,,Unknown
+big fish,,,,,,,,,,,,,Burger King,1.0,serving,562.83,43.98,8.69,32.76,8.33,78.84,1007.4,3.5,396.39,25.89,,,,Unknown
+big mac,,,,,,,,,,,,,McDonald's,1.0,Serving,562.83,43.98,8.69,32.76,8.33,78.84,1007.4,3.5,396.39,25.89,,,,Unknown
+biscuit,,,,,,,,,,,,,KFC,1.0,Biscuit,211.8,26.76,1.31,9.78,2.59,1.8,348.0,0.9,72.6,4.2,,,,Unknown
+"bistro french onion, bread bowl",,,,,,,,,,,,,Panera Bread,1.0,Serving,45.36,6.0,3.99,1.5,1.0,5.04,650.16,1.01,559.44,2.0,,,,Unknown
+black beans,104.4,24.419999999999998,12.040000000000001,0.0,30.0,Diabetic-Friendly Foods,BLACK BEANS,AHOLD,Canned & Bottled Beans,,6.15,,Chipotle,4.0,oz,227.04,40.78,0.55,0.93,0.24,0.0,1.72,14.96,610.6,15.24,,,,Low
+"black beans, large",,,,,,,,,,,,,Rubio's,1.0,Serving,386.98,70.38,0.98,1.23,0.32,0.0,1632.96,29.34,1309.77,25.64,,,,Unknown
+"black beans, regular",,,,,,,,,,,,,Rubio's,1.0,Serving,210.04,37.13,5.12,5.1,0.74,0.0,591.32,10.78,752.29,8.78,,,,Unknown
+black pepper focaccia bread,,,,,,,,,,,,,Panera Bread,57.0,gram,281.07,21.18,3.36,12.37,2.45,102.38,754.19,2.27,364.26,22.51,,,,Unknown
+blackberry blitz,,,,,,,,,,,,,Chili's,1.0,Serving,124.95,3.84,0.91,0.0,0.0,0.0,5.88,0.0,186.69,0.1,,,,Unknown
+blackened chicken,,,,,,,,,,,,,Sweetgreen,1.0,Serving,345.3,10.36,6.66,25.63,7.07,77.28,2434.23,0.92,459.81,18.12,,,,Unknown
+blue cheese,,,,,,,,,,,,,Whataburger,1.0,Serving,100.08,0.66,0.14,8.15,5.29,21.26,324.89,0.0,72.58,6.07,,,,Unknown
+blue cheese dip,,,,,,,,,,,,,Wingstop,3.25,oz Cup,72.6,0.72,0.52,7.67,1.24,4.65,96.3,0.06,13.2,0.21,,,,Unknown
+blue raspberry,,,,,,,,,,,,,TGI Friday's,1.0,Serving,405.42,65.01,33.72,15.46,5.64,6.57,267.83,6.12,163.52,3.81,,,,Unknown
+blueberries,54.2,12.1,2.9,0.71,,Diabetic-Friendly Foods,BLUEBERRIES,PARADE,Frozen Fruit & Fruit Juice Concentrates,,0.0,,Chipotle,1.25,oz,0.78,0.2,0.14,0.0,0.0,0.0,0.01,0.03,1.05,0.01,,,,Unknown
+blueberry muffin,,,,,50.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+blueberry syrup,,,,,,,,,,,,,IHOP,1.0,fl oz,286.44,71.51,44.52,0.0,0.0,0.0,0.0,0.08,5.88,0.0,,,,Unknown
+boldbq sauce,,,,,,,,,,,,,Popeye's,1.350000023841858,oz,8.48,0.79,0.06,0.09,0.01,0.0,878.88,0.13,69.6,1.3,,,,Unknown
+"bottle, light",,,,,,,,,,,,,Olive Garden,1.0,bottle,0.0,0.0,,0.0,0.0,0.0,5.0,0.0,0.0,0.0,,,,Unknown
+"bottle, regular",,,,,,,,,,,,,Olive Garden,1.0,bottle,0.0,0.0,,0.0,0.0,0.0,5.0,0.0,0.0,0.0,,,,Unknown
+bran cereal,,,,,43.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+bread loaf,,,,,,,,,,,,,Tony Roma's,1.0,serving,330.71,14.13,6.06,18.17,6.38,122.85,843.71,1.23,537.69,26.68,,,,Unknown
+"breadstick, plain",,,,,,,,,,,,,Olive Garden,1.0,ea,24.72,4.1,0.08,0.57,0.08,0.0,42.78,0.18,7.44,0.72,,,,Unknown
+breakfast baconator,,,,,,,,,,,,,Wendy's,1.0,serving,157.14,30.01,,2.48,1.55,7.76,420.98,,516.04,4.56,,,,Unknown
+breakfast biscuit,,,,,,,,,,,,,Church's Chicken,1.0,Serving,411.81,33.29,1.76,27.11,8.24,31.08,903.54,0.44,169.83,10.73,,,,Unknown
+breakfast crepes,,,,,,,,,,,,,IHOP,1.0,Serving,656.82,72.25,1.45,28.07,12.26,230.14,1522.31,2.68,835.55,28.72,,,,Unknown
+breakfast sampler,,,,,,,,,,,,,IHOP,1.0,Serving,879.33,27.21,5.68,67.13,20.57,689.92,1765.61,5.59,1068.89,42.84,,,,Unknown
+brisket quesadilla,,,,,,,,,,,,,Chili's,1.0,Serving,1249.77,92.46,6.29,72.99,32.63,190.61,1803.98,7.21,875.45,54.9,,,,Unknown
+broccoli,28.0,4.614,2.98,0.068,,Diabetic-Friendly Foods,BROCCOLI,GREAT VALUE,Frozen Vegetables,,2.35,,Outback Steakhouse,1.0,Serving,3.5,0.72,0.14,0.04,0.01,0.0,4.1,0.33,29.3,0.24,,,,Unknown
+"broccoli cheddar, bread bowl",,,,,,,,,,,,,Panera Bread,1.0,Serving,320.11,28.69,1.57,16.58,9.44,47.19,354.25,2.84,391.45,15.04,,,,Unknown
+broccoli slaw,,,,,,,,,,,,,TGI Friday's,1.0,Serving,9.5,2.03,0.8,0.08,0.01,0.0,10.84,0.74,79.52,0.56,,,,Unknown
+brown rice,364.8,76.9,4.84,3.0460000000000003,,Diabetic-Friendly Foods,BROWN RICE,BIG WIN,Rice,,9.3,,,,,,,,,,,,,,,,,,Unknown
+"brown rice, steamed",,,,,50.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+brownie,,,,,,,,,,,,,Panera Bread,1.0,Brownie,233.0,25.1,,14.55,3.66,36.5,171.5,,88.0,3.1,,,,Unknown
+brownie obsession,,,,,,,,,,,,,TGI Friday's,1.0,Serving,233.0,25.1,,14.55,3.66,36.5,171.5,,88.0,3.1,,,,Unknown
+brussels sprouts,47.0,8.47,3.5,0.188,,Diabetic-Friendly Foods,BRUSSELS SPROUTS,EAT SMART,Pre-Packaged Fruit & Vegetables,,3.53,,,,,,,,,,,,,,,,,,Unknown
+buckwheat,622.3333333333334,61.55999999999999,7.4300000000000015,2.524,,Diabetic-Friendly Foods,Buckwheat,LIOR,Cereal Grains and Pasta,,13.2,,,,,,,,,,,,,,,,,,Unknown
+buffalo chicken,,,,,,,,,,,,,Sweetgreen,1.0,Serving,229.75,0.78,0.46,7.29,3.05,110.88,267.6,0.12,403.96,37.87,,,,Unknown
+buffalo wings,,,,,,,,,,,,,Smashburger,1.0,Serving,87.74,2.64,0.06,6.51,2.31,21.95,105.28,0.11,45.88,4.53,,,,Unknown
+bulgur,522.0,53.9,9.4,1.2280000000000002,,Diabetic-Friendly Foods,BULGUR,MEIJER,Other Grains & Seeds,,12.5,,,,,,,,,,,,,,,,,,Unknown
+"bulgur wheat, whole, cooked",,,,,46.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+bun,,,,,,,,,,,,,Five Guys,1.0,Serving,122.32,22.07,2.8,1.65,0.39,0.0,220.0,0.92,55.88,4.34,,,,Unknown
+"burger & sandwich toppings, ihop sauce (1 ounce)",,,,,,,,,,,,,IHOP,1.0,Ounce,88.69,3.43,3.55,8.2,1.19,6.08,225.11,0.19,25.04,0.26,,,,Unknown
+burger bites,,,,,,,,,,,,,Chili's,1.0,Serving,50.1,7.75,0.57,1.52,0.38,0.92,91.5,0.18,45.98,1.33,,,,Unknown
+"burrito, puerto nuevo",,,,,,,,,,,,,Rubio's,1.0,Serving,701.86,74.2,5.39,23.91,11.24,133.53,1390.26,8.17,1149.78,46.53,,,,Unknown
+butter beans,,,,,36.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+"butterburger, double",,,,,,,,,,,,,Culver's,1.0,Order,342.89,40.94,5.29,16.83,7.32,0.0,447.32,4.86,224.07,8.74,,,,Unknown
+"butterburger, single",,,,,,,,,,,,,Culver's,1.0,Order,65.52,1.85,1.3,4.85,2.8,16.38,274.89,0.0,59.43,3.6,,,,Unknown
+"butterburger, triple",,,,,,,,,,,,,Culver's,1.0,Order,771.9,40.24,8.19,47.73,19.96,156.87,1586.13,1.25,572.7,45.32,,,,Unknown
+"buttered noodles, regular",,,,,,,,,,,,,Noodles & Company,1.0,Serving,297.64,38.27,0.7,12.66,7.51,30.5,92.47,2.23,57.97,7.31,,,,Unknown
+"buttered noodles, small",,,,,,,,,,,,,Noodles & Company,1.0,Serving,297.64,38.27,0.7,12.66,7.51,30.5,92.47,2.23,57.97,7.31,,,,Unknown
+caesar,,,,,,,,,,,,,Sweetgreen,1.0,Serving,481.41,22.8,4.93,39.7,8.19,35.68,1151.94,5.75,612.82,10.21,,,,Unknown
+caesar salad,,,,,,,,,,,,,Bertucci's,1.0,Serving,481.41,22.8,4.93,39.7,8.19,35.68,1151.94,5.75,612.82,10.21,,,,Unknown
+caesar salad (side),,,,,,,,,,,,,Noodles & Company,1.0,Serving,481.41,22.8,4.93,39.7,8.19,35.68,1151.94,5.75,612.82,10.21,,,,Unknown
+"caesar salad, full",,,,,,,,,,,,,Tony Roma's,1.0,salad with dressing,481.41,22.8,4.93,39.7,8.19,35.68,1151.94,5.75,612.82,10.21,,,,Unknown
+cajun boneless tenders,,,,,,,,,,,,,Wingstop,1.0,each,63.5,4.37,2.27,1.7,0.07,31.19,680.4,0.23,197.88,7.65,,,,Unknown
+cajun boneless wings,,,,,,,,,,,,,Wingstop,1.0,each,75.34,7.41,2.94,3.38,0.59,9.19,249.37,0.26,84.97,3.84,,,,Unknown
+cajun chicken sandwich,,,,,,,,,,,,,Wingstop,1.0,each,419.52,41.65,5.17,20.66,3.74,44.08,937.84,2.13,272.08,16.63,,,,Unknown
+cajun onion burger,,,,,,,,,,,,,Tony Roma's,1.0,burger,63.5,4.37,2.27,1.7,0.07,31.19,680.4,0.23,197.88,7.65,,,,Unknown
+cajun wings,,,,,,,,,,,,,Wingstop,1.0,each,11.3,2.42,0.2,0.25,0.05,0.0,3267.43,0.83,50.62,0.46,,,,Unknown
+"cake, pound",,,,,38.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+calamari,,,,,,,,,,,,,Olive Garden,1.0,serving,356.47,37.45,0.14,14.51,1.33,192.16,252.36,1.33,261.99,17.61,,,,Unknown
+california bowl,,,,,,,,,,,,,Rubio's,1.0,Serving,348.54,37.89,7.02,18.75,2.84,17.13,536.83,3.23,293.35,7.81,,,,Unknown
+california chicken burrito,,,,,,,,,,,,,Rubio's,1.0,Serving,747.68,46.02,1.94,40.35,12.55,125.72,1055.49,5.43,770.26,48.63,,,,Unknown
+california steak burrito,,,,,,,,,,,,,Rubio's,1.0,Serving,348.54,37.89,7.02,18.75,2.84,17.13,536.83,3.23,293.35,7.81,,,,Unknown
+cappuccino,,,,,,,,,,,,,Olive Garden,1.0,serving,119.7,11.97,11.57,4.64,2.93,18.3,115.8,0.0,388.33,7.62,,,,Unknown
+"cappuccino, large",,,,,,,,,,,,,McDonald's,1.0,Serving,119.7,11.97,11.57,4.64,2.93,18.3,115.8,0.0,388.33,7.62,,,,Unknown
+"cappuccino, medium",,,,,,,,,,,,,McDonald's,1.0,Serving,19.32,3.25,3.11,0.51,0.29,1.52,8.05,0.0,32.25,0.49,,,,Unknown
+"cappuccino, small",,,,,,,,,,,,,McDonald's,1.0,Serving,19.32,3.25,3.11,0.51,0.29,1.52,8.05,0.0,32.25,0.49,,,,Unknown
+captain's castaway,,,,,,,,,,,,,Chili's,1.0,Serving,240.0,,,,,,,,,,,,,Unknown
+carnitas,,,,,,,,,,,,,Chipotle,4.0,oz,341.76,3.88,1.53,24.87,7.04,93.98,394.33,0.72,359.15,24.53,,,,Unknown
+carrot juice,,,,,43.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+"carrots, raw",,,,,35.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+casamigos 'rita,,,,,,,,,,,,,Chili's,1.0,Serving,240.0,,,,,,,,,,,,,Unknown
+cashews,,,,,25.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+"catering, chick-fil-a chicken sandwich",,,,,,,,,,,,,Chick-fil-A,1.0,Serving,465.63,39.06,6.81,20.93,3.97,65.45,1408.11,2.62,458.15,30.44,,,,Unknown
+"catering, coke",,,,,,,,,,,,,Olive Garden,2.0,liter,163.89,40.66,38.93,0.86,0.0,0.0,10.21,0.2,37.93,0.1,,,,Unknown
+"catering, sprite",,,,,,,,,,,,,Olive Garden,2.0,liter,197.7,25.67,25.58,0.0,0.0,0.0,25.06,0.0,2.88,0.22,,,,Unknown
+"catering, tiramisu",,,,,,,,,,,,,Olive Garden,1.0,slice,572.0,35.11,20.65,44.36,25.45,306.58,300.41,0.33,160.95,8.29,,,,Unknown
+"cauli rice, large",,,,,,,,,,,,,Rubio's,1.0,Serving,25.0,4.97,1.91,0.28,0.13,0.0,30.0,2.0,299.0,1.92,,,,Unknown
+"cauli rice, regular",,,,,,,,,,,,,Rubio's,1.0,Serving,227.5,10.46,3.68,13.46,6.96,114.84,771.79,2.73,291.5,17.28,,,,Unknown
+cauliflower,80.4,13.059999999999999,6.92,0.118,,Diabetic-Friendly Foods,CAULIFLOWER,TOPS,Frozen Vegetables,,12.5,,,,,,,,,,,,,,,,,,Unknown
+cheese,,,,,,,,,,,,,Chipotle,1.0,oz,113.12,0.87,0.13,9.33,5.28,27.72,182.84,0.0,21.28,6.4,,,,Unknown
+cheese fries,,,,,,,,,,,,,Wendy's,1.0,serving,281.28,8.63,0.28,21.44,11.69,59.25,392.34,0.43,155.44,13.48,,,,Unknown
+"cheese fries, large",,,,,,,,,,,,,Wingstop,18.0,oz,281.28,8.63,0.28,21.44,11.69,59.25,392.34,0.43,155.44,13.48,,,,Unknown
+"cheese fries, regular",,,,,,,,,,,,,Wingstop,10.0,oz,281.28,8.63,0.28,21.44,11.69,59.25,392.34,0.43,155.44,13.48,,,,Unknown
+cheese menucci,,,,,,,,,,,,,Bertucci's,1.0,Serving,85.05,0.62,0.29,6.34,3.73,22.4,177.75,0.0,21.55,6.29,,,,Unknown
+cheese pizza,,,,,,,,,,,,,Bertucci's,1.0,Serving,452.2,56.66,6.09,16.47,7.59,28.9,1016.6,3.91,292.4,19.36,,,,Unknown
+cheese quesadilla,,,,,,,,,,,,,Chili's,1.0,Serving,713.92,46.77,4.29,44.78,22.42,100.88,1359.94,3.3,197.88,30.9,,,,Unknown
+"cheese, 1 oz",,,,,,,,,,,,,Rubio's,1.0,oz.,140.0,27.91,10.0,4.0,1.36,0.0,140.0,9.0,178.8,2.0,,,,Unknown
+cheeseburger,,,,,,,,,,,,,McDonald's,1.0,Serving,535.31,39.24,7.16,28.66,14.0,95.52,1176.09,2.39,443.77,30.27,,,,Unknown
+cheeseburger bites,,,,,,,,,,,,,Chili's,1.0,Serving,535.31,39.24,7.16,28.66,14.0,95.52,1176.09,2.39,443.77,30.27,,,,Unknown
+cheeseburger with onion,,,,,,,,,,,,,In-N-Out Burger,229.0,grams,321.46,28.4,1.65,12.49,5.04,59.45,818.14,0.9,439.8,22.77,,,,Unknown
+cheesecake,,,,,,,,,,,,,Chili's,1.0,Serving,401.25,31.88,27.25,28.13,12.4,68.75,547.5,0.5,112.5,6.88,,,,Unknown
+cheesy burger,,,,,,,,,,,,,Tony Roma's,1.0,burger,158.19,15.34,0.78,10.14,1.56,1.13,254.02,0.62,55.85,1.63,,,,Unknown
+cherries,264.0,58.04,1.92,0.04,,Diabetic-Friendly Foods,CHERRIES,DELL'S MARASCHINO CHERRIES,Baking Decorations & Dessert Toppings,,0.0,,,,,,,,,,,,,,,,,,Unknown
+cherry coke,,,,,,,,,,,,,The Old Spaghetti Factory,1.0,Serving,163.89,40.66,38.93,0.86,0.0,0.0,10.21,0.2,37.93,0.1,,,,Unknown
+chia seeds,493.0,44.7,36.1,31.160000000000004,,Diabetic-Friendly Foods,CHIA SEEDS,HARRIS TEETER,Other Grains & Seeds,,17.9,,,,,,,,,,,,,,,,,,Unknown
+chick-fil-a breakfast filet,,,,,,,,,,,,,Chick-fil-A,1.0,Serving,161.7,0.0,0.0,3.5,0.99,83.3,72.52,0.0,250.88,30.4,,,,Unknown
+"chick-fil-a chick-n-minis, 10 ct",,,,,,,,,,,,,Chick-fil-A,1.0,Serving,396.0,40.34,3.46,19.71,7.54,31.68,1145.76,1.85,271.92,15.75,,,,Unknown
+chick-fil-a chicken biscuit,,,,,,,,,,,,,Chick-fil-A,1.0,Serving,396.0,40.34,3.46,19.71,7.54,31.68,1145.76,1.85,271.92,15.75,,,,Unknown
+chick-fil-a chicken sandwich,,,,,,,,,,,,,Chick-fil-A,1.0,Serving,465.63,39.06,6.81,20.93,3.97,65.45,1408.11,2.62,458.15,30.44,,,,Unknown
+chick-fil-a cool wrap,,,,,,,,,,,,,Chick-fil-A,1.0,Serving,747.68,46.02,1.94,40.35,12.55,125.72,1055.49,5.43,770.26,48.63,,,,Unknown
+chick-fil-a filet,,,,,,,,,,,,,Chick-fil-A,1.0,Serving,161.7,0.0,0.0,3.5,0.99,83.3,72.52,0.0,250.88,30.4,,,,Unknown
+chick-fil-a icedream cone,,,,,,,,,,,,,Chick-fil-A,1.0,Serving,274.11,35.08,26.54,12.81,7.73,49.72,120.2,0.96,239.37,4.75,,,,Unknown
+chick-fil-a icedream cup,,,,,,,,,,,,,Chick-fil-A,1.0,Serving,168.03,7.95,2.9,6.15,1.06,48.19,352.44,2.56,430.08,20.0,,,,Unknown
+"chick-fil-a lemonade, gallon",,,,,,,,,,,,,Chick-fil-A,1.0,Serving,482.04,77.05,56.11,18.07,2.92,46.5,407.95,0.56,120.19,3.4,,,,Unknown
+"chick-fil-a lemonade, large",,,,,,,,,,,,,Chick-fil-A,1.0,Serving,98.8,25.74,24.65,0.1,0.01,0.0,9.88,0.0,37.05,0.17,,,,Unknown
+"chick-fil-a lemonade, medium",,,,,,,,,,,,,Chick-fil-A,1.0,Serving,67.68,17.56,17.05,0.19,0.03,0.0,9.18,0.07,26.46,0.0,,,,Unknown
+"chick-fil-a lemonade, small",,,,,,,,,,,,,Chick-fil-A,1.0,Serving,98.8,25.74,24.65,0.1,0.01,0.0,9.88,0.0,37.05,0.17,,,,Unknown
+chick-fil-a sauce,,,,,,,,,,,,,Chick-fil-A,1.0,Serving,161.7,0.0,0.0,3.5,0.99,83.3,72.52,0.0,250.88,30.4,,,,Unknown
+chicken,,,,,,,,,,,,,Chipotle,4.0,oz,187.0,0.04,,11.11,3.11,79.9,60.35,0.0,173.4,20.37,,,,Unknown
+chicken & pancakes,,,,,,,,,,,,,IHOP,1.0,Serving,273.2,44.65,7.89,6.96,1.42,35.9,615.74,1.34,295.36,7.88,,,,Unknown
+chicken & salad,,,,,,,,,,,,,Bertucci's,1.0,Serving,253.99,3.3,2.41,17.78,4.08,63.93,226.33,0.37,208.22,19.18,,,,Unknown
+chicken & vegetables,,,,,,,,,,,,,Pick Up Stix,0.5,Portion,99.57,7.01,1.71,7.45,0.65,0.57,177.02,1.73,242.48,2.63,,,,Unknown
+chicken & waffles,,,,,,,,,,,,,IHOP,1.0,Serving,1012.31,71.66,24.19,53.83,17.64,266.33,852.11,0.17,676.81,58.17,,,,Unknown
+chicken biscuit,,,,,,,,,,,,,Church's Chicken,1.0,Serving,396.0,40.34,3.46,19.71,7.54,31.68,1145.76,1.85,271.92,15.75,,,,Unknown
+chicken bites,,,,,,,,,,,,,Chili's,1.0,Serving,50.1,7.75,0.57,1.52,0.38,0.92,91.5,0.18,45.98,1.33,,,,Unknown
+chicken breast,123.6,2.4259999999999997,0.26,4.954,,Diabetic-Friendly Foods,CHICKEN BREAST,GIANT EAGLE,"Poultry, Chicken & Turkey",,20.4,,,,,,,,,,,,,,,,,,Unknown
+chicken bruschetta,,,,,,,,,,,,,Bertucci's,1.0,Serving,445.54,31.83,1.96,14.66,4.56,108.66,754.92,3.45,725.02,44.84,,,,Unknown
+chicken chilaquiles bowl,,,,,,,,,,,,,Rubio's,1.0,Serving,875.56,55.57,12.59,55.66,19.98,425.64,2130.82,8.29,398.97,39.83,,,,Unknown
+chicken chow mein,,,,,,,,,,,,,Pick Up Stix,0.5,Portion,294.94,21.85,1.94,14.88,2.72,57.75,565.45,1.6,262.13,18.46,,,,Unknown
+chicken drunken noodles,,,,,,,,,,,,,Pick Up Stix,0.5,Portion,383.52,52.46,0.95,14.58,6.71,0.0,1633.32,3.06,75.14,9.86,,,,Unknown
+chicken fried rice,,,,,,,,,,,,,Pick Up Stix,0.5,Portion,288.25,24.99,0.98,12.12,1.84,106.3,354.27,0.91,236.04,18.56,,,,Unknown
+chicken jr.,,,,,,,,,,,,,Burger King,1.0,serving,187.0,0.04,,11.11,3.11,79.9,60.35,0.0,173.4,20.37,,,,Unknown
+chicken marsala,,,,,,,,,,,,,The Old Spaghetti Factory,1.0,Serving,355.65,8.08,0.81,26.87,9.66,67.5,441.79,0.52,235.52,15.24,,,,Unknown
+chicken noodle soup,,,,,,,,,,,,,Noodles & Company,1.0,Serving,119.04,14.73,0.0,3.77,0.95,19.84,1661.6,2.48,119.04,5.75,,,,Unknown
+chicken pad thai,,,,,,,,,,,,,Pick Up Stix,0.5,Portion,838.4,45.59,17.95,44.65,10.98,402.39,1301.34,4.38,791.13,64.07,,,,Unknown
+chicken parmesan,,,,,,,,,,,,,Bertucci's,1.0,Serving,324.36,17.36,4.44,16.92,4.05,85.86,852.24,1.43,465.87,25.71,,,,Unknown
+chicken parmigiana,,,,,,,,,,,,,Olive Garden,1.0,serving,324.36,17.36,4.44,16.92,4.05,85.86,852.24,1.43,465.87,25.71,,,,Unknown
+chicken piccata,,,,,,,,,,,,,Bertucci's,1.0,Serving,490.06,8.93,0.89,37.77,14.27,119.76,600.19,0.79,313.62,28.84,,,,Unknown
+chicken quesadilla,,,,,,,,,,,,,IHOP,1.0,Serving,1069.07,92.46,6.29,50.2,23.46,181.9,1814.88,7.21,880.89,60.53,,,,Unknown
+chicken scampi,,,,,,,,,,,,,Olive Garden,1.0,serving,253.99,3.3,2.41,17.78,4.08,63.93,226.33,0.37,208.22,19.18,,,,Unknown
+chicken shack,,,,,,,,,,,,,Shake Shack,1.0,Serving,278.2,0.12,0.0,17.95,5.39,166.4,226.2,0.0,330.2,30.51,,,,Unknown
+chicken tortilla soup,,,,,,,,,,,,,Rubio's,1.0,Serving,259.7,39.98,7.99,4.02,2.0,19.6,1700.3,5.88,,14.01,,,,Unknown
+chickpeas,111.4,19.575,5.880000000000001,1.436,36.0,Diabetic-Friendly Foods,CHICKPEAS,LOWES FOODS,Canned & Bottled Beans,,8.0,,Sweetgreen,1.0,Serving,268.96,44.97,7.87,4.25,0.44,0.0,11.48,12.46,477.24,14.53,,,,Low
+chili,,,,,,,,,,,,,Wendy's,1.0,can,566.4,29.28,5.28,34.08,10.82,100.8,1972.8,2.4,888.0,36.14,,,,Unknown
+chili's philly sandwich,,,,,,,,,,,,,Chili's,1.0,Serving,646.78,55.23,6.41,26.85,7.25,104.82,1005.81,3.55,506.68,45.21,,,,Unknown
+"chili, large",,,,,,,,,,,,,Wendy's,1.0,serving,71.5,0.36,0.19,4.76,1.56,186.0,71.0,0.0,69.0,6.28,,,,Unknown
+"chipotle iced tea, 22 fl oz",,,,,,,,,,,,,Chipotle,22.0,fl oz,239.07,59.89,59.03,0.0,0.0,0.0,24.52,0.0,61.3,0.0,,,,Unknown
+"chipotle iced tea, 32 fl oz",,,,,,,,,,,,,Chipotle,32.0,fl oz,239.07,59.89,59.03,0.0,0.0,0.0,24.52,0.0,61.3,0.0,,,,Unknown
+"chipotle sweet iced tea, 22 fl oz",,,,,,,,,,,,,Chipotle,22.0,fl oz,79.76,20.71,19.96,0.0,0.0,0.0,0.2,0.0,50.23,0.0,,,,Unknown
+"chipotle sweet iced tea, 32 fl oz",,,,,,,,,,,,,Chipotle,32.0,fl oz,79.76,20.71,19.96,0.0,0.0,0.0,0.2,0.0,50.23,0.0,,,,Unknown
+chipotle-honey vinaigrette,,,,,,,,,,,,,Chipotle,2.0,oz,70.56,3.56,3.17,6.21,0.87,0.0,291.94,0.0,24.7,0.12,,,,Unknown
+chips,,,,,,,,,,,,,Chipotle,4.0,oz,148.96,15.07,0.09,9.51,0.95,0.0,147.56,0.87,334.88,1.79,,,,Unknown
+chips & fresh tomato salsa,,,,,,,,,,,,,Chipotle,7.5,oz,29.4,6.5,4.36,0.37,0.05,0.0,580.65,1.84,363.83,1.47,,,,Unknown
+chips & guacamole,,,,,,,,,,,,,Chipotle,8.0,oz,355.51,43.39,0.76,19.67,2.69,0.0,433.39,6.64,374.52,5.08,,,,Unknown
+"chips & guacamole, large",,,,,,,,,,,,,Rubio's,1.0,Serving,355.51,43.39,0.76,19.67,2.69,0.0,433.39,6.64,374.52,5.08,,,,Unknown
+chips & queso,,,,,,,,,,,,,Chipotle,8.0,oz,357.0,45.39,1.66,17.67,3.15,5.63,683.48,3.5,168.82,5.99,,,,Unknown
+chocolate cake,,,,,,,,,,,,,The Old Spaghetti Factory,1.0,Serving,424.01,57.6,43.56,21.85,6.45,23.98,379.32,2.4,294.3,3.79,,,,Unknown
+chocolate chip cookie (1),,,,,,,,,,,,,Yoshinoya,1.0,serving,147.6,19.61,9.87,7.42,2.43,0.0,93.3,0.6,51.3,1.53,,,,Unknown
+chocolate chunk cookie,,,,,,,,,,,,,Noodles & Company,1.0,Serving,147.6,19.61,9.87,7.42,2.43,0.0,93.3,0.6,51.3,1.53,,,,Unknown
+chocolate milk,,,,,,,,,,,,,Wendy's,1.0,serving,207.5,25.85,23.85,8.48,5.26,30.0,150.0,2.0,417.5,7.93,,,,Unknown
+chocolate shake,,,,,,,,,,,,,Burger King,1.0,serving,540.74,96.11,94.74,12.27,7.64,49.98,504.38,1.36,1017.86,13.86,,,,Unknown
+chopped romaine,,,,,,,,,,,,,Sweetgreen,1.0,Serving,753.19,15.11,4.33,78.45,6.74,0.0,0.0,10.46,446.9,10.0,,,,Unknown
+chopped salad,,,,,,,,,,,,,Rubio's,1.0,Serving,530.95,25.13,8.93,41.82,10.3,130.86,1179.56,8.4,907.25,17.89,,,,Unknown
+chow mein,,,,,,,,,,,,,Pick Up Stix,0.5,Portion,294.94,21.85,1.94,14.88,2.72,57.75,565.45,1.6,262.13,18.46,,,,Unknown
+church's signature hot sauce,,,,,,,,,,,,,Church's Chicken,1.0,Serving,0.52,0.08,0.06,0.02,0.0,0.0,124.22,0.01,6.77,0.02,,,,Unknown
+"church's southern sweet tea, large",,,,,,,,,,,,,Church's Chicken,1.0,Serving,87.5,22.7,21.95,0.0,0.0,0.0,0.22,0.0,50.27,0.0,,,,Unknown
+"church's southern sweet tea, regular",,,,,,,,,,,,,Church's Chicken,1.0,Serving,178.06,26.87,4.29,6.14,1.63,0.58,566.66,0.41,93.96,3.86,,,,Unknown
+"church's southern unsweet tea, large",,,,,,,,,,,,,Church's Chicken,1.0,Serving,178.06,26.87,4.29,6.14,1.63,0.58,566.66,0.41,93.96,3.86,,,,Unknown
+"church's southern unsweet tea, regular",,,,,,,,,,,,,Church's Chicken,1.0,Serving,178.06,26.87,4.29,6.14,1.63,0.58,566.66,0.41,93.96,3.86,,,,Unknown
+"cider, half yard",,,,,,,,,,,,,Yard House,1.0,Serving,3.13,0.14,0.06,0.0,0.0,0.0,0.75,0.0,10.88,0.0,,,,Unknown
+cinnamon,32.0,13.34,0.0,0.0,,Diabetic-Friendly Foods,CINNAMON,ROUNDY'S,Herbs & Spices,,0.0,,,,,,,,,,,,,,,,,,Unknown
+cinnamon churro,,,,,,,,,,,,,Rubio's,1.0,Serving,103.04,8.43,4.84,7.66,0.51,0.0,43.71,0.18,5.45,0.48,,,,Unknown
+cinnamon swirl,,,,,,,,,,,,,Church's Chicken,1.0,Serving,290.4,47.01,18.78,9.92,2.86,0.0,686.4,1.23,,3.82,,,,Unknown
+cinnascramble,,,,,,,,,,,,,Panera Bread,1.0,Sandwich,580.0,,,,,,,,,,,,,Unknown
+clam chowder,,,,,,,,,,,,,Yoshinoya,1.0,serving,200.66,21.03,0.58,10.01,,,871.22,2.54,444.5,6.63,,,,Unknown
+"classic fridays combo, al pastor and garnish",,,,,,,,,,,,,TGI Friday's,1.0,Serving,246.89,39.48,18.82,8.81,5.2,51.34,231.37,1.7,210.83,3.77,,,,Unknown
+"classic fridays combo, apple butter bbq",,,,,,,,,,,,,TGI Friday's,1.0,Serving,357.5,27.93,,20.5,3.57,170.0,1322.5,3.25,635.0,6.7,,,,Unknown
+"classic fridays combo, dry rub",,,,,,,,,,,,,TGI Friday's,1.0,Serving,246.89,39.48,18.82,8.81,5.2,51.34,231.37,1.7,210.83,3.77,,,,Unknown
+"classic fridays combo, frank's redhot buffalo",,,,,,,,,,,,,TGI Friday's,1.0,Serving,246.89,39.48,18.82,8.81,5.2,51.34,231.37,1.7,210.83,3.77,,,,Unknown
+"classic fridays combo, garlic parmesan",,,,,,,,,,,,,TGI Friday's,1.0,Serving,246.89,39.48,18.82,8.81,5.2,51.34,231.37,1.7,210.83,3.77,,,,Unknown
+"classic fridays combo, korean red chile",,,,,,,,,,,,,TGI Friday's,1.0,Serving,246.89,39.48,18.82,8.81,5.2,51.34,231.37,1.7,210.83,3.77,,,,Unknown
+"classic fridays combo, nashville hot",,,,,,,,,,,,,TGI Friday's,1.0,Serving,357.5,27.93,,20.5,3.57,170.0,1322.5,3.25,635.0,6.7,,,,Unknown
+"classic fridays combo, spiked orange glaze",,,,,,,,,,,,,TGI Friday's,1.0,Serving,601.63,34.76,29.82,28.31,5.47,142.88,561.25,0.8,994.04,50.88,,,,Unknown
+"classic fridays combo, whiskey-glaze",,,,,,,,,,,,,TGI Friday's,1.0,Serving,357.5,27.93,,20.5,3.57,170.0,1322.5,3.25,635.0,6.7,,,,Unknown
+"classic fridays combo, whiskey-glaze blaze",,,,,,,,,,,,,TGI Friday's,1.0,Serving,357.5,27.93,,20.5,3.57,170.0,1322.5,3.25,635.0,6.7,,,,Unknown
+classic melt,,,,,,,,,,,,,Burger King,1.0,serving,805.45,7.18,3.5,77.56,22.46,96.96,3060.17,1.03,303.67,22.58,,,,Unknown
+classic nachos,,,,,,,,,,,,,Chili's,1.0,Serving,805.45,7.18,3.5,77.56,22.46,96.96,3060.17,1.03,303.67,22.58,,,,Unknown
+classic ribeye,,,,,,,,,,,,,Chili's,1.0,Serving,805.45,7.18,3.5,77.56,22.46,96.96,3060.17,1.03,303.67,22.58,,,,Unknown
+classic smash,,,,,,,,,,,,,Smashburger,1.0,Serving,805.45,7.18,3.5,77.56,22.46,96.96,3060.17,1.03,303.67,22.58,,,,Unknown
+classic white miche bread,,,,,,,,,,,,,Panera Bread,57.0,gram,246.89,39.48,18.82,8.81,5.2,51.34,231.37,1.7,210.83,3.77,,,,Unknown
+cob sandwich,,,,,,,,,,,,,Church's Chicken,1.0,Serving,688.14,13.68,7.18,51.41,15.42,302.14,1232.61,4.49,945.36,42.8,,,,Unknown
+cobb salad with chick-fil-a filet,,,,,,,,,,,,,Chick-fil-A,1.0,Serving,161.7,0.0,0.0,3.5,0.99,83.3,72.52,0.0,250.88,30.4,,,,Unknown
+"coca-cola (with ice), large",,,,,,,,,,,,,In-N-Out Burger,22.0,oz.,163.89,40.66,38.93,0.86,0.0,0.0,10.21,0.2,37.93,0.1,,,,Unknown
+coconut oil,875.4,0.0,0.0,98.66,,Diabetic-Friendly Foods,COCONUT OIL,HARVEST FARMS,Vegetable & Cooking Oils,,0.0,,,,,,,,,,,,,,,,,,Unknown
+cod,876.6,1.058,0.15,20.96,,Diabetic-Friendly Foods,COD,MOREY'S,Frozen Fish & Seafood,,12.4,,,,,,,,,,,,,,,,,,Unknown
+coffee,,,,,,,,,,,,,In-N-Out Burger,15.0,oz,2.37,0.0,0.0,0.05,0.0,0.0,4.74,0.0,116.13,0.28,,,,Unknown
+coke,,,,,,,,,,,,,Olive Garden,1.0,serving,155.4,38.33,36.78,0.93,0.0,0.0,11.1,0.0,18.5,0.0,,,,Unknown
+coke zero,,,,,,,,,,,,,The Old Spaghetti Factory,1.0,Serving,7.1,1.03,0.0,0.11,0.0,0.0,28.4,0.0,28.4,0.39,,,,Unknown
+"coke, large",,,,,,,,,,,,,Church's Chicken,1.0,Serving,71.5,0.36,0.19,4.76,1.56,186.0,71.0,0.0,69.0,6.28,,,,Unknown
+"coke, regular",,,,,,,,,,,,,Church's Chicken,1.0,Serving,155.4,38.33,36.78,0.93,0.0,0.0,11.1,0.0,18.5,0.0,,,,Unknown
+cole slaw,,,,,,,,,,,,,Tony Roma's,1.0,serving,174.11,13.52,10.45,12.9,2.09,8.76,242.0,2.08,167.54,0.96,,,,Unknown
+coleslaw,,,,,,,,,,,,,KFC,1.0,Side,174.11,13.52,10.45,12.9,2.09,8.76,242.0,2.08,167.54,0.96,,,,Unknown
+"coleslaw, large",,,,,,,,,,,,,Popeye's,1.0,Serving,174.11,13.52,10.45,12.9,2.09,8.76,242.0,2.08,167.54,0.96,,,,Unknown
+"coleslaw, medium",,,,,,,,,,,,,Culver's,1.0,Order,62.4,3.81,3.22,5.34,0.78,4.16,113.6,0.02,1.44,0.14,,,,Unknown
+"coleslaw, regular",,,,,,,,,,,,,Popeye's,1.0,Serving,174.11,13.52,10.45,12.9,2.09,8.76,242.0,2.08,167.54,0.96,,,,Unknown
+colorado smash,,,,,,,,,,,,,Smashburger,1.0,Serving,158.48,29.26,1.63,3.56,0.52,0.0,210.39,3.07,739.99,3.46,,,,Unknown
+corn chips,,,,,42.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+corn dog,,,,,,,,,,,,,Culver's,1.0,Order,460.25,55.79,,18.9,5.16,78.75,973.0,,262.5,16.8,,,,Unknown
+"corn, sweet",,,,,55.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+cottage cheese,91.4,4.3740000000000006,0.0,3.094,,Diabetic-Friendly Foods,COTTAGE CHEESE,DARIGOLD,Cheese,,11.5,,,,,,,,,,,,,,,,,,Unknown
+country rustic sourdough bread,,,,,,,,,,,,,Panera Bread,57.0,gram,188.21,36.54,2.12,1.26,0.3,0.0,424.8,1.83,82.6,7.67,,,,Unknown
+"crabfest, crab & lobster duo",,,,,,,,,,,,,Red Lobster,1.0,serving,115.5,0.0,0.0,1.13,0.27,190.5,634.5,0.0,300.0,24.78,,,,Unknown
+crispy crispers,,,,,,,,,,,,,Chili's,1.0,Serving,376.6,4.41,0.0,20.89,5.68,126.0,117.6,0.14,327.6,39.98,,,,Unknown
+crispy firecracker shrimp,,,,,,,,,,,,,Pick Up Stix,0.5,Portion,733.96,75.9,6.12,34.26,7.64,63.93,1392.6,5.92,802.09,30.94,,,,Unknown
+crispy onions,,,,,,,,,,,,,Sweetgreen,1.0,Serving,44.86,5.13,0.59,2.43,0.43,,87.19,0.33,17.89,0.62,,,,Unknown
+crispy rice,,,,,,,,,,,,,Sweetgreen,1.0,Serving,155.94,13.7,0.62,8.76,3.02,19.32,273.93,2.69,144.21,6.11,,,,Unknown
+croissant,,,,,,,,,,,,,Panera Bread,1.0,Croissant,272.02,30.69,7.54,14.07,7.81,44.89,312.89,1.74,79.06,5.49,,,,Unknown
+crunchy taco,,,,,,,,,,,,,Taco Bell,1.0,Taco,155.94,13.7,0.62,8.76,3.02,19.32,273.93,2.69,144.21,6.11,,,,Unknown
+crunchy taco supreme,,,,,,,,,,,,,Taco Bell,1.0,Taco,63.31,8.44,0.2,2.9,0.94,0.0,43.09,0.89,30.72,0.85,,,,Unknown
+cucumber,30.0,2.598,0.85,0.2156,,Diabetic-Friendly Foods,"Cucumber, peeled, raw",,Vegetables and Vegetable Products,,0.59,,,,,,,,,,,,,,,,,,Unknown
+cucumbers,,,,,,,,,,,,,Sweetgreen,1.0,Serving,30.15,7.3,3.36,0.22,0.07,0.0,4.02,1.0,295.47,1.31,,,,Unknown
+culver's curderburger,,,,,,,,,,,,,Culver's,1.0,Order,510.0,,,,,,,,,,,,,Unknown
+"culver's root beer float, large",,,,,,,,,,,,,Culver's,1.0,Order,237.64,41.69,40.12,7.26,4.48,29.04,84.83,0.46,133.8,2.31,,,,Unknown
+"culver's root beer float, medium",,,,,,,,,,,,,Culver's,1.0,Order,237.64,41.69,40.12,7.26,4.48,29.04,84.83,0.46,133.8,2.31,,,,Unknown
+"culver's root beer float, small",,,,,,,,,,,,,Culver's,1.0,Order,237.64,41.69,40.12,7.26,4.48,29.04,84.83,0.46,133.8,2.31,,,,Unknown
+"culver's vegetable beef soup, large",,,,,,,,,,,,,Culver's,1.0,Order,183.83,24.08,2.67,4.51,2.02,11.86,2069.57,4.74,409.17,13.22,,,,Unknown
+"culver's vegetable beef soup, medium",,,,,,,,,,,,,Culver's,1.0,Order,183.83,24.08,2.67,4.51,2.02,11.86,2069.57,4.74,409.17,13.22,,,,Unknown
+dark chocolate,539.6666666666666,46.5,8.933333333333334,39.6,,Diabetic-Friendly Foods,DARK CHOCOLATE,CIRCLE K,"Popcorn, Peanuts, Seeds & Related Snacks",,13.2,,,,,,,,,,,,,,,,,,Unknown
+dasani water,,,,,,,,,,,,,McDonald's,1.0,Serving,0.42,0.14,0.04,0.0,0.0,0.0,19.54,0.02,2.72,0.01,,,,Unknown
+dave's double,,,,,,,,,,,,,Wendy's,1.0,serving,342.89,40.94,5.29,16.83,7.32,0.0,447.32,4.86,224.07,8.74,,,,Unknown
+dave's single,,,,,,,,,,,,,Wendy's,1.0,serving,65.52,1.85,1.3,4.85,2.8,16.38,274.89,0.0,59.43,3.6,,,,Unknown
+dave's triple,,,,,,,,,,,,,Wendy's,1.0,serving,771.9,40.24,8.19,47.73,19.96,156.87,1586.13,1.25,572.7,45.32,,,,Unknown
+deluxe mccrispy,,,,,,,,,,,,,McDonald's,1.0,Serving,530.0,,,,,,,,,,,,,Unknown
+diet coke,,,,,,,,,,,,,Popeye's,22.0,oz,0.0,0.36,0.0,0.0,0.0,0.0,56.8,0.0,14.2,0.0,,,,Unknown
+diet pepsi,,,,,,,,,,,,,Popeye's,22.0,oz,7.1,1.03,0.0,0.11,0.0,0.0,28.4,0.0,28.4,0.39,,,,Unknown
+diet pepsi (bottle),,,,,,,,,,,,,Yoshinoya,1.0,bottle,0.0,0.0,,0.0,0.0,0.0,5.0,0.0,0.0,0.0,,,,Unknown
+"diet pepsi, large",,,,,,,,,,,,,Yoshinoya,1.0,serving,5.45,2.18,0.0,0.0,0.0,0.0,19.57,0.0,12.45,0.01,,,,Unknown
+"diet pepsi, regular",,,,,,,,,,,,,Yoshinoya,1.0,serving,7.1,1.03,0.0,0.11,0.0,0.0,28.4,0.0,28.4,0.39,,,,Unknown
+dole strawberry lemonade (bottle),,,,,,,,,,,,,Yoshinoya,1.0,bottle,106.21,26.7,25.39,0.37,0.01,0.0,9.88,0.25,41.99,0.12,,,,Unknown
+double cheeseburger,,,,,,,,,,,,,McDonald's,1.0,Serving,761.6,40.4,9.77,45.42,18.12,159.6,1344.0,2.8,677.6,47.49,,,,Unknown
+double shackburger,,,,,,,,,,,,,Shake Shack,1.0,Serving,354.0,28.92,4.98,17.23,6.12,56.4,496.8,1.08,271.2,20.5,,,,Unknown
+double stack,,,,,,,,,,,,,Wendy's,1.0,serving,342.89,40.94,5.29,16.83,7.32,0.0,447.32,4.86,224.07,8.74,,,,Unknown
+double stacked taco,,,,,,,,,,,,,Taco Bell,1.0,Taco,337.35,53.76,31.93,11.14,6.07,28.78,246.73,1.33,212.49,6.88,,,,Unknown
+double whopper,,,,,,,,,,,,,Burger King,1.0,serving,194.18,22.67,19.4,11.16,6.04,8.74,32.68,1.25,140.6,2.9,,,,Unknown
+double-double with onion,,,,,,,,,,,,,In-N-Out Burger,286.0,grams,476.0,57.32,26.47,26.35,12.96,64.25,435.32,3.63,175.61,7.03,,,,Unknown
+dr pepper,,,,,,,,,,,,,Popeye's,22.0,oz,1.62,0.35,0.21,0.03,0.0,0.0,0.46,0.14,9.35,0.05,,,,Unknown
+dr. pepper,,,,,,,,,,,,,The Old Spaghetti Factory,1.0,Serving,1.62,0.35,0.21,0.03,0.0,0.0,0.46,0.14,9.35,0.05,,,,Unknown
+"dressing, chipotle ranch",,,,,,,,,,,,,Better Way,2.0,tbsp,129.0,1.77,1.41,13.36,2.09,7.8,270.3,0.0,19.2,0.4,,,,Unknown
+"dressing, classic caesar",,,,,,,,,,,,,Olive Garden,2.0,tbsp,6.96,1.52,0.09,0.22,0.07,0.0,745.23,0.96,38.19,0.28,,,,Unknown
+edamame,119.4,10.267999999999999,4.7,4.62,,Diabetic-Friendly Foods,EDAMAME,GREAT VALUE,Frozen Vegetables,,11.8,,TGI Friday's,1.0,Serving,93.78,6.91,1.69,4.03,0.48,0.0,4.65,4.03,337.9,9.23,,,,Unknown
+edamame salted,,,,,,,,,,,,,Yoshinoya,1.0,serving,272.91,34.5,6.17,10.44,1.42,0.0,368.39,10.32,628.57,14.34,,,,Unknown
+egg biscuit,,,,,,,,,,,,,Popeye's,1.0,Serving,372.64,31.91,,22.07,4.73,244.8,890.8,0.82,238.0,11.6,,,,Unknown
+egg blt mcmuffin with shredded lettuce (mcdonald's in walmart),,,,,,,,,,,,,McDonald's Canada,1.0,Serving,7.99,1.55,0.56,0.14,0.02,0.0,3.76,0.99,116.09,0.58,,,,Unknown
+eggplant parmesan,,,,,,,,,,,,,Bertucci's,1.0,Serving,302.46,20.48,4.15,18.66,6.97,79.8,638.61,3.04,253.21,14.1,,,,Unknown
+eggs,140.4,0.0,0.0,9.508,,Diabetic-Friendly Foods,EGGS,OAKDELL EGG,Eggs & Egg Substitutes,,12.0,,,,,,,,,,,,,,,,,,Unknown
+eggs (2),,,,,,,,,,,,,Five Guys,1.0,Serving,71.5,0.36,0.19,4.76,1.56,186.0,71.0,0.0,69.0,6.28,,,,Unknown
+espresso,,,,,,,,,,,,,Panera Bread,59.0,ml,2.66,0.49,0.0,0.05,0.03,0.0,4.14,0.0,34.04,0.04,,,,Unknown
+"espresso, double",,,,,,,,,,,,,Bertucci's,1.0,Serving,2.5,0.46,0.0,0.05,0.03,0.0,7.22,0.0,31.91,0.03,,,,Unknown
+"espresso, single",,,,,,,,,,,,,Bertucci's,1.0,Serving,2.5,0.46,0.0,0.05,0.03,0.0,7.22,0.0,31.91,0.03,,,,Unknown
+fanta orange,,,,,,,,,,,,,Popeye's,22.0,oz,238.08,61.01,,0.0,0.0,0.0,59.52,0.0,9.92,0.0,,,,Unknown
+fanta strawberry,,,,,,,,,,,,,Popeye's,22.0,oz,28.8,6.91,4.4,0.27,0.01,0.0,0.9,1.8,137.7,0.6,,,,Unknown
+farmhouse salad,,,,,,,,,,,,,Bertucci's,1.0,Serving,389.27,7.06,3.25,20.89,3.55,115.71,1155.44,3.63,1156.25,41.92,,,,Unknown
+farro,263.4,53.779999999999994,5.12,1.085,,Diabetic-Friendly Foods,FARRO,SIMPLY BALANCED,Other Grains & Seeds,,3.33,,,,,,,,,,,,,,,,,,Unknown
+filet medallions,,,,,,,,,,,,,Tony Roma's,3.0,medallions,206.55,0.0,0.0,12.1,4.76,78.2,47.6,0.0,285.6,22.92,,,,Unknown
+firecracker chicken,,,,,,,,,,,,,Pick Up Stix,0.5,Portion,515.27,25.88,4.21,15.63,2.83,113.05,311.75,4.58,1573.04,65.84,,,,Unknown
+firecracker tofu,,,,,,,,,,,,,Pick Up Stix,0.5,Portion,515.27,25.88,4.21,15.63,2.83,113.05,311.75,4.58,1573.04,65.84,,,,Unknown
+flan,,,,,,,,,,,,,Yoshinoya,1.0,serving,221.85,34.85,35.42,6.17,2.75,137.7,81.09,0.0,180.54,6.93,,,,Unknown
+flatbread,,,,,,,,,,,,,Subway,1.0,Serving,233.89,47.37,1.11,1.02,0.14,0.0,455.87,1.87,102.06,7.74,,,,Unknown
+flax seeds,487.6,29.580000000000002,27.439999999999998,40.54,,Diabetic-Friendly Foods,FLAX SEEDS,FAIRWAY,Other Grains & Seeds,,20.0,,,,,,,,,,,,,,,,,,Unknown
+fortune cookie,,,,,,,,,,,,,Pick Up Stix,1.0,Serving,30.24,6.72,3.63,0.22,0.05,0.16,2.48,0.13,3.28,0.34,,,,Unknown
+french fries,,,,,,,,,,,,,In-N-Out Burger,125.0,grams,365.04,48.48,0.35,17.23,2.73,0.0,245.7,4.45,677.43,4.01,,,,Unknown
+fridays original long island tea,,,,,,,,,,,,,TGI Friday's,1.0,Serving,255.81,12.66,11.44,0.23,0.01,0.0,9.53,0.15,28.39,0.09,,,,Unknown
+fries,,,,,,,,,,,,,Johnny Rockets,1.0,serving,365.04,48.48,0.35,17.23,2.73,0.0,245.7,4.45,677.43,4.01,,,,Unknown
+fries bell grande,,,,,,,,,,,,,Taco Bell UK,1.0,Order,31.92,7.64,5.0,0.23,0.03,0.0,2.28,1.37,189.24,1.05,,,,Unknown
+"fries, large five guys style",,,,,,,,,,,,,Five Guys,1.0,Serving,90.09,0.45,0.23,5.99,1.97,234.36,89.46,0.0,86.94,7.91,,,,Unknown
+"fries, little five guys style",,,,,,,,,,,,,Five Guys,1.0,Serving,15.98,0.11,0.0,1.23,0.26,10.88,43.56,0.0,15.57,1.05,,,,Unknown
+"fries, regular five guys style",,,,,,,,,,,,,Five Guys,1.0,Serving,153.08,12.64,0.0,0.0,0.0,0.0,14.24,0.0,96.12,1.64,,,,Unknown
+fruit cocktail,,,,,55.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+fudge brownie,,,,,,,,,,,,,Pick Up Stix,1.0,Serving,233.0,25.1,,14.55,3.66,36.5,171.5,,88.0,3.1,,,,Unknown
+garden cobb,,,,,,,,,,,,,Sweetgreen,1.0,Serving,9.13,1.05,0.12,0.25,0.02,0.0,1.59,0.64,117.09,1.25,,,,Unknown
+garlic chicken,,,,,,,,,,,,,Pick Up Stix,0.5,Portion,468.31,9.63,0.75,18.01,5.14,173.87,338.29,0.84,664.44,59.04,,,,Unknown
+garlic shrimp,,,,,,,,,,,,,Pick Up Stix,0.5,Portion,224.27,1.31,0.05,10.42,3.7,262.53,266.15,0.16,360.72,32.01,,,,Unknown
+giardiniera,,,,,,,,,,,,,Subway,1.0,Serving,80.0,,,,,,,,,,,,,Unknown
+ginger,458.25,22.349999999999998,5.366666666666667,1.2475,,Diabetic-Friendly Foods,GINGER,SUGAR 'N SPICE,Herbs & Spices,,0.0,,,,,,,,,,,,,,,,,,Unknown
+goat cheese,,,,,,,,,,,,,Sweetgreen,1.0,Serving,74.84,0.0,0.0,5.98,4.13,13.04,130.13,0.0,7.37,5.25,,,,Unknown
+grapefruit,66.8,10.268,1.4,0.02,25.0,Diabetic-Friendly Foods,GRAPEFRUIT,WEGMANS ORGANIC,Pre-Packaged Fruit & Vegetables,,0.77,,,,,,,,,,,,,,,,,,Low
+grapes,,,,,43.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+greek yogurt,167.4,21.824,0.8,5.8100000000000005,,Diabetic-Friendly Foods,GREEK YOGURT,OCEAN SPRAY,"Popcorn, Peanuts, Seeds & Related Snacks",,3.33,,,,,,,,,,,,,,,,,,Unknown
+green beans,27.0,5.8839999999999995,2.1399999999999997,0.0,,Diabetic-Friendly Foods,GREEN BEANS,FREEDOM'S CHOICE,Canned Vegetables,,0.83,,,,,,,,,,,,,,,,,,Unknown
+green peppers,,,,,,,,,,,,,Five Guys,1.0,Serving,31.92,7.64,3.64,0.23,0.03,0.0,2.28,1.37,189.24,1.05,,,,Unknown
+grilled cheese,,,,,,,,,,,,,Culver's,1.0,Order,365.76,28.41,5.44,22.88,13.24,63.26,886.01,1.35,185.27,11.74,,,,Unknown
+"grilled lobster, shrimp & salmon",,,,,,,,,,,,,Red Lobster,1.0,serving,377.28,41.41,15.27,12.21,1.7,232.89,1481.45,7.98,1102.57,31.65,,,,Unknown
+grilled mushrooms,,,,,,,,,,,,,Five Guys,1.0,Serving,10.66,2.71,0.08,0.04,0.01,0.0,0.47,0.41,55.22,0.34,,,,Unknown
+grits,,,,,,,,,,,,,IHOP,1.0,Serving,151.45,32.29,0.21,0.91,0.14,0.0,4.66,1.63,51.26,2.87,,,,Unknown
+"gs, house salad",,,,,,,,,,,,,Yard House,1.0,Serving,147.98,6.38,3.01,12.52,3.07,9.32,175.96,2.79,353.08,3.75,,,,Unknown
+"gs, house steak sauce",,,,,,,,,,,,,Yard House,2.0,fl oz,32.3,7.49,3.34,0.08,0.0,0.0,559.98,0.51,106.08,0.43,,,,Unknown
+"gs, starter house salad",,,,,,,,,,,,,Yard House,1.0,Serving,147.98,6.38,3.01,12.52,3.07,9.32,175.96,2.79,353.08,3.75,,,,Unknown
+guacamole side,,,,,,,,,,,,,Rubio's,1.0,Serving,45.26,2.55,0.16,4.09,0.56,0.0,127.42,1.84,139.74,0.55,,,,Unknown
+guavarita,,,,,,,,,,,,,Yard House,1.0,Serving,270.0,,,,,,,,,,,,,Unknown
+hamburger,,,,,,,,,,,,,McDonald's,1.0,Serving,540.14,40.27,,26.56,10.52,122.04,791.0,,569.52,34.28,,,,Unknown
+hamburger patty,,,,,,,,,,,,,Five Guys,1.0,Serving,197.2,0.0,0.0,11.92,4.53,71.4,67.15,0.0,296.65,20.93,,,,Unknown
+hamburger with onion,,,,,,,,,,,,,In-N-Out Burger,208.0,grams,293.46,24.01,3.2,14.49,6.01,45.56,682.06,2.01,326.96,16.83,,,,Unknown
+hard-boiled eggs,145.2,0.22799999999999998,0.0,9.534,,Diabetic-Friendly Foods,HARD-BOILED EGGS,ARCHER FARMS,Eggs & Egg Substitutes,,12.5,,,,,,,,,,,,,,,,,,Unknown
+hash rounds,,,,,,,,,,,,,Popeye's,1.0,Serving,261.9,45.39,3.2,5.09,1.25,,418.5,1.98,112.5,8.66,,,,Unknown
+hashbrowns,,,,,,,,,,,,,Whataburger,1.0,Serving,144.16,15.31,0.3,9.03,1.35,0.0,299.98,1.43,188.15,1.37,,,,Unknown
+hashrounds,,,,,,,,,,,,,Church's Chicken,1.0,Serving,210.0,,,,,,,,,,,,,Unknown
+hawaiian punch,,,,,,,,,,,,,Popeye's,22.0,oz,313.82,37.94,5.21,11.57,5.18,26.21,799.78,2.84,239.53,14.57,,,,Unknown
+hawaiian wings,,,,,,,,,,,,,Wingstop,1.0,each,313.82,37.94,5.21,11.57,5.18,26.21,799.78,2.84,239.53,14.57,,,,Unknown
+"hearty fireside chili, bread bowl",,,,,,,,,,,,,Panera Bread,1.0,Serving,549.81,104.87,9.34,4.89,1.07,0.0,1216.86,4.45,236.5,21.73,,,,Unknown
+herbed quinoa,,,,,,,,,,,,,Sweetgreen,1.0,Serving,111.0,19.7,0.8,1.78,0.21,0.0,6.48,2.59,159.1,4.07,,,,Unknown
+honey,,,,,,,,,,,,,McDonald's,1.0,Serving,63.84,17.3,17.25,0.0,0.0,0.0,0.84,0.04,10.92,0.06,,,,Unknown
+hot cocoa,,,,,,,,,,,,,In-N-Out Burger,8.0,oz,150.92,31.67,24.78,1.51,0.9,0.0,200.31,1.37,271.66,2.52,,,,Unknown
+hot cocoa with marshmallows,,,,,,,,,,,,,In-N-Out Burger,8.0,oz,22.9,5.85,4.14,0.01,0.0,0.0,5.76,0.01,0.36,0.13,,,,Unknown
+hot dog,,,,,,,,,,,,,Five Guys,1.0,Serving,154.56,1.28,0.61,14.09,5.56,27.84,408.96,0.0,120.96,5.61,,,,Unknown
+hot sauce,,,,,,,,,,,,,Five Guys,1.0,Serving,3.15,0.59,0.38,0.09,0.01,0.0,3.75,0.11,84.6,0.14,,,,Unknown
+hot stuff,,,,,,,,,,,,,Sweetgreen,1.0,Serving,1.78,0.53,,0.0,0.0,0.0,0.0,0.0,37.38,0.0,,,,Unknown
+hotcakes,,,,,,,,,,,,,McDonald's,1.0,Serving,90.8,11.32,,3.88,0.85,23.6,175.6,,52.8,2.56,,,,Unknown
+"house cheesesteak, beef",,,,,,,,,,,,,Yard House,1.0,Serving,648.23,51.96,1.57,34.15,12.87,74.81,706.55,3.74,465.12,33.12,,,,Unknown
+"house cheesesteak, chicken",,,,,,,,,,,,,Yard House,1.0,Serving,257.43,33.2,2.06,9.36,3.69,18.1,531.52,1.56,154.81,9.74,,,,Unknown
+"house light lager, half yard",,,,,,,,,,,,,Yard House,1.0,Serving,147.98,6.38,3.01,12.52,3.07,9.32,175.96,2.79,353.08,3.75,,,,Unknown
+house margarita,,,,,,,,,,,,,Yard House,1.0,Serving,225.55,22.35,19.41,0.03,0.0,0.0,423.55,0.17,52.23,0.18,,,,Unknown
+house salad,,,,,,,,,,,,,Yard House,1.0,Serving,147.98,6.38,3.01,12.52,3.07,9.32,175.96,2.79,353.08,3.75,,,,Unknown
+house tofu,,,,,,,,,,,,,Pick Up Stix,0.5,Portion,147.98,6.38,3.01,12.52,3.07,9.32,175.96,2.79,353.08,3.75,,,,Unknown
+house-brewed iced tea,,,,,,,,,,,,,Yard House,1.0,Serving,2.37,0.71,0.0,0.0,0.0,0.0,7.11,0.0,87.69,0.0,,,,Unknown
+hummus,235.4,17.16,4.9799999999999995,17.119999999999997,6.0,Diabetic-Friendly Foods,HUMMUS,HAFLA,Dips & Salsa,,7.14,,Panera Bread,1.0,Portion,99.6,8.57,,5.76,0.86,0.0,227.4,3.6,136.8,4.74,,,,Low
+"ice cream, full-fat, french vanilla",,,,,38.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+"ice cream, low-fat, vanilla, “light”",,,,,46.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+impossible whopper,,,,,,,,,,,,,Burger King,1.0,serving,194.18,22.67,19.4,11.16,6.04,8.74,32.68,1.25,140.6,2.9,,,,Unknown
+"individual meals, outback ribs, half rack",,,,,,,,,,,,,Outback Steakhouse,1.0,Serving,576.2,62.39,7.68,26.4,9.18,30.1,961.05,4.73,326.8,22.27,,,,Unknown
+insalata,,,,,,,,,,,,,Bertucci's,1.0,Serving,389.72,46.68,4.56,11.63,5.02,32.56,1026.88,1.78,341.87,23.44,,,,Unknown
+instant noodles,,,,,52.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+instant oatmeal,,,,,50.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+italian dressing,,,,,,,,,,,,,Olive Garden Grocery,2.0,tbsp,35.28,1.78,1.58,3.1,0.43,0.0,145.97,0.0,12.35,0.06,,,,Unknown
+"italian dressing, light",,,,,,,,,,,,,Olive Garden Grocery,2.0,tbsp,15.3,1.5,1.37,1.0,0.12,0.0,133.65,0.0,13.5,0.06,,,,Unknown
+jalapeno,,,,,,,,,,,,,Popeye's,1.0,Serving,4.06,0.91,0.58,0.05,0.01,0.0,0.42,0.39,34.72,0.13,,,,Unknown
+jalapeno peppers,,,,,,,,,,,,,Five Guys,1.0,Serving,4.06,0.91,0.58,0.05,0.01,0.0,0.42,0.39,34.72,0.13,,,,Unknown
+jalapenos,,,,,,,,,,,,,Whataburger,1.0,Serving,4.06,0.91,0.58,0.05,0.01,0.0,0.42,0.39,34.72,0.13,,,,Unknown
+jalapno jimmy chips,,,,,,,,,,,,,Jimmy John's,1.0,Serving,147.14,16.56,10.02,9.53,8.21,0.0,1.7,2.18,151.96,0.65,,,,Unknown
+"japanese pan noodles, regular",,,,,,,,,,,,,Noodles & Company,1.0,Serving,112.86,24.44,,0.11,0.02,0.0,68.4,,39.9,5.77,,,,Unknown
+"japanese pan noodles, small",,,,,,,,,,,,,Noodles & Company,1.0,Serving,112.86,24.44,,0.11,0.02,0.0,68.4,,39.9,5.77,,,,Unknown
+jimmy chips,,,,,,,,,,,,,Jimmy John's,1.0,package,129.56,19.35,1.35,4.31,0.38,0.0,242.11,1.08,36.57,3.34,,,,Unknown
+"jimmy chips, jalapeno",,,,,,,,,,,,,Jimmy John's,1.0,package,148.96,15.07,0.09,9.51,0.95,0.0,147.56,0.87,334.88,1.79,,,,Unknown
+"jimmy chips, salt & vinegar potato chips",,,,,,,,,,,,,Jimmy John's Grocery,1.0,package,148.96,15.07,0.09,9.51,0.95,0.0,147.56,0.87,334.88,1.79,,,,Unknown
+"jimmy chips, the original",,,,,,,,,,,,,Jimmy John's Grocery,1.0,package,148.96,15.07,0.09,9.51,0.95,0.0,147.56,0.87,334.88,1.79,,,,Unknown
+jimmy cubano on sliced wheat,,,,,,,,,,,,,Jimmy John's,1.0,Serving,80.64,13.67,1.39,1.12,0.23,0.0,145.6,1.92,81.28,3.98,,,,Unknown
+"jimmy cubano, flour wrap",,,,,,,,,,,,,Jimmy John's,1.0,Serving,234.0,40.03,,5.11,1.26,0.0,344.16,2.38,94.32,6.26,,,,Unknown
+"jimmy cubano, garlic herb wrap",,,,,,,,,,,,,Jimmy John's,1.0,Serving,276.81,41.21,1.36,10.32,6.37,26.17,412.85,0.96,103.47,4.22,,,,Unknown
+"jimmy cubano, unwich",,,,,,,,,,,,,Jimmy John's,1.0,Serving,715.3,36.5,9.49,44.52,16.13,153.6,1293.22,3.47,520.15,41.11,,,,Unknown
+jimmy pickle chips dill flavored potato chips,,,,,,,,,,,,,Jimmy John's Sandwiches,1.0,package,150.54,14.6,,9.61,2.52,1.98,155.64,1.47,377.34,2.3,,,,Unknown
+johnny's breakfast sandwich,,,,,,,,,,,,,Johnny Rockets,1.0,serving,433.47,27.0,0.19,27.43,12.18,237.73,838.25,1.54,262.77,18.57,,,,Unknown
+johnny's breakfast sandwich with bacon,,,,,,,,,,,,,Johnny Rockets,1.0,serving,682.15,72.28,1.17,29.24,12.78,231.12,1703.47,2.68,863.7,31.83,,,,Unknown
+johnny's breakfast sandwich with biscuit,,,,,,,,,,,,,Johnny Rockets,1.0,serving,433.47,27.0,0.19,27.43,12.18,237.73,838.25,1.54,262.77,18.57,,,,Unknown
+"johnny's breakfast sandwich with biscuit, bacon",,,,,,,,,,,,,Johnny Rockets,1.0,serving,682.15,72.28,1.17,29.24,12.78,231.12,1703.47,2.68,863.7,31.83,,,,Unknown
+"johnny's breakfast sandwich with biscuit, sausage",,,,,,,,,,,,,Johnny Rockets,1.0,serving,82.25,0.55,0.0,6.33,1.34,56.0,223.65,0.0,80.15,5.4,,,,Unknown
+johnny's breakfast sandwich with english muffin,,,,,,,,,,,,,Johnny Rockets,1.0,serving,133.98,26.66,5.34,1.39,0.22,0.0,240.24,4.42,138.6,5.81,,,,Unknown
+johnny's breakfast sandwich with sausage,,,,,,,,,,,,,Johnny Rockets,1.0,serving,82.25,0.55,0.0,6.33,1.34,56.0,223.65,0.0,80.15,5.4,,,,Unknown
+johnny's breakfast sandwich with sourdough,,,,,,,,,,,,,Johnny Rockets,1.0,serving,433.47,27.0,0.19,27.43,12.18,237.73,838.25,1.54,262.77,18.57,,,,Unknown
+"johnny's breakfast sandwich with sourdough, bacon",,,,,,,,,,,,,Johnny Rockets,1.0,serving,682.15,72.28,1.17,29.24,12.78,231.12,1703.47,2.68,863.7,31.83,,,,Unknown
+"johnny's breakfast sandwich with sourdough, sausage",,,,,,,,,,,,,Johnny Rockets,1.0,serving,82.25,0.55,0.0,6.33,1.34,56.0,223.65,0.0,80.15,5.4,,,,Unknown
+jr. cheeseburger,,,,,,,,,,,,,Wendy's,1.0,serving,535.31,39.24,7.16,28.66,14.0,95.52,1176.09,2.39,443.77,30.27,,,,Unknown
+jr. hamburger,,,,,,,,,,,,,Wendy's,1.0,serving,355.95,35.3,5.05,16.6,3.05,9.3,719.36,5.25,434.23,16.24,,,,Unknown
+jr. whataburger patty melt (single patty),,,,,,,,,,,,,Whataburger,1.0,Serving,197.2,0.0,0.0,11.92,4.53,71.4,67.15,0.0,296.65,20.93,,,,Unknown
+junior's original cheesecake,,,,,,,,,,,,,Yoshinoya,1.0,serving,404.05,32.37,19.71,28.2,13.57,115.01,344.8,1.14,168.05,6.61,,,,Unknown
+justaburger,,,,,,,,,,,,,Whataburger,1.0,Serving,300.0,,,,,,,,,,,,,Unknown
+kale,69.6,7.366,2.94,1.238,,Diabetic-Friendly Foods,KALE,CUT 'N CLEAN,Pre-Packaged Fruit & Vegetables,,3.54,,,,,,,,,,,,,,,,,,Unknown
+kalua pork nachos bellgrande (regional),,,,,,,,,,,,,Taco Bell,1.0,Order,150.44,9.54,0.43,7.95,2.3,40.87,386.4,0.62,138.84,9.63,,,,Unknown
+ketchup,,,,,,,,,,,,,KFC,27.0,Grams,17.17,4.66,3.62,0.02,0.0,0.0,154.19,0.05,47.77,0.18,,,,Unknown
+kfc chicken sandwich - chipotle ranch,,,,,,,,,,,,,KFC,244.0,grams,556.63,25.78,4.58,28.94,10.33,126.68,996.24,1.01,455.05,45.41,,,,Unknown
+kfc chicken sandwich - honey bbq,,,,,,,,,,,,,KFC,246.0,grams,367.99,50.59,27.76,7.22,1.6,73.36,1057.76,1.33,514.41,25.04,,,,Unknown
+kfc chicken sandwich - honey garlic,,,,,,,,,,,,,KFC,247.0,grams,467.5,39.06,6.81,20.93,3.97,65.45,1408.11,2.62,458.15,30.44,,,,Unknown
+kfc chicken sandwich - korean bbq,,,,,,,,,,,,,KFC,252.0,grams,367.99,50.59,27.76,7.22,1.6,73.36,1057.76,1.33,514.41,25.04,,,,Unknown
+kfc chicken sandwich - mango habanero,,,,,,,,,,,,,KFC,246.0,grams,467.5,39.06,6.81,20.93,3.97,65.45,1408.11,2.62,458.15,30.44,,,,Unknown
+kfc cornbread muffin,,,,,,,,,,,,,KFC,1.0,Piece,344.65,57.63,20.09,9.49,1.53,29.38,527.71,3.84,77.97,6.67,,,,Unknown
+kfc creamy parmesan caesar dressing,,,,,,,,,,,,,KFC,57.0,Grams,115.92,1.9,1.25,11.94,1.74,2.89,265.02,0.1,18.28,0.22,,,,Unknown
+kfc famous bowl,,,,,,,,,,,,,KFC,1.0,Bowl,701.86,74.2,5.39,23.91,11.24,133.53,1390.26,8.17,1149.78,46.53,,,,Unknown
+kfc gizzards,,,,,,,,,,,,,KFC,1.0,Order,69.75,0.0,0.0,2.09,0.48,203.4,57.15,0.0,86.85,11.9,,,,Unknown
+kfc livers,,,,,,,,,,,,,KFC,1.0,Order,73.48,0.38,0.0,2.86,0.91,247.72,33.44,0.0,115.72,10.76,,,,Unknown
+kfc sauce - dipping sauce cup,,,,,,,,,,,,,KFC,25.0,grams,251.92,43.61,28.93,0.82,0.17,0.0,6355.67,2.03,671.17,8.49,,,,Unknown
+kfc saucy nuggets - chipotle ranch (1),,,,,,,,,,,,,KFC,21.0,grams,78.96,0.99,0.47,8.23,1.29,4.61,115.37,0.22,18.85,0.21,,,,Unknown
+kfc saucy nuggets - honey bbq (1),,,,,,,,,,,,,KFC,23.0,grams,193.28,9.66,0.05,12.68,2.09,28.16,362.24,,161.28,10.11,,,,Unknown
+kfc saucy nuggets - honey garlic (1),,,,,,,,,,,,,KFC,21.0,grams,89.99,7.84,4.74,4.68,1.25,16.79,154.31,0.18,63.44,4.37,,,,Unknown
+kfc saucy nuggets - korean bbq (1),,,,,,,,,,,,,KFC,23.0,grams,331.37,16.1,12.1,20.31,6.87,74.22,785.26,0.59,342.05,20.24,,,,Unknown
+kfc saucy nuggets - mango habanero (1),,,,,,,,,,,,,KFC,22.0,grams,104.44,0.19,0.14,8.48,5.34,24.92,168.0,0.0,22.68,6.85,,,,Unknown
+kickin' shrimp,,,,,,,,,,,,,Tony Roma's,1.0,serving,37.58,2.72,0.11,2.28,0.41,10.61,137.25,0.18,13.18,1.55,,,,Unknown
+kid's house salad,,,,,,,,,,,,,Yard House,1.0,Serving,147.98,6.38,3.01,12.52,3.07,9.32,175.96,2.79,353.08,3.75,,,,Unknown
+kidney beans,86.4,15.079999999999998,5.88,0.076,29.0,Diabetic-Friendly Foods,KIDNEY BEANS,JACK'S QUALITY,Canned & Bottled Beans,,7.69,,,,,,,,,,,,,,,,,,Low
+"kidney beans, canned",,,,,52.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+kids apples,,,,,,,,,,,,,Noodles & Company,1.0,Serving,94.64,25.13,18.91,0.31,0.05,0.0,1.82,4.37,194.74,0.47,,,,Unknown
+kids buttered noodles,,,,,,,,,,,,,Noodles & Company,1.0,Serving,297.64,38.27,0.7,12.66,7.51,30.5,92.47,2.23,57.97,7.31,,,,Unknown
+kids grilled chicken,,,,,,,,,,,,,Noodles & Company,1.0,Serving,284.16,0.0,0.0,6.51,1.94,203.52,412.8,0.0,806.4,56.64,,,,Unknown
+kids original beef,,,,,,,,,,,,,Yoshinoya,1.0,serving,148.96,15.07,0.09,9.51,0.95,0.0,147.56,0.87,334.88,1.79,,,,Unknown
+kids petite maine lobster tail,,,,,,,,,,,,,Red Lobster,1.0,serving,378.25,0.0,0.0,24.25,9.55,137.42,76.5,0.0,466.08,37.49,,,,Unknown
+kids smashburger with fries,,,,,,,,,,,,,Smashburger,1.0,Serving,221.52,29.42,0.21,10.46,1.66,0.0,149.1,2.7,411.09,2.44,,,,Unknown
+kids spaghetti & meatballs,,,,,,,,,,,,,Noodles & Company,1.0,Serving,801.12,99.18,11.87,29.73,9.39,77.48,1334.68,9.66,872.46,33.24,,,,Unknown
+kids spaghetti (plain),,,,,,,,,,,,,The Old Spaghetti Factory,1.0,Serving,258.66,61.89,24.24,2.49,0.59,0.0,172.44,13.41,1120.86,6.32,,,,Unknown
+kids spaghetti with brown butter,,,,,,,,,,,,,The Old Spaghetti Factory,1.0,Serving,276.19,34.08,12.31,14.17,3.44,16.38,148.79,0.8,197.75,5.53,,,,Unknown
+kids tenders,,,,,,,,,,,,,Smashburger,1.0,Serving,111.74,7.14,0.09,6.15,1.09,17.02,296.0,0.33,119.88,6.99,,,,Unknown
+kiwi,167.5,32.2,2.175,0.34,,Diabetic-Friendly Foods,KIWI,MIGHTIES,Pre-Packaged Fruit & Vegetables,,1.35,,,,,,,,,,,,,,,,,,Unknown
+large sprite,,,,,,,,,,,,,Burger King,1.0,serving,480.48,63.82,0.46,22.68,3.6,0.0,323.4,5.85,891.66,5.28,,,,Unknown
+lemonade,,,,,,,,,,,,,Chili's,1.0,Serving,98.8,25.74,24.65,0.1,0.01,0.0,9.88,0.0,37.05,0.17,,,,Unknown
+lentil,,,,,,,,,,,,,Bertucci's,1.0,Serving,229.68,39.86,3.56,0.75,0.1,0.0,3.96,15.64,730.62,17.86,,,,Unknown
+lentils,233.0,50.18,15.4,0.702,,Diabetic-Friendly Foods,LENTILS,STATER BROS.,Vegetable and Lentil Mixes,,22.9,,,,,,,,,,,,,,,,,,Unknown
+"lentils, canned",,,,,42.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+lettuce,,,,,,,,,,,,,Five Guys,1.0,Serving,15.98,3.09,1.12,0.28,0.04,0.0,7.52,1.97,232.18,1.16,,,,Unknown
+"lima beans, baby, frozen",,,,,32.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+"little johns freebies, jimmy peppers, ez",,,,,,,,,,,,,Jimmy John's,1.0,Serving,32.2,0.27,0.13,2.94,1.16,5.8,85.2,0.0,25.2,1.17,,,,Unknown
+"little johns freebies, jimmy peppers, reg",,,,,,,,,,,,,Jimmy John's,1.0,Serving,32.2,0.27,0.13,2.94,1.16,5.8,85.2,0.0,25.2,1.17,,,,Unknown
+"little johns freebies, jimmy peppers, xtra",,,,,,,,,,,,,Jimmy John's,1.0,Serving,32.2,0.27,0.13,2.94,1.16,5.8,85.2,0.0,25.2,1.17,,,,Unknown
+"little johns freebies, lettuce, xtra",,,,,,,,,,,,,Jimmy John's,1.0,Serving,7.98,1.69,1.12,0.08,0.01,0.0,5.7,0.68,80.37,0.51,,,,Unknown
+"little johns freebies, onion, xtra",,,,,,,,,,,,,Jimmy John's,1.0,Serving,32.2,0.27,0.13,2.94,1.16,5.8,85.2,0.0,25.2,1.17,,,,Unknown
+"little johns freebies, tomato, xtra",,,,,,,,,,,,,Jimmy John's,1.0,Serving,1129.78,66.63,13.26,46.91,24.08,176.26,3790.74,2.84,1131.45,54.33,,,,Unknown
+"live maine lobster, classic",,,,,,,,,,,,,Red Lobster,1.0,serving,246.89,39.48,18.82,8.81,5.2,51.34,231.37,1.7,210.83,3.77,,,,Unknown
+"live maine lobster, stuffed",,,,,,,,,,,,,Red Lobster,1.0,serving,121.55,2.65,,1.65,0.26,76.5,192.95,0.0,176.8,22.45,,,,Unknown
+loaded nachos,,,,,,,,,,,,,Rubio's,1.0,Serving,315.12,26.76,1.25,20.04,7.3,34.23,766.57,2.07,348.12,8.61,,,,Unknown
+lobster dip,,,,,,,,,,,,,Red Lobster,1.0,serving,121.55,2.65,,1.65,0.26,76.5,192.95,0.0,176.8,22.45,,,,Unknown
+lobster dip platter,,,,,,,,,,,,,Red Lobster,1.0,platter,1061.74,99.12,8.89,54.54,16.8,131.7,2005.14,9.73,1564.34,43.51,,,,Unknown
+lobster flatbread,,,,,,,,,,,,,Red Lobster,1.0,serving,339.6,6.43,1.15,19.74,3.1,117.16,432.51,0.91,350.76,32.19,,,,Unknown
+lobster linguini,,,,,,,,,,,,,Red Lobster,1.0,serving,231.6,8.02,4.53,14.37,8.33,73.83,315.88,0.33,306.31,14.07,,,,Unknown
+lobster lover's duo,,,,,,,,,,,,,Red Lobster,1.0,serving,231.6,8.02,4.53,14.37,8.33,73.83,315.88,0.33,306.31,14.07,,,,Unknown
+lobster pappardelle pasta,,,,,,,,,,,,,Red Lobster,1.0,serving,180.78,34.4,,1.45,0.21,45.54,8.28,,33.12,7.11,,,,Unknown
+lobster punch,,,,,,,,,,,,,Red Lobster,1.0,serving,390.52,9.52,2.75,28.2,6.81,224.83,1353.22,0.89,380.7,23.55,,,,Unknown
+"mac & cheese, bread bowl",,,,,,,,,,,,,Panera Bread,1.0,Serving,549.81,104.87,9.34,4.89,1.07,0.0,1216.86,4.45,236.5,21.73,,,,Unknown
+machaca,,,,,,,,,,,,,IHOP,1.0,Serving,43.38,0.78,0.77,0.55,0.27,22.4,790.97,0.0,66.62,8.82,,,,Unknown
+mangoes,,,,,51.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+maple pepper bacon sandwich with chick-fil-a filet,,,,,,,,,,,,,Chick-fil-A,1.0,Serving,377.88,35.36,4.92,19.62,3.8,42.88,581.56,1.88,294.8,15.09,,,,Unknown
+margarine,,,,,,,,,,,,,Whataburger,1.0,portion cup,101.81,0.1,0.0,11.46,2.16,0.0,0.28,0.0,2.56,0.02,,,,Unknown
+market salad with chick-fil-a filet,,,,,,,,,,,,,Chick-fil-A,1.0,Serving,199.23,6.99,,11.6,2.86,61.77,243.6,0.61,295.8,15.74,,,,Unknown
+mayonnaise,,,,,,,,,,,,,Panera Bread,1.0,Portion,93.84,0.08,0.08,10.33,1.62,5.8,87.63,0.0,2.76,0.13,,,,Unknown
+mcchicken,,,,,,,,,,,,,McDonald's,1.0,Serving,193.28,9.66,0.05,12.68,2.09,28.16,362.24,,161.28,10.11,,,,Unknown
+mccrispy,,,,,,,,,,,,,McDonald's,1.0,Serving,470.0,,,,,,,,,,,,,Unknown
+mcdouble,,,,,,,,,,,,,McDonald's,1.0,Serving,391.64,38.51,8.68,17.48,7.22,52.34,878.77,2.23,303.71,20.09,,,,Unknown
+meatballs,,,,,,,,,,,,,Subway,1.0,Serving,324.32,9.14,3.93,25.19,8.65,74.84,755.24,2.61,335.66,16.33,,,,Unknown
+medium sprite,,,,,,,,,,,,,Burger King,1.0,serving,197.7,25.67,25.58,0.0,0.0,0.0,25.06,0.0,2.88,0.22,,,,Unknown
+memphis burger,,,,,,,,,,,,,Tony Roma's,1.0,burger,355.95,35.3,5.05,16.6,3.05,9.3,719.36,5.25,434.23,16.24,,,,Unknown
+migas,,,,,,,,,,,,,IHOP,1.0,Serving,698.18,22.95,6.49,49.57,23.98,797.43,1040.57,3.5,789.98,41.29,,,,Unknown
+mild sauce,,,,,,,,,,,,,Taco Bell,1.0,tsp,6.3,0.66,0.66,0.0,0.0,0.0,1413.18,0.0,51.84,0.91,,,,Unknown
+mild wings,,,,,,,,,,,,,Wingstop,1.0,each,87.74,2.64,0.06,6.51,2.31,21.95,105.28,0.11,45.88,4.53,,,,Unknown
+milk,,,,,,,,,,,,,Wendy's,1.0,serving,122.0,11.71,12.35,4.83,3.07,19.52,114.68,0.0,341.6,8.05,,,,Unknown
+mixed grain bread,,,,,52.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+mixed nuts,619.4,19.04,8.52,55.96,,Diabetic-Friendly Foods,MIXED NUTS,DIAMOND OF CALIFORNIA,"Popcorn, Peanuts, Seeds & Related Snacks",,16.7,,,,,,,,,,,,,,,,,,Unknown
+mochachino,,,,,,,,,,,,,Bertucci's,1.0,Serving,359.44,47.13,22.74,13.2,8.14,48.39,207.17,1.07,679.73,13.49,,,,Unknown
+mongolian beef,,,,,,,,,,,,,Pick Up Stix,0.5,Portion,457.45,12.57,4.92,28.2,10.23,127.94,1084.45,2.35,715.82,37.31,,,,Unknown
+motts applesauce,,,,,,,,,,,,,Burger King,1.0,serving,75.48,19.41,16.28,0.19,0.03,0.0,2.22,1.33,83.25,0.18,,,,Unknown
+"mountain dew, large",,,,,,,,,,,,,Yoshinoya,1.0,serving,231.77,60.69,61.02,0.0,0.0,0.0,85.14,0.0,9.46,0.0,,,,Unknown
+"mountain dew, regular",,,,,,,,,,,,,Yoshinoya,1.0,serving,231.77,60.69,61.02,0.0,0.0,0.0,85.14,0.0,9.46,0.0,,,,Unknown
+mozzarella cheese,292.8,3.678,0.0,20.06,,Diabetic-Friendly Foods,MOZZARELLA CHEESE,LAURA LYNN,Cheese,,25.0,,,,,,,,,,,,,,,,,,Unknown
+mustard,,,,,,,,,,,,,Five Guys,1.0,Serving,3.0,0.29,0.05,0.17,0.01,0.0,55.2,0.2,7.6,0.19,,,,Unknown
+nachos,,,,,,,,,,,,,Johnny Rockets,1.0,serving,1233.77,26.46,10.07,96.18,39.27,282.47,1744.25,4.0,1257.22,67.11,,,,Unknown
+nachos bell grande,,,,,,,,,,,,,Taco Bell UK,1.0,Order,57.26,2.52,0.65,4.16,2.53,13.14,232.73,0.03,55.26,2.48,,,,Unknown
+nachos bellgrande - beef,,,,,,,,,,,,,Taco Bell,1.0,Order,1233.77,26.46,10.07,96.18,39.27,282.47,1744.25,4.0,1257.22,67.11,,,,Unknown
+nachos bellgrande - chicken,,,,,,,,,,,,,Taco Bell,1.0,Order,1313.69,106.94,3.78,66.21,22.58,192.56,2827.83,8.25,920.74,74.96,,,,Unknown
+nachos bellgrande - steak,,,,,,,,,,,,,Taco Bell,1.0,Order,1242.48,26.46,10.07,97.76,40.31,294.07,1687.74,4.0,1164.48,65.89,,,,Unknown
+nolita's panini,,,,,,,,,,,,,Tony Roma's,1.0,sandwich,622.64,56.73,7.14,31.43,8.74,52.7,2791.59,3.57,430.2,27.6,,,,Unknown
+oat bran bread,,,,,44.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+oatmeal cookies,,,,,54.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+oats,738.2,45.62,5.62,23.619999999999997,,Diabetic-Friendly Foods,OATS,ROLLINI' OATS,Cereal,,12.5,,,,,,,,,,,,,,,,,,Unknown
+oil,,,,,,,,,,,,,Subway,1.0,Serving,123.76,0.0,0.0,14.0,0.91,0.0,0.0,0.0,,0.0,,,,Unknown
+olive oil,739.2,1.428,0.0,83.22,,Diabetic-Friendly Foods,OLIVE OIL,GOYA,Vegetable & Cooking Oils,,0.0,,,,,,,,,,,,,,,,,,Unknown
+onion rings,,,,,,,,,,,,,Smashburger,1.0,Serving,1003.92,114.83,13.2,54.37,9.63,,1951.44,7.33,400.44,13.79,,,,Unknown
+oranges,105.8,26.560000000000002,1.7,0.48999999999999994,,Diabetic-Friendly Foods,ORANGES,LONE STAR,Pre-Packaged Fruit & Vegetables,,0.65,,,,,,,,,,,,,,,,,,Unknown
+"oranges, raw",,,,,48.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+oregano,0.0,0.0,0.0,0.0,,Diabetic-Friendly Foods,OREGANO,SUGAR 'N SPICE,Herbs & Spices,,0.0,,,,,,,,,,,,,,,,,,Unknown
+original chicken sandwich,,,,,,,,,,,,,Church's Chicken,1.0,Serving,418.6,38.59,7.08,10.51,2.18,92.0,982.1,2.07,453.1,39.88,,,,Unknown
+outback center cut sirloin 12 oz (regional),,,,,,,,,,,,,Outback Steakhouse,1.0,Serving,221.0,0.0,,13.4,4.92,69.7,52.7,0.0,340.85,23.49,,,,Unknown
+"outback center cut sirloin, 5 oz (regional)",,,,,,,,,,,,,Outback Steakhouse,1.0,Serving,221.0,0.0,,13.4,4.92,69.7,52.7,0.0,340.85,23.49,,,,Unknown
+"outback center cut sirloin, 8 oz",,,,,,,,,,,,,Outback Steakhouse,1.0,Serving,221.0,0.0,,13.4,4.92,69.7,52.7,0.0,340.85,23.49,,,,Unknown
+"outback center cut sirloin, 9 oz (regional)",,,,,,,,,,,,,Outback Steakhouse,1.0,Serving,221.0,0.0,,13.4,4.92,69.7,52.7,0.0,340.85,23.49,,,,Unknown
+"outback center, cut sirloin, 11 oz",,,,,,,,,,,,,Outback Steakhouse,1.0,Serving,221.0,0.0,,13.4,4.92,69.7,52.7,0.0,340.85,23.49,,,,Unknown
+"outback center, cut sirloin, 6 oz",,,,,,,,,,,,,Outback Steakhouse,1.0,Serving,221.0,0.0,,13.4,4.92,69.7,52.7,0.0,340.85,23.49,,,,Unknown
+outback manhattan,,,,,,,,,,,,,Outback Steakhouse,1.0,Serving,647.9,67.0,6.42,20.28,6.5,95.32,3558.06,4.83,1874.17,48.52,,,,Unknown
+"outback ribs, 1/3 rack (regional)",,,,,,,,,,,,,Outback Steakhouse,1.0,Serving,1954.19,145.37,18.72,146.08,51.32,163.24,3313.59,9.1,545.16,18.36,,,,Unknown
+"outback ribs, full rack",,,,,,,,,,,,,Outback Steakhouse,1.0,Serving,151.9,11.96,11.96,8.11,4.65,26.95,257.25,0.0,330.75,7.86,,,,Unknown
+"outback ribs, half rack",,,,,,,,,,,,,Outback Steakhouse,1.0,Serving,1954.19,145.37,18.72,146.08,51.32,163.24,3313.59,9.1,545.16,18.36,,,,Unknown
+"outback style prime prime, 10 oz(regional)",,,,,,,,,,,,,Outback Steakhouse,1.0,Serving,1954.19,145.37,18.72,146.08,51.32,163.24,3313.59,9.1,545.16,18.36,,,,Unknown
+"outback style prime rib, 12 oz",,,,,,,,,,,,,Outback Steakhouse,1.0,Serving,1954.19,145.37,18.72,146.08,51.32,163.24,3313.59,9.1,545.16,18.36,,,,Unknown
+"outback style prime rib, 16 oz",,,,,,,,,,,,,Outback Steakhouse,1.0,Serving,1954.19,145.37,18.72,146.08,51.32,163.24,3313.59,9.1,545.16,18.36,,,,Unknown
+pancake platter,,,,,,,,,,,,,Burger King,1.0,serving,1080.65,95.65,8.59,55.52,16.97,140.9,1283.4,8.31,1570.14,47.97,,,,Unknown
+parsley,0.0,0.0,0.0,0.0,,Diabetic-Friendly Foods,PARSLEY,CUB,Herbs & Spices,,0.0,,,,,,,,,,,,,,,,,,Unknown
+"parsnips, peeled boiled",,,,,52.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+pastrami,,,,,,,,,,,,,Subway,1.0,Serving,104.37,0.26,0.07,4.13,1.9,48.28,765.38,0.0,149.1,15.48,,,,Unknown
+peaches,172.8,41.538,4.9799999999999995,0.068,,Diabetic-Friendly Foods,PEACHES,NUTT,Wholesome Snacks,,2.5,,,,,,,,,,,,,,,,,,Unknown
+"peaches, canned in light syrup",,,,,52.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+pears,152.0,24.18,5.08,0.074,,Diabetic-Friendly Foods,PEARS,ROBINSON FRESH,Pre-Packaged Fruit & Vegetables,,0.6,,,,,,,,,,,,,,,,,,Unknown
+pepperoni,,,,,,,,,,,,,Subway,3.0,Slices,10.08,0.02,0.0,0.93,0.35,1.94,31.64,0.0,5.48,0.39,,,,Unknown
+pepsi,,,,,,,,,,,,,Popeye's,22.0,oz,155.4,38.33,36.78,0.93,0.0,0.0,11.1,0.0,18.5,0.0,,,,Unknown
+pepsi (bottle),,,,,,,,,,,,,Yoshinoya,1.0,bottle,155.4,38.33,36.78,0.93,0.0,0.0,11.1,0.0,18.5,0.0,,,,Unknown
+"pepsi, large",,,,,,,,,,,,,Yoshinoya,1.0,serving,71.5,0.36,0.19,4.76,1.56,186.0,71.0,0.0,69.0,6.28,,,,Unknown
+"pepsi, regular",,,,,,,,,,,,,Yoshinoya,1.0,serving,155.4,38.33,36.78,0.93,0.0,0.0,11.1,0.0,18.5,0.0,,,,Unknown
+philly melt,,,,,,,,,,,,,Burger King,1.0,serving,390.88,54.89,8.52,13.53,6.31,35.15,1114.8,0.51,203.02,11.0,,,,Unknown
+pickles,,,,,,,,,,,,,Subway,3.0,Chips,4.2,0.84,0.37,0.11,0.03,0.0,283.15,0.35,40.95,0.18,,,,Unknown
+pineapple,,,,,51.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+pinto beans,119.2,26.025,6.38,0.154,,Diabetic-Friendly Foods,PINTO BEANS,KROGER,Canned & Bottled Beans,,4.62,,,,,,,,,,,,,,,,,,Unknown
+plain wings,,,,,,,,,,,,,Smashburger,1.0,Serving,87.74,2.64,0.06,6.51,2.31,21.95,105.28,0.11,45.88,4.53,,,,Unknown
+plums,199.0,23.6,3.283333333333333,0.4944,53.0,Diabetic-Friendly Foods,"Plums, raw",,Fruits and Fruit Juices,,0.7,,,,,,,,,,,,,,,,,,Low
+popcorn,349.0,68.06,9.2,6.142,,Diabetic-Friendly Foods,POPCORN,RALEY'S,"Popcorn, Peanuts, Seeds & Related Snacks",,11.8,,,,,,,,,,,,,,,,,,Unknown
+"potato, white, boiled",,,,,54.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+"potstickers, regular",,,,,,,,,,,,,Noodles & Company,5.0,each,78.9,7.45,0.39,3.8,0.85,9.19,140.33,0.48,70.11,3.53,,,,Unknown
+"potstickers, small",,,,,,,,,,,,,Noodles & Company,1.0,Serving,78.9,7.45,0.39,3.8,0.85,9.19,140.33,0.48,70.11,3.53,,,,Unknown
+pretzel baconator,,,,,,,,,,,,,Wendy's,1.0,serving,930.6,62.34,15.28,52.34,20.22,165.0,2224.2,4.29,785.4,52.07,,,,Unknown
+provolone,,,,,,,,,,,,,Subway,1.0,Serving,99.51,0.61,0.16,7.55,4.84,19.56,248.35,0.0,39.12,7.25,,,,Unknown
+pumpkin seeds,537.6,17.84,12.52,44.339999999999996,,Diabetic-Friendly Foods,PUMPKIN SEEDS,VALUED NATURALS,"Popcorn, Peanuts, Seeds & Related Snacks",,23.3,,,,,,,,,,,,,,,,,,Unknown
+quinoa,306.4,58.48,6.359999999999999,4.965999999999999,,Diabetic-Friendly Foods,QUINOA,EASY QUINOA,Frozen Dinners & Entrees,,2.86,,,,,,,,,,,,,,,,,,Unknown
+ranch dip,,,,,,,,,,,,,Wingstop,3.25,oz Cup,129.0,1.77,1.41,13.36,2.09,7.8,270.3,0.0,19.2,0.4,,,,Unknown
+raspberries,64.0,14.62,5.540000000000001,0.49799999999999994,,Diabetic-Friendly Foods,RASPBERRIES,AHOLD,Frozen Fruit & Fruit Juice Concentrates,,1.43,,,,,,,,,,,,,,,,,,Unknown
+regular,,,,,,,,,,,,,Johnny Rockets,1.0,serving,153.08,12.64,0.0,0.0,0.0,0.0,14.24,0.0,96.12,1.64,,,,Unknown
+regular jimmy chips,,,,,,,,,,,,,Jimmy John's,1.0,Serving,153.08,12.64,0.0,0.0,0.0,0.0,14.24,0.0,96.12,1.64,,,,Unknown
+relish,,,,,,,,,,,,,Five Guys,1.0,Serving,19.5,5.26,4.37,0.07,0.01,0.0,121.65,0.17,3.75,0.06,,,,Unknown
+rice crispy,,,,,,,,,,,,,Noodles & Company,1.0,Serving,120.59,27.25,11.97,0.84,0.65,0.0,131.44,0.43,61.07,1.43,,,,Unknown
+ricotta cheese,121.2,6.266,0.32,4.646,,Diabetic-Friendly Foods,RICOTTA CHEESE,B-L,Cheese,,11.3,,,,,,,,,,,,,,,,,,Unknown
+rodeo burger,,,,,,,,,,,,,Burger King,1.0,serving,540.14,40.27,,26.56,10.52,122.04,791.0,,569.52,34.28,,,,Unknown
+rodeo cheeseburger,,,,,,,,,,,,,Burger King,1.0,serving,595.02,39.86,9.77,33.46,12.93,105.5,1422.14,2.74,502.18,33.3,,,,Unknown
+roma's dinner salad,,,,,,,,,,,,,Tony Roma's,1.0,salad without dressing,147.98,6.38,3.01,12.52,3.07,9.32,175.96,2.79,353.08,3.75,,,,Unknown
+roma's sampler (served with original bbq sauce),,,,,,,,,,,,,Tony Roma's,1.0,serving,37.65,5.26,4.96,2.03,0.4,0.0,10.05,0.17,14.4,0.1,,,,Unknown
+roma's side caesar dinner salad,,,,,,,,,,,,,Tony Roma's,1.0,serving,252.63,20.45,4.53,15.22,5.01,26.6,2116.67,4.21,603.98,12.44,,,,Unknown
+roma's side dinner salad,,,,,,,,,,,,,Tony Roma's,1.0,serving,147.98,6.38,3.01,12.52,3.07,9.32,175.96,2.79,353.08,3.75,,,,Unknown
+rubio's street taco with all natural chicken,,,,,,,,,,,,,Rubio's,1.0,Serving,279.92,24.04,5.41,19.18,5.9,29.26,313.09,2.66,287.57,7.14,,,,Unknown
+rubio's street taco with all natural chicken three taco plate,,,,,,,,,,,,,Rubio's,1.0,Serving,247.05,26.74,0.84,8.37,2.14,25.01,456.31,2.91,253.8,12.63,,,,Unknown
+rubio's street taco with all natural steak,,,,,,,,,,,,,Rubio's,1.0,Serving,875.03,78.1,5.39,47.73,16.82,104.69,2105.07,19.17,1471.15,38.13,,,,Unknown
+rubio's street taco with all natural steak three taco plate,,,,,,,,,,,,,Rubio's,1.0,Serving,200.16,7.25,1.67,16.93,2.63,0.0,118.66,2.86,216.21,8.3,,,,Unknown
+"rye flour bread, 50%  rye flour, 50% wheat flour",,,,,50.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+rye kernel bread,,,,,41.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+salmon,911.4,0.8939999999999999,0.13999999999999999,29.689999999999998,,Diabetic-Friendly Foods,SALMON,SEA CUISINE,Fish & Seafood,,19.0,,IHOP,1.0,Serving,467.62,0.0,0.0,28.03,5.44,143.01,138.47,0.0,871.68,50.17,,,,Unknown
+"salmon, blackened",,,,,,,,,,,,,Tony Roma's,1.0,serving,265.77,2.78,0.22,24.05,14.87,153.88,1190.37,0.82,132.19,10.66,,,,Unknown
+"salmon, grilled",,,,,,,,,,,,,Tony Roma's,1.0,serving,467.62,0.0,0.0,28.03,5.44,143.01,138.47,0.0,871.68,50.17,,,,Unknown
+salt,,,,,,,,,,,,,Subway,1.0,Serving,0.0,0.0,0.0,0.0,0.0,0.0,581.37,0.0,0.12,0.0,,,,Unknown
+salt & vinegar jimmy chips,,,,,,,,,,,,,Jimmy John's,1.0,Serving,148.96,15.07,0.09,9.51,0.95,0.0,147.56,0.87,334.88,1.79,,,,Unknown
+sauce,,,,,,,,,,,,,Chick-fil-A,2.0,Tbsp,66.0,9.81,6.48,2.13,0.29,2.64,576.84,2.38,422.4,1.83,,,,Unknown
+"sauce, chipotle, creamy",,,,,,,,,,,,,Taco Bell,2.0,tbsp,39.38,8.44,6.58,0.69,0.06,0.14,261.87,0.52,89.65,0.79,,,,Unknown
+sausage biscuit,,,,,,,,,,,,,Wendy's,1.0,serving,411.81,33.29,1.76,27.11,8.24,31.08,903.54,0.44,169.83,10.73,,,,Unknown
+scrapple,,,,,,,,,,,,,IHOP,1.0,Serving,119.28,7.87,0.11,7.77,2.65,27.44,269.92,0.17,88.48,4.51,,,,Unknown
+"seasoning mix, original taco",,,,,,,,,,,,,Taco Bell,2.0,tsp,37.65,5.26,4.96,2.03,0.4,0.0,10.05,0.17,14.4,0.1,,,,Unknown
+shack attack sundae,,,,,,,,,,,,,Shake Shack,1.0,Serving,378.7,47.17,39.59,18.74,10.37,62.69,131.19,1.87,344.66,6.14,,,,Unknown
+shack red wine,,,,,,,,,,,,,Shake Shack,6.0,oz,164.8,14.1,8.01,0.0,0.0,0.0,9.27,0.0,94.76,0.21,,,,Unknown
+shack red wine can,,,,,,,,,,,,,Shake Shack,8.399999618530273,oz,164.8,14.1,8.01,0.0,0.0,0.0,9.27,0.0,94.76,0.21,,,,Unknown
+shack rose wine can,,,,,,,,,,,,,Shake Shack,8.399999618530273,oz,125.74,5.76,5.76,0.0,0.0,0.0,7.58,0.0,89.38,0.55,,,,Unknown
+shack sparkling wine can,,,,,,,,,,,,,Shake Shack,8.399999618530273,oz,120.54,3.82,1.41,0.0,0.0,0.0,7.35,0.0,104.37,0.1,,,,Unknown
+shack stack,,,,,,,,,,,,,Shake Shack,1.0,Serving,770.0,,,,,,,,,,,,,Unknown
+shack white wine,,,,,,,,,,,,,Shake Shack,6.0,oz,120.54,3.82,1.41,0.0,0.0,0.0,7.35,0.0,104.37,0.1,,,,Unknown
+shack white wine can,,,,,,,,,,,,,Shake Shack,8.399999618530273,oz,2.68,0.01,0.01,0.0,0.0,0.0,0.3,0.0,0.3,0.0,,,,Unknown
+shack-cago dog,,,,,,,,,,,,,Shake Shack,1.0,Serving,378.55,42.72,8.51,17.72,6.25,28.77,1705.25,3.9,582.75,13.46,,,,Unknown
+shack2o sparkling,,,,,,,,,,,,,Shake Shack,1.0,Serving,2.37,0.31,0.0,0.0,0.0,0.0,33.18,0.0,9.48,0.0,,,,Unknown
+shackmeister cheddar brat,,,,,,,,,,,,,Shake Shack,1.0,Serving,227.92,1.64,0.08,19.9,7.3,48.51,652.96,0.0,158.62,9.93,,,,Unknown
+shacksauce,,,,,,,,,,,,,Shake Shack,1.0,Serving,60.0,,,,,,,,,,,,,Unknown
+side of lobster-topped baked potato,,,,,,,,,,,,,Red Lobster,1.0,serving,344.61,34.58,1.76,18.09,9.88,52.33,517.87,3.13,767.44,11.99,,,,Unknown
+side of lobster-topped mashed potatoes,,,,,,,,,,,,,Red Lobster,1.0,serving,204.08,9.85,4.33,16.78,9.93,43.62,695.78,4.6,310.64,6.55,,,,Unknown
+sierra mist (bottle),,,,,,,,,,,,,Yoshinoya,1.0,bottle,0.0,0.0,,0.0,0.0,0.0,5.0,0.0,0.0,0.0,,,,Unknown
+"sierra mist, large",,,,,,,,,,,,,Yoshinoya,1.0,serving,71.5,0.36,0.19,4.76,1.56,186.0,71.0,0.0,69.0,6.28,,,,Unknown
+"sierra mist, regular",,,,,,,,,,,,,Yoshinoya,1.0,serving,153.08,12.64,0.0,0.0,0.0,0.0,14.24,0.0,96.12,1.64,,,,Unknown
+"silverlake shack, double",,,,,,,,,,,,,Shake Shack,1.0,Serving,342.89,40.94,5.29,16.83,7.32,0.0,447.32,4.86,224.07,8.74,,,,Unknown
+"silverlake shack, single",,,,,,,,,,,,,Shake Shack,1.0,Serving,65.52,1.85,1.3,4.85,2.8,16.38,274.89,0.0,59.43,3.6,,,,Unknown
+single shackburger,,,,,,,,,,,,,Shake Shack,1.0,Serving,65.52,1.85,1.3,4.85,2.8,16.38,274.89,0.0,59.43,3.6,,,,Unknown
+skim milk,,,,,32.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+smash fries,,,,,,,,,,,,,Smashburger,1.0,Serving,221.52,29.42,0.21,10.46,1.66,0.0,149.1,2.7,411.09,2.44,,,,Unknown
+smash tots,,,,,,,,,,,,,Smashburger,1.0,Serving,161.28,22.92,0.23,7.6,1.39,0.0,388.92,1.68,241.08,1.79,,,,Unknown
+snickers,,,,,43.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+snoodledoodle cookie,,,,,,,,,,,,,Noodles & Company,1.0,Serving,135.45,17.24,6.28,6.53,3.78,26.49,161.41,1.03,42.12,2.23,,,,Unknown
+soft taco - beef,,,,,,,,,,,,,Taco Bell,1.0,Taco,130.0,22.24,,2.84,0.7,0.0,191.2,1.32,52.4,3.48,,,,Unknown
+soft taco - chicken,,,,,,,,,,,,,Taco Bell,1.0,Taco,130.0,22.24,,2.84,0.7,0.0,191.2,1.32,52.4,3.48,,,,Unknown
+soy milk,,,,,43.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+spaghetti vesuvius,,,,,,,,,,,,,The Old Spaghetti Factory,1.0,Serving,258.66,61.89,24.24,2.49,0.59,0.0,172.44,13.41,1120.86,6.32,,,,Unknown
+spicy chicken sandwich,,,,,,,,,,,,,Church's Chicken,1.0,Serving,419.52,41.65,5.17,20.66,3.74,44.08,937.84,2.13,272.08,16.63,,,,Unknown
+"spicy korean beef noodles, regular",,,,,,,,,,,,,Noodles & Company,1.0,Serving,873.76,98.4,6.65,42.56,6.93,0.0,1522.4,8.49,587.37,26.96,,,,Unknown
+"spicy korean beef noodles, small",,,,,,,,,,,,,Noodles & Company,1.0,Serving,873.76,98.4,6.65,42.56,6.93,0.0,1522.4,8.49,587.37,26.96,,,,Unknown
+spicy southwest salad with chick-fil-a filet,,,,,,,,,,,,,Chick-fil-A,1.0,Serving,491.43,42.3,7.21,19.4,4.72,86.82,681.87,10.11,778.3,38.53,,,,Unknown
+spinach,21.8,3.07,1.8199999999999998,0.0,,Diabetic-Friendly Foods,SPINACH,AHOLD,Pre-Packaged Fruit & Vegetables,,3.53,,,,,,,,,,,,,,,,,,Unknown
+"split peas, yellow, boiled",,,,,25.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+sponge cake,,,,,46.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+sprite,,,,,,,,,,,,,Olive Garden,1.0,serving,151.29,38.45,38.3,0.0,0.0,0.0,36.9,0.0,3.69,0.33,,,,Unknown
+"sprite, large",,,,,,,,,,,,,Wendy's,1.0,serving,151.29,38.45,38.3,0.0,0.0,0.0,36.9,0.0,3.69,0.33,,,,Unknown
+"sprite, medium",,,,,,,,,,,,,Wendy's,1.0,serving,151.29,38.45,38.3,0.0,0.0,0.0,36.9,0.0,3.69,0.33,,,,Unknown
+"sprite, regular",,,,,,,,,,,,,Wingstop,1.0,Serving,83.28,21.03,18.78,0.32,0.09,0.0,41.64,1.85,527.44,1.25,,,,Unknown
+"sprite, small",,,,,,,,,,,,,Wendy's,1.0,serving,83.28,21.03,18.78,0.32,0.09,0.0,41.64,1.85,527.44,1.25,,,,Unknown
+steak,,,,,,,,,,,,,Subway,1.0,Serving,614.38,0.0,0.0,40.77,16.05,214.37,114.92,0.0,698.36,57.81,,,,Unknown
+steakhouse burger,,,,,,,,,,,,,Tony Roma's,1.0,burger,595.02,39.86,9.77,33.46,12.93,105.5,1422.14,2.74,502.18,33.3,,,,Unknown
+steakhouse mac & cheese,,,,,,,,,,,,,Outback Steakhouse,1.0,Serving,376.2,47.38,8.45,16.39,3.6,5.94,669.24,2.38,255.42,9.68,,,,Unknown
+steakhouse mac & cheese bites,,,,,,,,,,,,,Outback Steakhouse,1.0,Serving,87.05,5.81,0.22,5.97,2.6,21.31,98.01,0.3,27.31,2.53,,,,Unknown
+strawberries,35.25,8.747499999999999,1.725,0.078,40.0,Diabetic-Friendly Foods,STRAWBERRIES,NEW SEASONS,Frozen Fruit & Fruit Juice Concentrates,,0.71,,,,,,,,,,,,,,,,,,Low
+strawberry cheesecake,,,,,,,,,,,,,Tony Roma's,1.0,serving,482.15,59.05,44.76,25.59,11.84,66.62,376.87,1.76,228.97,5.83,,,,Unknown
+strawberry jam,,,,,51.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+strawberry shake,,,,,,,,,,,,,In-N-Out Burger,15.0,oz,424.88,71.06,,10.53,6.52,41.36,312.08,1.5,684.32,12.78,,,,Unknown
+subkrunch,,,,,,,,,,,,,Subway,1.0,Serving,70.0,,,,,,,,,,,,,Unknown
+"subway club meats (turkey, ham, roast beef)",,,,,,,,,,,,,Subway,1.0,Serving,491.11,34.71,6.4,25.37,8.11,93.6,1713.88,2.23,728.81,30.06,,,,Unknown
+sugar,,,,,,,,,,,,,Panera Bread,1.0,Packet,16.25,4.2,4.19,0.0,0.0,0.0,0.04,0.0,0.08,0.0,,,,Unknown
+sunflower seeds,441.4,17.6,8.14,37.38,,Diabetic-Friendly Foods,SUNFLOWER SEEDS,WILD DUTCHMAN,"Popcorn, Peanuts, Seeds & Related Snacks",,11.7,,,,,,,,,,,,,,,,,,Unknown
+sushi,,,,,55.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+sweet potatoes,83.6,20.02,2.96,0.0,,Diabetic-Friendly Foods,SWEET POTATOES,RALEY'S,Pre-Packaged Fruit & Vegetables,,1.18,,,,,,,,,,,,,,,,,,Unknown
+sweetgreen hot sauce,,,,,,,,,,,,,Sweetgreen,1.0,Serving,0.52,0.08,0.06,0.02,0.0,0.0,124.22,0.01,6.77,0.02,,,,Unknown
+"taco shells, bell essentials, crunchy",,,,,,,,,,,,,Taco Bell,3.0,taco shells,158.01,13.7,0.62,8.76,3.02,19.32,273.93,2.69,144.21,6.11,,,,Unknown
+taco tuesday - crunchy beef taco,,,,,,,,,,,,,Taco Bell UK,1.0,serving,158.01,13.7,0.62,8.76,3.02,19.32,273.93,2.69,144.21,6.11,,,,Unknown
+tea,,,,,,,,,,,,,Olive Garden,1.0,serving,1.78,0.53,,0.0,0.0,0.0,0.0,0.0,37.38,0.0,,,,Unknown
+tempeh,431.8,12.516,6.3,8.004000000000001,,Diabetic-Friendly Foods,Tempeh,LIGHTLIFE,Legumes and Legume Products,,20.3,,,,,,,,,,,,,,,,,,Unknown
+teriyaki tofu,,,,,,,,,,,,,Pick Up Stix,0.5,Portion,298.14,15.42,12.89,20.14,2.41,0.0,711.04,2.1,327.11,18.63,,,,Unknown
+tfc (blended sauce),,,,,,,,,,,,,Yoshinoya,1.0,serving,75.48,19.41,16.28,0.19,0.03,0.0,2.22,1.33,83.25,0.18,,,,Unknown
+the best fridays margarita,,,,,,,,,,,,,TGI Friday's,1.0,Serving,250.13,24.68,17.53,0.03,0.0,0.0,10.16,0.11,134.71,0.36,,,,Unknown
+"the culver's bacon deluxe, double",,,,,,,,,,,,,Culver's,1.0,Order,857.74,41.71,11.07,50.23,20.26,193.28,1764.18,2.74,858.26,57.82,,,,Unknown
+"the culver's bacon deluxe, single",,,,,,,,,,,,,Culver's,1.0,Order,65.52,1.85,1.3,4.85,2.8,16.38,274.89,0.0,59.43,3.6,,,,Unknown
+"the culver's bacon deluxe, triple",,,,,,,,,,,,,Culver's,1.0,Order,771.9,40.24,8.19,47.73,19.96,156.87,1586.13,1.25,572.7,45.32,,,,Unknown
+"the culver's deluxe, double",,,,,,,,,,,,,Culver's,1.0,Order,342.89,40.94,5.29,16.83,7.32,0.0,447.32,4.86,224.07,8.74,,,,Unknown
+"the culver's deluxe, single",,,,,,,,,,,,,Culver's,1.0,Order,65.52,1.85,1.3,4.85,2.8,16.38,274.89,0.0,59.43,3.6,,,,Unknown
+"the culver's deluxe, triple",,,,,,,,,,,,,Culver's,1.0,Order,741.22,29.11,10.56,25.84,9.31,368.61,2468.88,3.14,1245.61,93.05,,,,Unknown
+the outbacker burger with american cheese,,,,,,,,,,,,,Outback Steakhouse,1.0,Serving,23.68,2.14,1.59,0.13,0.08,1.76,244.48,0.0,46.08,3.6,,,,Unknown
+thursday lobster & shrimp,,,,,,,,,,,,,Red Lobster,1.0,serving,231.6,8.02,4.53,14.37,8.33,73.83,315.88,0.33,306.31,14.07,,,,Unknown
+thursday lobster & shrimp with broccoli,,,,,,,,,,,,,Red Lobster,1.0,serving,186.67,12.35,2.06,2.53,0.71,239.13,1133.94,4.88,626.31,29.34,,,,Unknown
+tiramisu,,,,,,,,,,,,,Olive Garden,1.0,serving,572.0,35.11,20.65,44.36,25.45,306.58,300.41,0.33,160.95,8.29,,,,Unknown
+tofu,79.75,1.745,0.8999999999999999,4.3725000000000005,,Diabetic-Friendly Foods,TOFU,ALOHA TOFU,Other Meats,,9.41,,,,,,,,,,,,,,,,,,Unknown
+tomato basil miche bread,,,,,,,,,,,,,Panera Bread,57.0,gram,370.1,12.24,4.31,21.46,3.75,134.25,355.21,1.43,435.68,30.58,,,,Unknown
+tomato soup,,,,,38.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+tomatoes,,,,,,,,,,,,,Subway,3.0,Wheels,22.14,4.78,3.23,0.25,0.03,0.0,6.15,1.48,291.51,1.08,,,,Unknown
+"tortillas, zero net carbs, chipotle",,,,,,,,,,,,,Guerrero,1.0,tortilla,80.88,13.39,1.35,0.82,0.17,0.0,137.54,2.79,27.55,6.98,,,,Unknown
+tots,,,,,,,,,,,,,Smashburger,1.0,Serving,161.28,22.92,0.23,7.6,1.39,0.0,388.92,1.68,241.08,1.79,,,,Unknown
+tuna,,,,,,,,,,,,,Subway,1.0,Serving,110.5,0.0,0.0,0.5,0.17,39.95,45.9,0.0,447.95,24.78,,,,Unknown
+turkey breast,99.4,1.786,0.0,1.268,,Diabetic-Friendly Foods,TURKEY BREAST,DIESTEL,"Pepperoni, Salami & Cold Cuts",,28.1,,,,,,,,,,,,,,,,,,Unknown
+turmeric,0.0,75.0,15.6,0.0,,Diabetic-Friendly Foods,TURMERIC,LA FLOR,Herbs & Spices,,0.0,,,,,,,,,,,,,,,,,,Unknown
+twister,,,,,,,,,,,,,KFC,1.0,Sandwich,680.0,,,,,,,,,,,,,Unknown
+unsweetened almond milk,130.0,3.3176,0.1,1.492,,Diabetic-Friendly Foods,"Almond milk, unsweetened, plain, refrigerated",,Beverages,,0.656,,,,,,,,,,,,,,,,,,Unknown
+unsweetened soy milk,193.0,3.8862,0.06,1.722,,Diabetic-Friendly Foods,"Soy milk, unsweetened, plain, shelf stable",,Legumes and Legume Products,,3.55,,,,,,,,,,,,,,,,,,Unknown
+vanilla shake,,,,,,,,,,,,,In-N-Out Burger,15.0,oz,350.56,55.56,55.56,9.48,5.9,37.56,297.35,0.0,572.79,12.08,,,,Unknown
+veggie shack double,,,,,,,,,,,,,Shake Shack,1.0,Serving,342.89,40.94,5.29,16.83,7.32,0.0,447.32,4.86,224.07,8.74,,,,Unknown
+veggie shack single,,,,,,,,,,,,,Shake Shack,1.0,Serving,65.52,1.85,1.3,4.85,2.8,16.38,274.89,0.0,59.43,3.6,,,,Unknown
+vinegar,13.4,1.334,0.0,0.0,,Diabetic-Friendly Foods,VINEGAR,RALEY'S,Other Cooking Sauces,,0.0,,,,,,,,,,,,,,,,,,Unknown
+wake up shack,,,,,,,,,,,,,Shake Shack,1.0,Serving,399.84,58.22,41.96,16.93,10.22,92.61,145.53,0.56,54.77,4.19,,,,Unknown
+walnuts,657.6,14.459999999999999,6.14,64.32000000000001,,Diabetic-Friendly Foods,WALNUTS,PUBLIX,"Popcorn, Peanuts, Seeds & Related Snacks",,14.3,,,,,,,,,,,,,,,,,,Unknown
+"water crackers, whole grain, sesame seeds",,,,,53.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+wednesday steak & lobster,,,,,,,,,,,,,Red Lobster,1.0,serving,115.5,0.0,0.0,1.13,0.27,190.5,634.5,0.0,300.0,24.78,,,,Unknown
+wednesday steak & lobster with baked potato,,,,,,,,,,,,,Red Lobster,1.0,serving,344.61,34.58,1.76,18.09,9.88,52.33,517.87,3.13,767.44,11.99,,,,Unknown
+whataburger patty melt,,,,,,,,,,,,,Whataburger,1.0,Serving,197.2,0.0,0.0,11.92,4.53,71.4,67.15,0.0,296.65,20.93,,,,Unknown
+whipped cream,,,,,,,,,,,,,Five Guys,1.0,Serving,15.42,0.75,0.48,1.33,0.83,4.56,0.48,0.0,8.82,0.19,,,,Unknown
+"white rice, boiled",,,,,47.0,,,,,,,,,,,,,,,,,,,,,,,,Low
+whole grain lahvash bread,,,,,,,,,,,,,Panera Bread,1.0,Lahvash,303.16,48.98,3.6,7.1,3.08,1.06,495.02,5.09,196.1,10.81,,,,Unknown
+whole wheat pasta,912.8,65.1,9.76,4.582,,Diabetic-Friendly Foods,WHOLE WHEAT PASTA,DELALLO,Pasta by Shape & Type,,10.7,,,,,,,,,,,,,,,,,,Unknown
+whopper,,,,,,,,,,,,,Burger King,1.0,serving,194.18,22.67,19.4,11.16,6.04,8.74,32.68,1.25,140.6,2.9,,,,Unknown
+wrap,,,,,,,,,,,,,Subway,1.0,Serving,234.0,40.03,,5.11,1.26,0.0,344.16,2.38,94.32,6.26,,,,Unknown
+zucchini,61.75,4.32,0.988,0.20700000000000002,,Diabetic-Friendly Foods,ZUCCHINI,FRESH FROM THE FARM,Pre-Packaged Fruit & Vegetables,,1.05,,,,,,,,,,,,,,,,,,Unknown

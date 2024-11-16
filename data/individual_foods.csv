@@ -1,0 +1,701 @@
+food_name,category,description,brand,food_category,calories,carbohydrates,fiber,sugars,fats,proteins,score
+Broccoli,Individual Foods,BROCCOLI,GREAT VALUE,Frozen Vegetables,24.0,4.71,3.5,1.18,0.0,2.35,0.356
+Broccoli,Individual Foods,BROCCOLI,EAT SMART,Pre-Packaged Fruit & Vegetables,29.0,4.71,3.5,2.35,0.0,3.53,0.315
+Broccoli,Individual Foods,BROCCOLI,,Pre-Packaged Fruit & Vegetables,34.0,5.41,2.0,1.35,0.34,2.7,0.338
+Broccoli,Individual Foods,BROCCOLI,MAMBO,Frozen Vegetables,29.0,3.53,2.4,1.18,0.0,1.18,0.324
+Broccoli,Individual Foods,BROCCOLI,GOOD & GATHER,Frozen Vegetables,24.0,4.71,3.5,1.18,0.0,2.35,0.356
+Spinach,Individual Foods,SPINACH,AHOLD,Pre-Packaged Fruit & Vegetables,24.0,3.53,2.4,0.0,0.0,3.53,0.383
+Spinach,Individual Foods,SPINACH,ESSENTIAL EVERYDAY,Canned Vegetables,21.0,3.33,1.7,0.0,0.0,1.67,0.363
+Spinach,Individual Foods,SPINACH,,Pre-Packaged Fruit & Vegetables,24.0,3.53,2.4,0.0,0.0,2.35,0.377
+Spinach,Individual Foods,SPINACH,MIRACLE NOODLE,Pasta by Shape & Type,18.0,2.35,0.0,0.0,0.0,1.18,0.328
+Spinach,Individual Foods,SPINACH,WINN-DIXIE,Canned Vegetables,17.0,2.61,2.6,0.0,0.0,2.61,0.373
+Kale,Individual Foods,KALE,CUT 'N CLEAN,Pre-Packaged Fruit & Vegetables,53.0,9.73,1.8,0.0,0.88,3.54,0.434
+Kale,Individual Foods,KALE,GREENWISE,Pre-Packaged Fruit & Vegetables,47.0,8.24,3.5,2.35,1.18,4.71,0.355
+Kale,Individual Foods,KALE,,Pre-Packaged Fruit & Vegetables,53.0,9.73,1.8,0.0,0.88,3.54,0.434
+Kale,Individual Foods,KALE,O ORGANICS,Pre-Packaged Fruit & Vegetables,47.0,4.71,3.5,1.18,1.76,2.35,0.356
+Kale,Individual Foods,"Kale, raw",,Vegetables and Vegetable Products,148.0,4.42,4.1,0.99,1.49,2.92,0.372
+Cauliflower,Individual Foods,CAULIFLOWER,AVENUE,Frozen Vegetables,24.0,4.71,2.4,2.35,0.0,2.35,0.295
+Cauliflower,Individual Foods,CAULIFLOWER,TOPS,Frozen Vegetables,312.0,50.0,25.0,25.0,0.0,12.5,0.639
+Cauliflower,Individual Foods,CAULIFLOWER,NATURE'S PROMISE,Frozen Vegetables,18.0,3.53,2.4,0.0,0.0,0.0,0.366
+Cauliflower,Individual Foods,CAULIFLOWER,ANDY BOY,Pre-Packaged Fruit & Vegetables,24.0,2.35,2.4,0.0,0.59,2.35,0.366
+Cauliflower,Individual Foods,CAULIFLOWER,WYLWOOD,Frozen Vegetables,24.0,3.53,2.4,1.18,0.0,2.35,0.33
+Zucchini,Individual Foods,ZUCCHINI,FRESH FROM THE FARM,Pre-Packaged Fruit & Vegetables,21.0,4.21,1.1,3.16,0.0,1.05,0.234
+Zucchini,Individual Foods,"Squash, zucchini, baby, raw",,Vegetables and Vegetable Products,88.0,3.11,1.1,,0.4,2.71,-1.0
+Zucchini,Individual Foods,"Squash, summer, zucchini, includes skin, raw",,Vegetables and Vegetable Products,17.0,3.11,1.0,2.5,0.32,1.21,0.249
+Zucchini,Individual Foods,"Squash, summer, zucchini, italian style, canned",,Vegetables and Vegetable Products,121.0,6.85,,,0.11,1.03,-1.0
+Zucchini,Individual Foods,"Squash, summer, green, zucchini, includes skin, raw",,Vegetables and Vegetable Products,,,0.752,,0.205,0.984,-1.0
+Bell peppers,Individual Foods,BELL PEPPERS,PERO FAMILY FARMS,Pre-Packaged Fruit & Vegetables,18.0,4.71,1.2,2.35,0.0,1.18,0.273
+Bell peppers,Individual Foods,"Peppers, bell, green, raw",,Vegetables and Vegetable Products,,4.78,0.942,,0.106,0.715,-1.0
+Bell peppers,Individual Foods,"Peppers, bell, orange, raw",,Vegetables and Vegetable Products,,6.7,0.967,,0.156,0.882,-1.0
+Bell peppers,Individual Foods,"Peppers, bell, red, raw",,Vegetables and Vegetable Products,,6.65,1.16,,0.126,0.896,-1.0
+Bell peppers,Individual Foods,"Peppers, bell, yellow, raw",,Vegetables and Vegetable Products,,6.6,1.07,,0.121,0.819,-1.0
+Potatoes,Individual Foods,POTATOES,,Pre-Packaged Fruit & Vegetables,74.0,16.9,2.0,0.68,0.0,2.7,0.474
+Potatoes,Individual Foods,POTATOES,,Pre-Packaged Fruit & Vegetables,61.0,12.8,1.4,1.35,0.0,2.03,0.397
+Potatoes,Individual Foods,POTATOES,,Pre-Packaged Fruit & Vegetables,88.0,19.6,2.0,2.03,0.0,2.03,0.442
+Potatoes,Individual Foods,POTATOES,,Pre-Packaged Fruit & Vegetables,74.0,17.6,1.4,0.68,0.0,2.03,0.469
+Potatoes,Individual Foods,POTATOES,NOT A BRANDED ITEM,Pre-Packaged Fruit & Vegetables,74.0,17.6,1.4,0.68,0.0,2.03,0.469
+Cucumber,Individual Foods,"Cucumber, peeled, raw",,Vegetables and Vegetable Products,44.0,2.16,0.7,1.38,0.16,0.59,0.278
+Cucumber,Individual Foods,"Cucumber, with peel, raw",,Vegetables and Vegetable Products,15.0,3.63,0.5,1.67,0.11,0.65,0.278
+Cucumber,Individual Foods,"Cucumber, with peel, raw",,Vegetables and Vegetable Products,,2.95,,,0.178,0.625,-1.0
+Cucumber,Individual Foods,"Pickles, cucumber, sour",,Vegetables and Vegetable Products,11.0,2.26,1.2,1.06,0.2,0.33,0.297
+Cucumber,Individual Foods,"Pickles, cucumber, dill or kosher dill",,Vegetables and Vegetable Products,50.0,1.99,1.0,,0.43,0.48,-1.0
+Asparagus,Individual Foods,ASPARAGUS,WEGMANS,Pre-Packaged Fruit & Vegetables,18.0,3.53,2.4,2.35,0.0,2.35,0.283
+Asparagus,Individual Foods,ASPARAGUS,FOOD LION,Pre-Packaged Fruit & Vegetables,22.0,4.3,2.2,2.15,0.0,2.15,0.295
+Asparagus,Individual Foods,ASPARAGUS,WELLSLEY FARMS,Pre-Packaged Fruit & Vegetables,18.0,3.53,2.4,2.35,0.0,2.35,0.283
+Asparagus,Individual Foods,ASPARAGUS,NATURE BLESSED,Frozen Vegetables,29.0,4.71,2.4,1.18,0.0,1.18,0.336
+Asparagus,Individual Foods,ASPARAGUS,PERO FAMILY FARMS,Pre-Packaged Fruit & Vegetables,18.0,3.53,2.4,2.35,0.0,2.35,0.283
+Green beans,Individual Foods,GREEN BEANS,FREEDOM'S CHOICE,Canned Vegetables,17.0,3.33,1.7,1.67,0.0,0.83,0.292
+Green beans,Individual Foods,GREEN BEANS,APPLAUSE,Frozen Vegetables,37.0,8.64,2.5,3.7,0.0,1.23,0.274
+Green beans,Individual Foods,GREEN BEANS,GIANT EAGLE,Pre-Packaged Fruit & Vegetables,29.0,7.06,2.4,3.53,0.0,2.35,0.27
+Green beans,Individual Foods,GREEN BEANS,WINN-DIXIE,Canned Vegetables,17.0,3.33,1.7,1.67,0.0,0.83,0.292
+Green beans,Individual Foods,GREEN BEANS,GOOD & GATHER,Canned Vegetables,35.0,7.06,2.4,3.53,0.0,2.35,0.27
+Brussels sprouts,Individual Foods,BRUSSELS SPROUTS,EAT SMART,Pre-Packaged Fruit & Vegetables,41.0,9.41,3.5,2.35,0.35,3.53,0.36
+Brussels sprouts,Individual Foods,BRUSSELS SPROUTS,FOOD LION,Frozen Vegetables,53.0,9.41,3.5,2.35,0.0,3.53,0.36
+Brussels sprouts,Individual Foods,BRUSSELS SPROUTS,STATER BROS.,Frozen Vegetables,53.0,9.41,3.5,2.35,0.0,3.53,0.36
+Brussels sprouts,Individual Foods,BRUSSELS SPROUTS,RALEY'S,Frozen Vegetables,53.0,9.41,3.5,2.35,0.0,3.53,0.36
+Brussels sprouts,Individual Foods,BRUSSELS SPROUTS,PICTSWEET,Frozen Vegetables,53.0,9.41,3.5,2.35,0.0,3.53,0.36
+Mushrooms,Individual Foods,MUSHROOMS,SE GROCERS,Canned Vegetables,7.0,1.76,1.3,0.0,0.0,0.88,0.338
+Mushrooms,Individual Foods,MUSHROOMS,PAMPA,Canned Vegetables,23.0,3.08,2.3,0.0,0.77,2.31,0.372
+Mushrooms,Individual Foods,MUSHROOMS,GIANT EAGLE,Canned Vegetables,27.0,5.31,2.7,2.65,0.0,1.77,0.289
+Mushrooms,Individual Foods,MUSHROOMS,SLICED,Canned Vegetables,22.0,2.65,1.8,0.88,0.0,1.77,0.323
+Mushrooms,Individual Foods,MUSHROOMS,CULINARIA,Canned Vegetables,21.0,4.17,1.7,0.0,0.0,0.83,0.367
+Celery,Individual Foods,CELERY,,Pre-Packaged Fruit & Vegetables,14.0,3.64,1.8,1.82,0.0,0.0,0.286
+Celery,Individual Foods,CELERY,,Pre-Packaged Fruit & Vegetables,14.0,3.64,1.8,1.82,0.0,0.0,0.286
+Celery,Individual Foods,CELERY,AHOLD,Pre-Packaged Fruit & Vegetables,14.0,3.64,1.8,1.82,0.0,0.0,0.286
+Celery,Individual Foods,"Celery, raw",,Vegetables and Vegetable Products,,3.32,,,0.162,0.492,-1.0
+Celery,Individual Foods,"Celery, raw",,Vegetables and Vegetable Products,57.0,2.97,1.6,1.34,0.17,0.69,0.299
+Eggplant,Individual Foods,"Eggplant, pickled",,Vegetables and Vegetable Products,49.0,9.77,2.5,4.8,0.7,0.9,0.239
+Eggplant,Individual Foods,"Eggplant, raw",,Vegetables and Vegetable Products,25.0,5.88,3.0,3.53,0.18,0.98,0.26
+Eggplant,Individual Foods,"Eggplant, raw",,Vegetables and Vegetable Products,,5.4,2.45,,0.12,0.852,-1.0
+Eggplant,Individual Foods,"Eggplant, cooked, boiled, drained, with salt",,Vegetables and Vegetable Products,33.0,8.14,2.5,3.2,0.23,0.83,0.287
+Eggplant,Individual Foods,"Eggplant, cooked, boiled, drained, without salt",,Vegetables and Vegetable Products,35.0,8.73,2.5,3.2,0.23,0.83,0.293
+Cabbage,Individual Foods,"Cabbage, kimchi",,Vegetables and Vegetable Products,15.0,2.4,1.6,1.06,0.5,1.1,0.307
+Cabbage,Individual Foods,"Cabbage, raw",,Vegetables and Vegetable Products,25.0,5.8,2.5,3.2,0.1,1.28,0.267
+Cabbage,Individual Foods,"Cabbage, green, raw",,Vegetables and Vegetable Products,,6.38,,,0.228,0.961,-1.0
+Cabbage,Individual Foods,"Cabbage, mustard, salted",,Vegetables and Vegetable Products,28.0,5.63,3.1,1.4,0.1,1.1,0.344
+Cabbage,Individual Foods,"Cabbage, napa, cooked",,Vegetables and Vegetable Products,12.0,2.23,,,0.17,1.1,-1.0
+Okra,Individual Foods,OKRA,,Frozen Vegetables,44.0,8.0,1.0,0.0,0.0,3.0,0.405
+Okra,Individual Foods,OKRA,,Frozen Vegetables,30.0,7.0,2.0,3.0,0.0,2.0,0.283
+Okra,Individual Foods,OKRA,,Pre-Packaged Fruit & Vegetables,36.0,7.23,1.2,2.41,0.0,2.41,0.301
+Okra,Individual Foods,OKRA,COAST ASIA,Pre-Packaged Fruit & Vegetables,30.0,7.23,3.6,1.2,0.0,2.41,0.381
+Okra,Individual Foods,"Okra, raw",,Vegetables and Vegetable Products,138.0,7.45,3.2,1.48,0.19,1.93,0.364
+Apples,Individual Foods,APPLES,APPLE COUNTRY,Pre-Packaged Fruit & Vegetables,52.0,14.3,3.2,10.4,0.0,0.0,0.179
+Apples,Individual Foods,APPLES,MICHIGAN APPLES,Pre-Packaged Fruit & Vegetables,54.0,14.0,2.1,10.3,0.0,0.41,0.163
+Apples,Individual Foods,APPLES,BIG Y,Pre-Packaged Fruit & Vegetables,52.0,14.3,3.2,10.4,0.0,0.0,0.179
+Apples,Individual Foods,APPLES,ATLAS,Pre-Packaged Fruit & Vegetables,52.0,14.3,3.2,11.0,0.0,1.95,0.189
+Apples,Individual Foods,APPLES,ALL FRESH GPS,Pre-Packaged Fruit & Vegetables,54.0,14.0,2.1,10.3,0.0,0.41,0.163
+Strawberries,Individual Foods,STRAWBERRIES,NEW SEASONS,Frozen Fruit & Fruit Juice Concentrates,36.0,9.29,,4.29,0.0,0.71,-1.0
+Strawberries,Individual Foods,STRAWBERRIES,AHOLD,Frozen Fruit & Fruit Juice Concentrates,36.0,9.29,2.1,6.43,0.0,0.71,0.163
+Strawberries,Individual Foods,STRAWBERRIES,TAYLOR FARMS,Pre-Packaged Fruit & Vegetables,35.0,7.84,2.0,4.71,0.39,0.78,0.217
+Strawberries,Individual Foods,STRAWBERRIES,PARDES FARMS,Frozen Fruit & Fruit Juice Concentrates,,8.57,0.7,5.71,0.0,1.43,0.17
+Strawberries,Individual Foods,STRAWBERRIES,AHOLD,Frozen Fruit & Fruit Juice Concentrates,36.0,9.29,2.1,6.43,0.0,0.71,0.163
+Blueberries,Individual Foods,BLUEBERRIES,PARADE,Frozen Fruit & Fruit Juice Concentrates,50.0,12.1,2.9,8.57,0.71,0.0,0.154
+Blueberries,Individual Foods,BLUEBERRIES,SPRINGFIELD,Frozen Fruit & Fruit Juice Concentrates,39.0,8.57,2.1,6.43,0.71,0.0,0.152
+Blueberries,Individual Foods,BLUEBERRIES,BEST YET,Frozen Fruit & Fruit Juice Concentrates,57.0,12.1,2.9,8.57,0.71,0.71,0.157
+Blueberries,Individual Foods,BLUEBERRIES,MEIJER,Frozen Fruit & Fruit Juice Concentrates,50.0,12.1,2.9,8.57,0.71,0.71,0.157
+Blueberries,Individual Foods,BLUEBERRIES,DOLE,Frozen Fruit & Fruit Juice Concentrates,57.0,12.1,2.9,8.57,0.71,0.71,0.157
+Raspberries,Individual Foods,RASPBERRIES,AHOLD,Frozen Fruit & Fruit Juice Concentrates,50.0,12.1,6.4,4.29,0.71,1.43,0.336
+Raspberries,Individual Foods,RASPBERRIES,REMLINGER FARMS,Frozen Fruit & Fruit Juice Concentrates,106.0,26.1,4.2,21.8,0.0,0.7,0.308
+Raspberries,Individual Foods,RASPBERRIES,WEIS,Frozen Fruit & Fruit Juice Concentrates,50.0,12.1,6.4,4.29,0.71,1.43,0.336
+Raspberries,Individual Foods,RASPBERRIES,GREAT VALUE,Frozen Fruit & Fruit Juice Concentrates,50.0,10.7,4.3,2.86,0.36,1.43,0.352
+Raspberries,Individual Foods,RASPBERRIES,GOOD & DELISH,Pre-Packaged Fruit & Vegetables,53.0,11.8,6.5,4.7,0.59,1.18,0.317
+Oranges,Individual Foods,ORANGES,LONE STAR,Pre-Packaged Fruit & Vegetables,45.0,13.6,4.5,9.09,0.0,0.65,0.193
+Oranges,Individual Foods,ORANGES,,Pre-Packaged Fruit & Vegetables,49.0,12.3,1.9,8.44,0.15,0.65,0.146
+Oranges,Individual Foods,"Marmalade, orange",,Sweets,246.0,66.3,0.7,60.0,0.0,0.3,0.379
+Oranges,Individual Foods,"Sherbet, orange",,Sweets,144.0,30.4,1.3,24.3,2.0,1.1,0.312
+Oranges,Individual Foods,"Babyfood, juice, orange",,Baby Foods,45.0,10.2,0.1,8.26,0.3,0.6,0.101
+Peaches,Individual Foods,PEACHES,NUTT,Wholesome Snacks,238.0,62.5,7.5,42.5,0.0,2.5,0.517
+Peaches,Individual Foods,PEACHES,NUTTY & FRUITY,Wholesome Snacks,285.0,65.0,7.5,40.0,0.0,0.0,0.481
+Peaches,Individual Foods,PEACHES,NUTTY & FRUITY,Wholesome Snacks,264.0,60.7,7.1,42.9,0.0,0.0,0.517
+Peaches,Individual Foods,PEACHES,MICHIGAN FARM TO FREEZER,Pre-Packaged Fruit & Vegetables,36.0,9.29,1.4,6.43,0.0,0.0,0.15
+Peaches,Individual Foods,PEACHES,BRANDT,Pre-Packaged Fruit & Vegetables,41.0,10.2,1.4,8.84,0.34,0.68,0.119
+Grapefruit,Individual Foods,GRAPEFRUIT,WEGMANS ORGANIC,Pre-Packaged Fruit & Vegetables,42.0,10.8,1.5,6.95,0.0,0.77,0.149
+Grapefruit,Individual Foods,GRAPEFRUIT,Q SPECTACULAR,Soda,45.0,10.8,,9.91,0.0,0.0,-1.0
+Grapefruit,Individual Foods,GRAPEFRUIT,FRESH ROBINSON,Pre-Packaged Fruit & Vegetables,39.0,9.74,1.3,7.14,0.0,0.65,0.128
+Grapefruit,Individual Foods,GRAPEFRUIT,Q,Soda,45.0,10.8,,9.91,0.0,0.0,-1.0
+Grapefruit,Individual Foods,"Grapefruit juice, pink, raw",,Fruits and Fruit Juices,163.0,9.2,,,0.1,0.5,-1.0
+Cherries,Individual Foods,CHERRIES,DELL'S MARASCHINO CHERRIES,Baking Decorations & Dessert Toppings,83.0,33.3,0.0,16.7,0.0,0.0,0.317
+Cherries,Individual Foods,CHERRIES,SNACK WORTHY,Wholesome Snacks,324.0,78.4,0.0,75.7,0.0,0.0,0.253
+Cherries,Individual Foods,CHERRIES,LEHI VALLEY TRADING CO,Wholesome Snacks,325.0,80.0,5.0,55.0,0.0,2.5,0.317
+Cherries,Individual Foods,CHERRIES,MARIANI,Pre-Packaged Fruit & Vegetables,325.0,82.5,2.5,70.0,0.0,2.5,0.26
+Cherries,Individual Foods,"Cherries, sweet, raw",,Fruits and Fruit Juices,263.0,16.0,2.1,12.8,0.2,1.06,0.186
+Pears,Individual Foods,PEARS,ROBINSON FRESH,Pre-Packaged Fruit & Vegetables,60.0,15.7,3.6,9.64,0.0,0.6,0.201
+Pears,Individual Foods,PEARS,NUTTY & FRUITY,Wholesome Snacks,288.0,67.5,15.0,35.0,0.0,2.5,0.47
+Pears,Individual Foods,"Pears, raw",,Fruits and Fruit Juices,57.0,15.2,3.1,9.75,0.14,0.36,0.188
+Pears,Individual Foods,"Babyfood, juice, pear",,Baby Foods,179.0,11.9,0.1,7.28,0.0,0.0,0.123
+Pears,Individual Foods,"Pears, asian, raw",,Fruits and Fruit Juices,176.0,10.6,3.6,7.05,0.23,0.5,0.169
+Plums,Individual Foods,"Plums, raw",,Fruits and Fruit Juices,46.0,11.4,1.4,9.92,0.28,0.7,0.131
+Plums,Individual Foods,"Carissa, (natal-plum), raw",,Fruits and Fruit Juices,259.0,13.6,,,1.3,0.5,-1.0
+Plums,Individual Foods,"Java-plum, (jambolan), raw",,Fruits and Fruit Juices,251.0,15.6,,,0.23,0.72,-1.0
+Plums,Individual Foods,"Plum, black, with skin, raw",,Fruits and Fruit Juices,,13.5,1.35,,0.282,0.578,-1.0
+Plums,Individual Foods,"Plums, dried (prunes), uncooked",,Fruits and Fruit Juices,240.0,63.9,7.1,38.1,0.38,2.18,0.497
+Kiwi,Individual Foods,KIWI,MIGHTIES,Pre-Packaged Fruit & Vegetables,61.0,14.9,2.7,8.78,0.68,1.35,0.185
+Kiwi,Individual Foods,KIWI,MIGHTIES,Pre-Packaged Fruit & Vegetables,61.0,14.9,2.7,8.78,0.68,1.35,0.185
+Kiwi,Individual Foods,KIWI,AHOLD,Pre-Packaged Fruit & Vegetables,,,,,,,-1.0
+Kiwi,Individual Foods,KIWI,REGAL GOURMET SNACKS,Wholesome Snacks,353.0,86.7,3.3,66.7,0.0,0.0,0.218
+Kiwi,Individual Foods,"Beverages, Kiwi Strawberry Juice Drink",,Beverages,195.0,12.3,0.0,11.6,0.0,0.0,0.117
+Watermelon,Individual Foods,WATERMELON,NOOSH,Pre-Packaged Fruit & Vegetables,31.0,7.45,0.4,6.27,0.25,0.78,0.129
+Watermelon,Individual Foods,WATERMELON,,Pre-Packaged Fruit & Vegetables,29.0,7.45,0.4,7.06,0.0,0.39,0.096
+Watermelon,Individual Foods,WATERMELON,NOOSH,Pre-Packaged Fruit & Vegetables,31.0,7.5,0.4,6.17,0.44,0.44,0.132
+Watermelon,Individual Foods,WATERMELON,RACETRAC,Pre-Packaged Fruit & Vegetables,29.0,7.69,0.6,6.41,0.0,0.64,0.128
+Watermelon,Individual Foods,WATERMELON,DE LISH,Pre-Packaged Fruit & Vegetables,31.0,7.45,0.4,6.27,0.25,0.78,0.129
+Blackberries,Individual Foods,BLACKBERRIES,PACIFIC COAST,Frozen Fruit & Fruit Juice Concentrates,43.0,9.29,5.0,4.29,0.36,1.43,0.291
+Blackberries,Individual Foods,BLACKBERRIES,HEINEN'S,Frozen Fruit & Fruit Juice Concentrates,59.0,15.4,5.1,11.0,0.37,1.47,0.222
+Blackberries,Individual Foods,BLACKBERRIES,WINCO FOODS,Frozen Fruit & Fruit Juice Concentrates,64.0,12.9,5.0,10.7,0.0,0.0,0.19
+Blackberries,Individual Foods,BLACKBERRIES,WEGMANS,Frozen Fruit & Fruit Juice Concentrates,71.0,15.7,5.0,10.7,0.36,1.43,0.223
+Blackberries,Individual Foods,BLACKBERRIES,GREAT VALUE,Frozen Fruit & Fruit Juice Concentrates,71.0,16.4,5.0,6.43,0.0,1.43,0.273
+Pineapple,Individual Foods,PINEAPPLE,GOLDEN PACK,Wholesome Snacks,,78.6,4.3,64.3,0.0,0.0,0.309
+Pineapple,Individual Foods,PINEAPPLE,NOOSH,Pre-Packaged Fruit & Vegetables,43.0,11.8,0.0,8.23,0.25,0.39,0.114
+Pineapple,Individual Foods,PINEAPPLE,SVENHARD'S,"Cakes, Cupcakes, Snack Cakes",386.0,50.9,0.0,29.8,19.3,3.51,0.502
+Pineapple,Individual Foods,PINEAPPLE,LILLY'S FAMILY FOODS,Wholesome Snacks,370.0,93.0,2.0,77.0,0.0,0.0,0.141
+Pineapple,Individual Foods,PINEAPPLE,,Canned Fruit,53.0,12.9,1.2,10.0,0.0,0.59,0.142
+Pomegranate,Individual Foods,POMEGRANATE,H2ALOE,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",48.0,12.1,0.0,12.1,0.0,0.0,0.115
+Pomegranate,Individual Foods,POMEGRANATE,VILLAGE MACAROONS,Cookies & Biscuits,429.0,57.1,7.1,7.14,21.4,14.3,0.637
+Pomegranate,Individual Foods,"Pomegranates, raw",,Fruits and Fruit Juices,346.0,18.7,4.0,13.7,1.17,1.67,0.24
+Pomegranate,Individual Foods,"Pomegranate juice, bottled",,Fruits and Fruit Juices,54.0,13.1,0.1,12.6,0.29,0.15,0.127
+Pomegranate,Individual Foods,"Beverages, OCEAN SPRAY, Cran Pomegranate",,Beverages,47.0,12.6,0.6,12.0,0.01,0.07,0.128
+Quinoa,Individual Foods,QUINOA,EASY QUINOA,Frozen Dinners & Entrees,107.0,20.0,2.1,2.14,1.79,2.86,0.447
+Quinoa,Individual Foods,QUINOA,EILLIEN'S,Other Grains & Seeds,357.0,64.3,7.1,0.0,7.14,14.3,0.854
+Quinoa,Individual Foods,QUINOA,,Other Grains & Seeds,360.0,70.0,6.0,2.0,4.0,10.0,0.683
+Quinoa,Individual Foods,QUINOA,SUNRISE NATURAL FOODS,Other Grains & Seeds,375.0,71.4,7.1,0.0,7.14,14.3,0.786
+Quinoa,Individual Foods,QUINOA,KROGER,Other Grains & Seeds,333.0,66.7,9.5,4.76,4.76,14.3,0.646
+Barley,Individual Foods,BARLEY,FABI-SAA,Other Grains & Seeds,106.0,23.9,0.9,1.77,0.0,1.77,0.478
+Barley,Individual Foods,BARLEY,MI COSTENITA,Other Grains & Seeds,0.0,0.0,0.0,0.0,0.0,0.0,0.3
+Barley,Individual Foods,BARLEY,GOYA,Other Grains & Seeds,354.0,77.1,14.6,0.0,1.04,10.4,0.718
+Barley,Individual Foods,"Barley, hulled",,Cereal Grains and Pasta,1480.0,73.5,17.3,0.8,2.3,12.5,0.73
+Barley,Individual Foods,"Flour, barley",,Cereal Grains and Pasta,,77.4,12.8,,2.45,8.72,-1.0
+Brown rice,Individual Foods,BROWN RICE,,Rice,349.0,76.7,4.7,0.0,2.33,9.3,0.679
+Brown rice,Individual Foods,BROWN RICE,BIG WIN,Rice,378.0,75.6,6.7,0.0,3.33,8.89,0.714
+Brown rice,Individual Foods,BROWN RICE,GOYA,Rice,357.0,76.2,4.8,0.0,3.57,7.14,0.674
+Brown rice,Individual Foods,BROWN RICE,GIANT EAGLE,Rice,380.0,78.0,4.0,0.0,3.0,8.0,0.65
+Brown rice,Individual Foods,BROWN RICE,SESMARK,Crackers & Biscotti,400.0,76.7,3.3,0.0,6.67,6.67,0.647
+Oats,Individual Foods,OATS,ROLLINI' OATS,Cereal,375.0,67.5,10.0,2.5,6.25,12.5,0.72
+Oats,Individual Foods,OATS,CLOVER VALLEY,Cereal,375.0,67.5,10.0,2.5,6.25,12.5,0.72
+Oats,Individual Foods,"Oil, oat",,Fats and Oils,884.0,0.0,0.0,0.0,100.0,0.0,0.3
+Oats,Individual Foods,"Bagels, oat bran",,Baked Products,1070.0,53.3,3.6,1.63,1.2,10.7,0.829
+Oats,Individual Foods,"Bread, oat bran",,Baked Products,987.0,39.8,4.5,7.7,4.4,10.4,0.491
+Whole wheat pasta,Individual Foods,WHOLE WHEAT PASTA,DELALLO,Pasta by Shape & Type,357.0,76.8,10.7,1.79,2.68,10.7,0.65
+Whole wheat pasta,Individual Foods,"Pasta, whole grain, 51% whole wheat, remaining unenriched semolina, cooked",,Cereal Grains and Pasta,665.0,31.5,4.6,0.85,1.5,5.82,0.656
+Whole wheat pasta,Individual Foods,"Pasta, whole grain, 51% whole wheat, remaining unenriched semolina, dry",,Cereal Grains and Pasta,362.0,73.1,10.1,2.6,2.68,13.5,0.667
+Whole wheat pasta,Individual Foods,"Crackers, whole-wheat",,Baked Products,1790.0,69.6,10.3,1.19,14.1,10.6,0.743
+Whole wheat pasta,Individual Foods,"Wheat flour, whole-grain, soft wheat",,Cereal Grains and Pasta,1390.0,74.5,13.1,1.02,1.95,9.61,0.698
+Buckwheat,Individual Foods,Buckwheat,,Cereal Grains and Pasta,1440.0,71.5,10.0,,3.4,13.2,-1.0
+Buckwheat,Individual Foods,BUCKWHEAT,LIOR,Cereal,92.0,19.6,2.7,0.89,0.6,2.98,0.502
+Buckwheat,Individual Foods,"Flour, buckwheat",,Cereal Grains and Pasta,,75.0,10.4,,2.48,8.88,-1.0
+Buckwheat,Individual Foods,"Buckwheat, whole grain",,Cereal Grains and Pasta,,71.1,4.05,,3.04,11.1,-1.0
+Buckwheat,Individual Foods,"Buckwheat flour, whole-groat",,Cereal Grains and Pasta,335.0,70.6,10.0,2.6,3.1,12.6,0.687
+Wild Rice,Individual Foods,WILD RICE,365 EVERYDAY VALUE,Rice,354.0,75.0,6.2,2.08,1.04,14.6,0.658
+Wild Rice,Individual Foods,WILD RICE,ROLAND,Rice,378.0,77.8,4.4,0.0,1.11,13.3,0.684
+Wild Rice,Individual Foods,WILD RICE,EDEN,Rice,356.0,77.8,6.7,0.0,1.11,13.3,0.715
+Wild Rice,Individual Foods,WILD RICE,HY-VEE,Rice,356.0,75.6,6.7,2.22,1.44,15.6,0.659
+Wild Rice,Individual Foods,WILD RICE,FALL RIVER WILD RICE,"Entrees, Sides & Small Meals",150.0,30.7,2.9,0.71,0.36,5.0,0.628
+White Rice,Individual Foods,WHITE RICE,FOOD LION,Rice,356.0,80.0,2.2,0.0,0.0,6.67,0.601
+White Rice,Individual Foods,WHITE RICE,FOOD LION,Rice,333.0,77.8,0.0,0.0,0.0,6.67,0.592
+White Rice,Individual Foods,WHITE RICE,RICE ON THE SIDE,Rice,356.0,83.0,1.7,0.0,0.0,6.78,0.566
+White Rice,Individual Foods,WHITE RICE,MINUTE,Rice,370.0,82.6,0.0,0.0,0.0,8.7,0.557
+White Rice,Individual Foods,WHITE RICE,EGYPT'S BEST RICE,Rice,344.0,77.8,0.0,0.0,0.0,6.67,0.592
+Couscous,Individual Foods,COUSCOUS,HY-VEE,Pasta by Shape & Type,378.0,77.8,4.4,2.22,0.0,13.3,0.595
+Couscous,Individual Foods,COUSCOUS,,Pasta by Shape & Type,378.0,73.3,4.4,0.0,0.0,13.3,0.727
+Couscous,Individual Foods,COUSCOUS,365 EVERYDAY VALUE,Pasta by Shape & Type,355.0,74.2,3.2,1.61,1.61,11.3,0.628
+Couscous,Individual Foods,COUSCOUS,PASKESZ,Pasta by Shape & Type,384.0,96.0,0.2,0.0,0.0,1.0,0.393
+Couscous,Individual Foods,COUSCOUS,MEIJER,Pasta by Shape & Type,356.0,72.6,5.5,0.0,0.68,13.7,0.75
+Farro,Individual Foods,FARRO,SIMPLY BALANCED,Other Grains & Seeds,133.0,29.3,2.7,0.0,0.67,3.33,0.632
+Farro,Individual Foods,FARRO,PEREG,Other Grains & Seeds,374.0,70.3,6.6,2.2,2.2,15.4,0.707
+Farro,Individual Foods,FARRO,HY-VEE SELECT,Other Grains & Seeds,311.0,66.7,6.7,0.0,,13.3,0.821
+Farro,Individual Foods,FARRO,RALEY'S,Other Grains & Seeds,143.0,29.3,2.9,0.0,0.36,5.71,0.646
+Farro,Individual Foods,FARRO,WEGMANS,Other Grains & Seeds,356.0,73.3,6.7,0.0,1.11,13.3,0.758
+Bulgur,Individual Foods,BULGUR,MEIJER,Other Grains & Seeds,341.0,67.0,8.0,1.14,2.27,12.5,0.779
+Bulgur,Individual Foods,BULGUR,WILD GARDEN,Other Grains & Seeds,150.0,32.0,4.0,6.0,1.0,4.0,0.438
+Bulgur,Individual Foods,BULGUR,PEREG,Cereal,342.0,76.0,18.0,0.4,1.3,12.0,0.72
+Bulgur,Individual Foods,"Bulgur, cooked",,Cereal Grains and Pasta,347.0,18.6,4.5,0.1,0.24,3.08,0.549
+Bulgur,Individual Foods,"Bulgur, dry",,Cereal Grains and Pasta,1430.0,75.9,12.5,0.41,1.33,12.3,0.722
+Chicken breast,Individual Foods,CHICKEN BREAST,GIANT EAGLE,"Poultry, Chicken & Turkey",165.0,1.06,0.0,0.7,8.1,20.4,0.382
+Chicken breast,Individual Foods,CHICKEN BREAST,TYSON,"Pepperoni, Salami & Cold Cuts",143.0,3.57,0.0,0.0,8.93,14.3,0.406
+Chicken breast,Individual Foods,CHICKEN BREAST,JENNIE-O,Cooked & Prepared,107.0,1.79,0.0,1.79,1.79,19.6,0.343
+Chicken breast,Individual Foods,CHICKEN BREAST,BUTTERFIELD FARMS,Canned Meat,107.0,0.0,0.0,0.0,1.79,21.4,0.4
+Chicken breast,Individual Foods,CHICKEN BREAST,H-E-B,Other Deli,96.0,5.71,1.3,0.52,4.16,11.4,0.408
+Turkey breast,Individual Foods,TURKEY BREAST,DIESTEL,"Pepperoni, Salami & Cold Cuts",123.0,0.0,,,0.88,28.1,-1.0
+Turkey breast,Individual Foods,TURKEY BREAST,,"Pepperoni, Salami & Cold Cuts",89.0,0.0,,,0.09,19.6,-1.0
+Turkey breast,Individual Foods,TURKEY BREAST,HORMEL,"Pepperoni, Salami & Cold Cuts",107.0,1.79,0.0,1.79,1.79,21.4,0.345
+Turkey breast,Individual Foods,TURKEY BREAST,CASA CARDENAS,"Pepperoni, Salami & Cold Cuts",89.0,3.57,0.0,1.79,1.79,16.1,0.343
+Turkey breast,Individual Foods,TURKEY BREAST,JENNIE-O,"Pepperoni, Salami & Cold Cuts",89.0,3.57,0.0,0.0,1.79,14.3,0.406
+Salmon,Individual Foods,SALMON,,Fish & Seafood,232.0,0.0,0.0,0.0,15.5,19.0,0.395
+Salmon,Individual Foods,SALMON,SEA CUISINE,Frozen Fish & Seafood,139.0,2.65,0.7,0.0,7.95,15.2,0.411
+Salmon,Individual Foods,SALMON,BLUE CIRCLE,Frozen Fish & Seafood,207.0,0.0,0.0,0.0,13.2,20.7,0.4
+Salmon,Individual Foods,SALMON,SANTA MONICA SEAFOOD,Fish & Seafood,209.0,1.82,0.0,0.0,11.8,21.8,0.417
+Salmon,Individual Foods,"Fish oil, salmon",,Fats and Oils,3770.0,0.0,0.0,,100.0,0.0,-1.0
+Cod,Individual Foods,COD,MOREY'S,Frozen Fish & Seafood,100.0,5.29,0.6,0.0,2.94,12.4,0.42
+Cod,Individual Foods,COD,BLUE CIRCLE,Fish & Seafood,80.0,0.0,0.0,0.0,0.94,17.8,0.389
+Cod,Individual Foods,"Fish oil, cod liver",,Fats and Oils,3770.0,0.0,0.0,,100.0,0.0,-1.0
+Cod,Individual Foods,"Fish, cod, Atlantic, raw",,Finfish and Shellfish Products,82.0,0.0,0.0,0.0,0.67,17.8,0.389
+Cod,Individual Foods,"Fish, cod, Pacific, cooked",,Finfish and Shellfish Products,351.0,0.0,,,0.25,20.4,-1.0
+Tofu,Individual Foods,TOFU,ALOHA TOFU,Other Meats,,,,0.0,,,-1.0
+Tofu,Individual Foods,TOFU,HOUSE FOODS,Other Meats,94.0,1.18,0.0,0.0,5.88,9.41,0.358
+Tofu,Individual Foods,TOFU,HOUSE FOODS,Other Meats,94.0,2.35,2.4,0.0,5.29,9.41,0.401
+Tofu,Individual Foods,TOFU,AZUMAYA,Other Meats,49.0,1.1,0.0,0.0,2.2,4.4,0.332
+Tofu,Individual Foods,TOFU,AZUMAYA,Other Meats,82.0,2.35,1.2,0.0,4.12,8.24,0.38
+Tempeh,Individual Foods,Tempeh,,Legumes and Legume Products,803.0,7.64,,,10.8,20.3,-1.0
+Tempeh,Individual Foods,"Tempeh, cooked",,Legumes and Legume Products,817.0,7.62,,,11.4,19.9,-1.0
+Tempeh,Individual Foods,ORIGINAL TEMPEH,LIGHTLIFE,Pasta Dinners,190.0,14.3,7.1,0.0,5.36,21.4,0.631
+Tempeh,Individual Foods,"ORGANIC TEMPEH RANCHERO SQUARITO BURRITO, TEMPEH RANCHERO",ENGINE 2,Prepared Wraps and Burittos,135.0,23.5,4.7,1.76,2.94,7.06,0.551
+Tempeh,Individual Foods,"FLAX TEMPEH, FLAX",LIGHTLIFE,Other Meats,214.0,9.52,7.1,0.0,9.52,21.4,0.585
+Eggs,Individual Foods,EGGS,,Eggs & Egg Substitutes,136.0,0.0,,,9.09,13.6,-1.0
+Eggs,Individual Foods,EGGS,,Eggs & Egg Substitutes,140.0,0.0,0.0,0.0,10.0,12.0,0.36
+Eggs,Individual Foods,EGGS,OAKDELL EGG,Eggs & Egg Substitutes,143.0,0.0,,,9.52,12.7,-1.0
+Eggs,Individual Foods,EGGS,KIRKLAND,Eggs & Egg Substitutes,143.0,0.0,,,8.93,12.5,-1.0
+Eggs,Individual Foods,EGGS,KREIDER FARMS,Eggs & Egg Substitutes,143.0,0.0,,,8.93,12.5,-1.0
+Greek yogurt,Individual Foods,GREEK YOGURT,OCEAN SPRAY,"Popcorn, Peanuts, Seeds & Related Snacks",467.0,70.0,3.3,70.0,20.0,3.33,0.394
+Greek yogurt,Individual Foods,GREEK YOGURT,,Yogurt,132.0,12.3,0.0,10.1,7.05,4.85,0.141
+Greek yogurt,Individual Foods,GREEK YOGURT,CHOBANI,Yogurt,80.0,10.7,0.0,8.67,0.0,8.67,0.145
+Greek yogurt,Individual Foods,GREEK YOGURT,OLYMPIANA,Yogurt,65.0,4.12,0.0,4.12,0.0,11.8,0.233
+Greek yogurt,Individual Foods,GREEK YOGURT,CHOBANI,Yogurt,93.0,12.0,0.7,10.7,2.0,7.33,0.16
+Cottage cheese,Individual Foods,COTTAGE CHEESE,DARIGOLD,Cheese,80.0,4.42,0.0,3.54,2.21,11.5,0.258
+Cottage cheese,Individual Foods,COTTAGE CHEESE,KROGER,Cheese,97.0,4.42,0.0,3.54,4.42,10.6,0.253
+Cottage cheese,Individual Foods,COTTAGE CHEESE,KRAFT,Cheese,68.0,6.84,0.0,5.13,0.0,8.55,0.203
+Cottage cheese,Individual Foods,COTTAGE CHEESE,NORDICA,Cheese,106.0,3.54,0.0,3.54,4.42,11.5,0.25
+Cottage cheese,Individual Foods,COTTAGE CHEESE,SIMPLY KRAFT,Cheese,102.0,5.93,0.0,4.24,5.08,8.47,0.229
+Sardines,Individual Foods,SARDINES,SEASON,Canned Seafood,176.0,0.0,0.0,0.0,9.09,23.6,0.4
+Sardines,Individual Foods,SARDINES,MADAME GOUGOUSSE,Canned Seafood,142.0,0.0,0.0,0.0,9.43,15.1,0.376
+Sardines,Individual Foods,SARDINES,PALACIO REAL,Canned Seafood,211.0,0.0,0.0,0.0,12.7,23.6,0.4
+Sardines,Individual Foods,SARDINES,,Canned Seafood,153.0,0.0,0.0,0.0,8.24,18.8,0.394
+Sardines,Individual Foods,SARDINES,PALACIO REAL,Canned Seafood,211.0,0.0,0.0,0.0,12.7,23.6,0.4
+Canned Tuna,Individual Foods,"Fish, tuna, light, canned in oil, drained solids",,Finfish and Shellfish Products,198.0,0.0,0.0,0.0,8.21,29.1,0.4
+Canned Tuna,Individual Foods,"Fish, tuna, light, canned in water, drained solids",,Finfish and Shellfish Products,90.0,0.08,,,0.94,19.0,-1.0
+Canned Tuna,Individual Foods,"Fish, tuna, white, canned in oil, drained solids",,Finfish and Shellfish Products,778.0,0.0,0.0,0.0,8.08,26.5,0.4
+Canned Tuna,Individual Foods,"Fish, tuna, white, canned in water, drained solids",,Finfish and Shellfish Products,536.0,0.0,0.0,0.0,2.97,23.6,0.4
+Canned Tuna,Individual Foods,"Fish, tuna, light, canned in oil, without salt, drained solids",,Finfish and Shellfish Products,830.0,0.0,0.0,,8.21,29.1,-1.0
+Shrimp,Individual Foods,SHRIMP,SEACATCH,Frozen Fish & Seafood,47.0,0.0,0.0,0.0,0.0,11.8,0.359
+Shrimp,Individual Foods,SHRIMP,BOWERS,Frozen Fish & Seafood,106.0,0.88,0.0,0.0,1.77,20.4,0.408
+Shrimp,Individual Foods,SHRIMP,,Frozen Fish & Seafood,80.0,0.0,0.0,0.0,0.89,17.9,0.389
+Shrimp,Individual Foods,SHRIMP,,Fish & Seafood,107.0,0.89,0.0,0.0,1.79,20.5,0.408
+Shrimp,Individual Foods,SHRIMP,CAMBAY TIGER,Fish & Seafood,94.0,0.0,0.0,0.0,1.18,21.2,0.4
+Scallops,Individual Foods,SCALLOPS,ATLANTIC CAPES FISHERIES,Frozen Fish & Seafood,89.0,2.68,0.0,0.0,0.89,15.2,0.402
+Scallops,Individual Foods,SCALLOPS,HY-VEE,Frozen Fish & Seafood,71.0,0.88,0.0,0.0,0.88,15.0,0.383
+Scallops,Individual Foods,SCALLOPS,GREAT AMERICAN SEAFOOD,Frozen Fish & Seafood,89.0,2.68,0.0,0.0,0.89,17.0,0.411
+Scallops,Individual Foods,"Squash, summer, scallop, raw",,Vegetables and Vegetable Products,75.0,3.84,1.2,2.39,0.2,1.2,0.263
+Scallops,Individual Foods,"Mollusks, scallop, mixed species, raw",,Finfish and Shellfish Products,289.0,3.18,0.0,0.0,0.49,12.1,0.391
+Pork Loin,Individual Foods,"Pork, loin, boneless, raw",,Pork Products,,0.0,,,9.47,21.1,-1.0
+Pork Loin,Individual Foods,"Pork, loin, tenderloin, boneless, raw",,Pork Products,,0.0,,,3.9,21.6,-1.0
+Pork Loin,Individual Foods,"HORMEL ALWAYS TENDER, Boneless Pork Loin, Fresh Pork",,Pork Products,609.0,0.76,,0.08,7.18,19.0,-1.0
+Pork Loin,Individual Foods,"Pork, fresh, loin, top loin (roasts), boneless, separable lean and fat, raw",,Pork Products,166.0,0.0,0.0,0.0,8.33,21.3,0.4
+Pork Loin,Individual Foods,"Pork, fresh, loin, top loin (roasts), boneless, separable lean only, raw",,Pork Products,553.0,0.0,0.0,0.0,4.06,22.4,0.4
+Chicken Thigh,Individual Foods,CHICKEN THIGH,CALIFORNIA GOLD,"Frozen Poultry, Chicken & Turkey",193.0,0.88,0.0,0.88,16.7,14.0,0.343
+Chicken Thigh,Individual Foods,"Chicken, skin (drumsticks and thighs), raw",,Poultry Products,440.0,0.79,0.0,0.0,44.2,9.58,0.355
+Chicken Thigh,Individual Foods,"Chicken, thigh, boneless, skinless, raw",,Poultry Products,,0.0,,,7.92,18.6,-1.0
+Chicken Thigh,Individual Foods,"Chicken, thighs, frozen, breaded, reheated",,"Meals, Entrees, and Side Dishes",334.0,14.2,0.1,0.0,22.4,18.7,0.53
+Chicken Thigh,Individual Foods,"Chicken, skin (drumsticks and thighs), cooked, braised",,Poultry Products,1860.0,0.0,0.0,0.0,42.8,14.6,0.373
+Chicken Legs,Individual Foods,"Chicken, broilers or fryers, leg, meat and skin, raw",,Poultry Products,897.0,0.17,0.0,0.0,16.0,16.4,0.384
+Chicken Legs,Individual Foods,"Chicken, broilers or fryers, leg, meat only, raw",,Poultry Products,501.0,0.0,0.0,0.0,4.22,19.2,0.396
+Chicken Legs,Individual Foods,"Chicken, broilers or fryers, leg, meat and skin, cooked, roasted",,Poultry Products,184.0,0.0,0.0,0.0,8.99,24.0,0.4
+Chicken Legs,Individual Foods,"Chicken, broilers or fryers, leg, meat and skin, cooked, stewed",,Poultry Products,920.0,0.0,0.0,0.0,12.9,24.2,0.4
+Chicken Legs,Individual Foods,"Chicken, broilers or fryers, leg, meat only, cooked, fried",,Poultry Products,870.0,0.65,0.0,,9.32,28.4,-1.0
+Chicken Tenders,Individual Foods,CHICKEN TENDERS,MEIJER,Frozen Appetizers & Hors D'oeuvres,250.0,15.9,2.3,0.0,14.8,13.6,0.55
+Chicken Tenders,Individual Foods,CHICKEN TENDERS,SPRNGER MT,Meat/Poultry/Other Animals  Unprepared/Unprocessed,116.0,0.0,0.0,0.0,2.68,22.3,0.4
+Chicken Tenders,Individual Foods,CHICKEN TENDERS,FREEBIRD,Frozen Appetizers & Hors D'oeuvres,167.0,16.7,2.4,1.19,2.98,17.9,0.533
+Chicken Tenders,Individual Foods,CHICKEN TENDERS,PRIMA,Cooked & Prepared,277.0,11.9,1.0,0.0,19.8,13.9,0.496
+Chicken Tenders,Individual Foods,CHICKEN TENDERS,AMERICA'S CHOICE,Frozen Appetizers & Hors D'oeuvres,214.0,15.5,2.4,0.0,11.9,10.7,0.533
+Lentils,Individual Foods,LENTILS,STATER BROS.,Vegetable and Lentil Mixes,286.0,65.7,20.0,0.0,1.43,22.9,0.874
+Lentils,Individual Foods,LENTILS,ARUJ,Vegetable and Lentil Mixes,175.0,47.5,22.5,0.0,0.0,,-1.0
+Lentils,Individual Foods,LENTILS,GIANT EAGLE,Vegetable and Lentil Mixes,343.0,62.9,11.4,2.86,0.0,25.7,0.787
+Lentils,Individual Foods,LENTILS,HARRIS TEETER,Canned Vegetables,69.0,12.3,2.3,0.77,0.0,4.62,0.44
+Lentils,Individual Foods,LENTILS,HANNAFORD,Vegetable and Lentil Mixes,292.0,62.5,20.8,0.0,2.08,22.9,0.905
+Chickpeas,Individual Foods,CHICKPEAS,LOWES FOODS,Canned & Bottled Beans,128.0,20.8,4.0,0.8,1.6,8.0,0.559
+Chickpeas,Individual Foods,CHICKPEAS,HADDAR,Canned & Bottled Beans,77.0,14.6,3.1,0.77,0.77,3.85,0.469
+Chickpeas,Individual Foods,CHICKPEAS,LOWES,Canned & Bottled Beans,85.0,,5.4,0.0,0.77,5.38,-1.0
+Chickpeas,Individual Foods,CHICKPEAS,PUBLIX,"Chips, Pretzels & Snacks",92.0,15.4,3.1,0.77,1.54,4.62,0.48
+Chickpeas,Individual Foods,CHICKPEAS,SHAHIA,Canned & Bottled Beans,138.0,26.9,7.7,4.62,2.69,8.46,0.514
+Black beans,Individual Foods,BLACK BEANS,AHOLD,Canned & Bottled Beans,92.0,16.9,4.6,0.0,0.0,6.15,0.553
+Black beans,Individual Foods,BLACK BEANS,BROOKSHIRE'S,Vegetable and Lentil Mixes,184.0,60.5,39.5,2.63,0.0,23.7,0.819
+Black beans,Individual Foods,BLACK BEANS,SUNVISTA,Canned & Bottled Beans,85.0,15.4,6.9,0.77,0.0,5.38,0.535
+Black beans,Individual Foods,BLACK BEANS,MARGARET HOLMES,Canned & Bottled Beans,69.0,13.1,4.6,0.0,0.0,4.62,0.509
+Black beans,Individual Foods,BLACK BEANS,RALEY'S,Frozen Vegetables,141.0,23.5,8.2,1.18,0.59,8.24,0.618
+Kidney beans,Individual Foods,KIDNEY BEANS,JACK'S QUALITY,Canned & Bottled Beans,100.0,12.3,6.2,0.77,0.38,7.69,0.507
+Kidney beans,Individual Foods,KIDNEY BEANS,,Canned & Bottled Beans,77.0,14.6,6.2,0.77,0.0,5.38,0.518
+Kidney beans,Individual Foods,KIDNEY BEANS,S&W,Canned & Bottled Beans,85.0,16.2,6.2,1.54,0.0,5.38,0.502
+Kidney beans,Individual Foods,KIDNEY BEANS,S&W,Canned & Bottled Beans,85.0,16.9,6.2,2.31,0.0,5.38,0.478
+Kidney beans,Individual Foods,KIDNEY BEANS,HANOVER,Canned & Bottled Beans,85.0,15.4,4.6,2.31,0.0,6.15,0.446
+Pinto beans,Individual Foods,PINTO BEANS,ALWAYS SAVE,Canned & Bottled Beans,85.0,15.4,3.8,0.77,0.0,5.38,0.493
+Pinto beans,Individual Foods,PINTO BEANS,LA CENA,Canned & Bottled Beans,85.0,15.4,3.8,0.77,0.0,4.62,0.49
+Pinto beans,Individual Foods,PINTO BEANS,IGA,Canned & Bottled Beans,92.0,16.2,3.8,1.54,0.77,4.62,0.466
+Pinto beans,Individual Foods,PINTO BEANS,KROGER,Canned & Bottled Beans,77.0,,6.2,0.77,0.0,,-1.0
+Pinto beans,Individual Foods,PINTO BEANS,KROGER,Vegetable and Lentil Mixes,257.0,57.1,14.3,2.86,0.0,20.0,0.842
+Edamame,Individual Foods,EDAMAME,GREAT VALUE,Frozen Vegetables,106.0,7.06,4.7,2.35,4.71,11.8,0.395
+Edamame,Individual Foods,EDAMAME,GIANT EAGLE,Frozen Vegetables,106.0,8.24,4.7,2.35,4.71,10.6,0.4
+Edamame,Individual Foods,EDAMAME,WEGMANS,Frozen Vegetables,106.0,8.24,4.7,2.35,4.71,10.6,0.4
+Edamame,Individual Foods,EDAMAME,RALEY'S,Frozen Vegetables,129.0,14.1,5.9,2.35,4.12,9.41,0.466
+Edamame,Individual Foods,EDAMAME,MAI,Other Deli,150.0,13.7,3.5,2.2,4.85,10.6,0.442
+Green Peas,Individual Foods,GREEN PEAS,FAREWAY,Frozen Vegetables,78.0,13.3,4.4,6.67,0.56,5.56,0.246
+Green Peas,Individual Foods,GREEN PEAS,STATER BROS.,Frozen Vegetables,78.0,13.3,4.4,4.44,,5.56,0.336
+Green Peas,Individual Foods,GREEN PEAS,WINDING RIVER FARMS,Frozen Vegetables,82.0,,4.7,4.71,0.0,5.88,-1.0
+Green Peas,Individual Foods,GREEN PEAS,AVENUE A,Frozen Vegetables,82.0,14.1,4.7,4.71,0.0,4.71,0.332
+Green Peas,Individual Foods,GREEN PEAS,FOOD LION,Frozen Vegetables,79.0,13.5,4.5,4.49,0.0,5.62,0.337
+Split Peas,Individual Foods,"Peas, green, split, mature seeds, raw",,Legumes and Legume Products,1520.0,61.6,22.2,3.14,3.89,23.1,0.788
+Split Peas,Individual Foods,"Soup, pea, split with ham, canned, condensed",,"Soups, Sauces, and Gravies",141.0,20.8,1.7,,3.28,7.68,-1.0
+Split Peas,Individual Foods,"Peas, split, mature seeds, cooked, boiled, with salt",,Legumes and Legume Products,116.0,20.5,8.3,2.9,0.39,8.34,0.521
+Split Peas,Individual Foods,"Peas, split, mature seeds, cooked, boiled, without salt",,Legumes and Legume Products,494.0,21.1,8.3,2.9,0.39,8.34,0.527
+Split Peas,Individual Foods,"Soup, pea, split with ham, canned, chunky, ready-to-serve",,"Soups, Sauces, and Gravies",77.0,11.2,1.7,1.91,1.66,4.62,0.376
+Almonds,Individual Foods,ALMONDS,HARVEST FRESH,"Popcorn, Peanuts, Seeds & Related Snacks",633.0,13.3,10.0,3.33,56.7,23.3,0.493
+Almonds,Individual Foods,ALMONDS,O ORGANICS,"Popcorn, Peanuts, Seeds & Related Snacks",567.0,20.0,13.3,3.33,50.0,20.0,0.557
+Almonds,Individual Foods,ALMONDS,EILLIEN'S,"Popcorn, Peanuts, Seeds & Related Snacks",583.0,16.7,11.1,2.78,52.8,19.4,0.545
+Almonds,Individual Foods,ALMONDS,TREASURED HARVEST,"Popcorn, Peanuts, Seeds & Related Snacks",603.0,20.0,13.3,3.33,50.0,20.0,0.557
+Almonds,Individual Foods,ALMONDS,MEIJER,"Popcorn, Peanuts, Seeds & Related Snacks",588.0,20.6,11.8,2.94,50.0,20.6,0.579
+Walnuts,Individual Foods,WALNUTS,AVA'S,"Popcorn, Peanuts, Seeds & Related Snacks",667.0,13.3,6.7,3.33,66.7,16.7,0.466
+Walnuts,Individual Foods,WALNUTS,PUBLIX,"Popcorn, Peanuts, Seeds & Related Snacks",643.0,14.3,7.1,3.57,64.3,14.3,0.46
+Walnuts,Individual Foods,WALNUTS,AHOLD,"Popcorn, Peanuts, Seeds & Related Snacks",643.0,17.9,3.6,3.57,60.7,14.3,0.447
+Walnuts,Individual Foods,WALNUTS,HOODY'S,"Popcorn, Peanuts, Seeds & Related Snacks",656.0,12.5,6.2,3.12,65.6,15.6,0.455
+Walnuts,Individual Foods,WALNUTS,O ORGANICS,"Popcorn, Peanuts, Seeds & Related Snacks",667.0,13.3,6.7,3.33,66.7,16.7,0.466
+Chia seeds,Individual Foods,CHIA SEEDS,HARRIS TEETER,Other Grains & Seeds,500.0,42.9,35.7,3.57,32.1,17.9,0.755
+Chia seeds,Individual Foods,CHIA SEEDS,PF SNACKS,Other Grains & Seeds,476.0,42.9,33.3,0.0,31.0,16.7,0.892
+Chia seeds,Individual Foods,CHIA SEEDS,HOUSE DELIGHTS,Other Grains & Seeds,489.0,50.0,39.3,0.0,32.1,14.3,0.948
+Chia seeds,Individual Foods,CHIA SEEDS,NATURE'S PROMISE,Other Grains & Seeds,500.0,44.4,38.9,0.0,30.6,16.7,0.906
+Chia seeds,Individual Foods,CHIA SEEDS,O ORGANICS,Other Grains & Seeds,500.0,43.3,33.3,0.0,30.0,16.7,0.896
+Flax seeds,Individual Foods,FLAX SEEDS,,Other Grains & Seeds,500.0,35.0,27.5,0.0,35.0,20.0,0.833
+Flax seeds,Individual Foods,FLAX SEEDS,FAIRWAY,Other Grains & Seeds,536.0,28.6,28.6,0.0,42.9,17.9,0.762
+Flax seeds,Individual Foods,FLAX SEEDS,GIANT EAGLE,Other Grains & Seeds,548.0,29.0,25.8,0.0,41.9,19.4,0.773
+Flax seeds,Individual Foods,FLAX SEEDS,JEWEL-OSCO,Other Grains & Seeds,500.0,26.7,26.7,0.0,40.0,16.7,0.738
+Flax seeds,Individual Foods,FLAX SEEDS,,Other Grains & Seeds,354.0,28.6,28.6,0.0,42.9,,-1.0
+Pumpkin seeds,Individual Foods,PUMPKIN SEEDS,VALUED NATURALS,"Popcorn, Peanuts, Seeds & Related Snacks",600.0,13.3,3.3,0.0,46.7,23.3,0.571
+Pumpkin seeds,Individual Foods,PUMPKIN SEEDS,O ORGANICS,"Popcorn, Peanuts, Seeds & Related Snacks",567.0,13.3,6.7,0.0,46.7,33.3,0.616
+Pumpkin seeds,Individual Foods,PUMPKIN SEEDS,MARKET DISTRICT,"Popcorn, Peanuts, Seeds & Related Snacks",567.0,13.3,10.0,3.33,50.0,30.0,0.493
+Pumpkin seeds,Individual Foods,PUMPKIN SEEDS,SUPERIOR NUT & CANDY,"Popcorn, Peanuts, Seeds & Related Snacks",321.0,39.3,39.3,0.0,25.0,21.4,0.874
+Pumpkin seeds,Individual Foods,PUMPKIN SEEDS,AWESOMELY AUTUMN,"Popcorn, Peanuts, Seeds & Related Snacks",633.0,10.0,3.3,0.0,53.3,33.3,0.539
+Sunflower seeds,Individual Foods,SUNFLOWER SEEDS,WILD DUTCHMAN,"Popcorn, Peanuts, Seeds & Related Snacks",283.0,10.0,5.0,1.67,25.0,11.7,0.454
+Sunflower seeds,Individual Foods,SUNFLOWER SEEDS,WILD DUTCHMAN,"Popcorn, Peanuts, Seeds & Related Snacks",283.0,10.0,5.0,1.67,25.0,11.7,0.454
+Sunflower seeds,Individual Foods,SUNFLOWER SEEDS,WINN-DIXIE,"Popcorn, Peanuts, Seeds & Related Snacks",567.0,23.3,10.0,3.33,50.0,20.0,0.589
+Sunflower seeds,Individual Foods,SUNFLOWER SEEDS,WILD DUTCHMAN,"Popcorn, Peanuts, Seeds & Related Snacks",467.0,23.3,10.0,3.33,33.3,23.3,0.589
+Sunflower seeds,Individual Foods,SUNFLOWER SEEDS,NATURAL CRAVINGS,"Popcorn, Peanuts, Seeds & Related Snacks",607.0,21.4,10.7,3.57,53.6,21.4,0.561
+Cashews,Individual Foods,CASHEWS,SCHNUCKS,"Popcorn, Peanuts, Seeds & Related Snacks",571.0,28.6,3.6,7.14,46.4,17.9,0.424
+Cashews,Individual Foods,CASHEWS,AUNT RUBY'S,"Popcorn, Peanuts, Seeds & Related Snacks",568.0,29.7,2.7,5.41,46.0,16.2,0.483
+Cashews,Individual Foods,CASHEWS,MAISIE JANE'S,"Popcorn, Peanuts, Seeds & Related Snacks",557.0,32.1,3.6,7.14,42.9,17.9,0.458
+Cashews,Individual Foods,CASHEWS,NATURALEE,"Popcorn, Peanuts, Seeds & Related Snacks",571.0,32.1,7.1,0.0,46.4,14.3,0.772
+Cashews,Individual Foods,CASHEWS,ENERGY CLUB,"Popcorn, Peanuts, Seeds & Related Snacks",607.0,28.6,3.6,7.14,50.0,17.9,0.424
+Pistachios,Individual Foods,PISTACHIOS,PISTACHIO,"Popcorn, Peanuts, Seeds & Related Snacks",536.0,28.6,10.7,7.14,42.9,17.9,0.476
+Pistachios,Individual Foods,PISTACHIOS,WONDERFUL,"Popcorn, Peanuts, Seeds & Related Snacks",536.0,28.6,10.7,7.14,46.4,21.4,0.487
+Pistachios,Individual Foods,PISTACHIOS,WONDERFUL,"Popcorn, Peanuts, Seeds & Related Snacks",533.0,26.7,10.0,6.67,46.7,20.0,0.487
+Pistachios,Individual Foods,PISTACHIOS,CASEY'S,"Popcorn, Peanuts, Seeds & Related Snacks",267.0,13.3,5.0,3.33,21.7,10.0,0.41
+Pistachios,Individual Foods,PISTACHIOS,MIX'T,"Popcorn, Peanuts, Seeds & Related Snacks",567.0,26.7,10.0,6.67,46.7,20.0,0.487
+Pecans,Individual Foods,PECANS,DIAMOND OF CALIFORNIA,"Popcorn, Peanuts, Seeds & Related Snacks",700.0,13.3,10.0,3.33,73.3,10.0,0.443
+Pecans,Individual Foods,PECANS,PARAMOUNT SNACKS,"Popcorn, Peanuts, Seeds & Related Snacks",717.0,13.3,6.7,3.33,70.0,10.0,0.433
+Pecans,Individual Foods,PECANS,NICE!,"Popcorn, Peanuts, Seeds & Related Snacks",679.0,17.9,10.7,7.14,71.4,10.7,0.338
+Pecans,Individual Foods,PECANS,FOUR BROTHERS,"Popcorn, Peanuts, Seeds & Related Snacks",700.0,13.3,6.7,3.33,73.3,10.0,0.433
+Pecans,Individual Foods,PECANS,,"Popcorn, Peanuts, Seeds & Related Snacks",700.0,13.3,6.7,3.33,73.3,10.0,0.433
+Macadamia Nuts,Individual Foods,MACADAMIA NUTS,,"Popcorn, Peanuts, Seeds & Related Snacks",633.0,40.0,3.3,26.7,46.7,6.67,0.458
+Macadamia Nuts,Individual Foods,MACADAMIA NUTS,HY-VEE,"Popcorn, Peanuts, Seeds & Related Snacks",719.0,14.0,8.8,5.26,75.4,8.77,0.367
+Macadamia Nuts,Individual Foods,MACADAMIA NUTS,PLENTIFUL PLANET,"Popcorn, Peanuts, Seeds & Related Snacks",657.0,12.3,7.7,2.33,63.3,14.3,0.495
+Macadamia Nuts,Individual Foods,MACADAMIA NUTS,SHOPRITE,"Popcorn, Peanuts, Seeds & Related Snacks",714.0,14.3,7.1,3.57,75.0,7.14,0.424
+Macadamia Nuts,Individual Foods,MACADAMIA NUTS,LUNDS & BYERLYS,"Popcorn, Peanuts, Seeds & Related Snacks",733.0,13.3,10.0,3.33,76.7,6.67,0.427
+Peanut Butter,Individual Foods,PEANUT BUTTER,REGINALD'S HOMEMADE,Nut & Seed Butters,600.0,20.0,6.7,6.67,50.0,20.0,0.413
+Peanut Butter,Individual Foods,PEANUT BUTTER,BRAD'S ORGANIC,Nut & Seed Butters,594.0,18.8,6.2,6.25,46.9,28.1,0.412
+Peanut Butter,Individual Foods,PEANUT BUTTER,SWEET CHAOS,Other Snacks,500.0,70.0,3.3,43.3,20.0,6.67,0.411
+Peanut Butter,Individual Foods,PEANUT BUTTER,,Nut & Seed Butters,567.0,10.0,6.7,3.33,46.7,23.3,0.451
+Peanut Butter,Individual Foods,PEANUT BUTTER,,Nut & Seed Butters,594.0,25.0,6.2,9.38,46.9,21.9,0.421
+Almond Butter,Individual Foods,ALMOND BUTTER,NATURALMOND,Nut & Seed Butters,594.0,21.9,9.4,6.25,53.1,21.9,0.459
+Almond Butter,Individual Foods,ALMOND BUTTER,JIF,Nut & Seed Butters,576.0,24.2,9.1,9.09,48.5,21.2,0.43
+Almond Butter,Individual Foods,ALMOND BUTTER,WALNUT CREEK FOODS,Nut & Seed Butters,600.0,20.0,13.3,6.67,53.3,23.3,0.424
+Almond Butter,Individual Foods,ALMOND BUTTER,CALIFORNIA ALMONDS,Nut & Seed Butters,575.0,21.4,10.7,3.57,50.0,21.4,0.561
+Almond Butter,Individual Foods,ALMOND BUTTER,WELLSLEY FARMS,Nut & Seed Butters,594.0,25.0,12.5,9.38,50.0,18.8,0.432
+Unsweetened almond milk,Individual Foods,"Almond milk, unsweetened, plain, refrigerated",,Beverages,,0.671,0.0,,1.56,0.656,-1.0
+Unsweetened almond milk,Individual Foods,"Almond milk, unsweetened, plain, shelf stable",,Beverages,,0.337,0.0,,1.22,0.555,-1.0
+Unsweetened almond milk,Individual Foods,"Beverages, almond milk, unsweetened, shelf stable",,Beverages,65.0,1.31,0.2,0.81,0.96,0.4,0.285
+Unsweetened almond milk,Individual Foods,"Beverages, rice milk, unsweetened",,Beverages,195.0,9.17,0.3,5.28,0.97,0.28,0.182
+Unsweetened almond milk,Individual Foods,"Oat milk, unsweetened, plain, refrigerated",,Beverages,,5.1,0.0,,2.75,0.797,-1.0
+Unsweetened soy milk,Individual Foods,"Soy milk, unsweetened, plain, shelf stable",,Legumes and Legume Products,,1.29,0.0,,2.12,3.55,-1.0
+Unsweetened soy milk,Individual Foods,"Milk, imitation, non-soy",,Dairy and Egg Products,191.0,5.3,0.0,5.3,2.0,1.6,0.146
+Unsweetened soy milk,Individual Foods,"Beverages, rice milk, unsweetened",,Beverages,195.0,9.17,0.3,5.28,0.97,0.28,0.182
+Unsweetened soy milk,Individual Foods,"Soy milk, sweetened, plain, refrigerated",,Legumes and Legume Products,,3.0,0.0,,1.96,2.78,-1.0
+Unsweetened soy milk,Individual Foods,"Almond milk, unsweetened, plain, refrigerated",,Beverages,,0.671,0.0,,1.56,0.656,-1.0
+Greek yogurt,Individual Foods,GREEK YOGURT,OCEAN SPRAY,"Popcorn, Peanuts, Seeds & Related Snacks",467.0,70.0,3.3,70.0,20.0,3.33,0.394
+Greek yogurt,Individual Foods,GREEK YOGURT,,Yogurt,132.0,12.3,0.0,10.1,7.05,4.85,0.141
+Greek yogurt,Individual Foods,GREEK YOGURT,CHOBANI,Yogurt,80.0,10.7,0.0,8.67,0.0,8.67,0.145
+Greek yogurt,Individual Foods,GREEK YOGURT,OLYMPIANA,Yogurt,65.0,4.12,0.0,4.12,0.0,11.8,0.233
+Greek yogurt,Individual Foods,GREEK YOGURT,CHOBANI,Yogurt,93.0,12.0,0.7,10.7,2.0,7.33,0.16
+Cottage cheese,Individual Foods,COTTAGE CHEESE,DARIGOLD,Cheese,80.0,4.42,0.0,3.54,2.21,11.5,0.258
+Cottage cheese,Individual Foods,COTTAGE CHEESE,KROGER,Cheese,97.0,4.42,0.0,3.54,4.42,10.6,0.253
+Cottage cheese,Individual Foods,COTTAGE CHEESE,KRAFT,Cheese,68.0,6.84,0.0,5.13,0.0,8.55,0.203
+Cottage cheese,Individual Foods,COTTAGE CHEESE,NORDICA,Cheese,106.0,3.54,0.0,3.54,4.42,11.5,0.25
+Cottage cheese,Individual Foods,COTTAGE CHEESE,SIMPLY KRAFT,Cheese,102.0,5.93,0.0,4.24,5.08,8.47,0.229
+Mozzarella cheese,Individual Foods,MOZZARELLA CHEESE,KROGER,Cheese,286.0,3.57,0.0,0.0,17.9,28.6,0.434
+Mozzarella cheese,Individual Foods,MOZZARELLA CHEESE,LAURA LYNN,Cheese,321.0,3.57,0.0,0.0,21.4,25.0,0.434
+Mozzarella cheese,Individual Foods,MOZZARELLA CHEESE,,Cheese,267.0,3.33,0.0,0.0,20.0,20.0,0.432
+Mozzarella cheese,Individual Foods,MOZZARELLA CHEESE,HAPPY FARMS,Cheese,286.0,3.57,0.0,3.57,21.4,21.4,0.291
+Mozzarella cheese,Individual Foods,MOZZARELLA CHEESE,SCHNUCKS,Cheese,304.0,4.35,0.0,0.0,19.6,26.1,0.441
+Ricotta cheese,Individual Foods,RICOTTA CHEESE,HANNAFORD,Cheese,73.0,8.06,0.0,6.45,0.0,9.68,0.167
+Ricotta cheese,Individual Foods,RICOTTA CHEESE,ESSENTIAL EVERYDAY,Cheese,65.0,4.84,0.0,4.84,1.05,9.68,0.201
+Ricotta cheese,Individual Foods,RICOTTA CHEESE,B-L,Cheese,145.0,4.84,0.0,4.84,9.68,11.3,0.209
+Ricotta cheese,Individual Foods,RICOTTA CHEESE,MANCUSO CHEESE CO.,Cheese,250.0,7.14,0.0,3.57,12.5,25.0,0.325
+Ricotta cheese,Individual Foods,RICOTTA CHEESE,SPARTAN,Cheese,177.0,3.23,0.0,3.23,12.9,11.3,0.258
+Feta Cheese,Individual Foods,FETA CHEESE,,Cheese,286.0,3.57,0.0,0.0,21.4,17.9,0.423
+Feta Cheese,Individual Foods,FETA CHEESE,APHRODITE,Cheese,286.0,0.0,0.0,0.0,25.0,14.3,0.371
+Feta Cheese,Individual Foods,FETA CHEESE,SALADENA,Cheese,250.0,3.57,3.6,0.0,21.4,17.9,0.472
+Feta Cheese,Individual Foods,FETA CHEESE,TRADER JOE'S,Cheese,250.0,3.57,0.0,0.0,17.9,17.9,0.423
+Feta Cheese,Individual Foods,FETA CHEESE,EPIC,Cheese,161.0,7.14,0.0,3.57,7.14,21.4,0.325
+Parmesan Cheese,Individual Foods,PARMESAN CHEESE,LOWES FOODS,Cheese,400.0,0.0,0.0,0.0,30.0,40.0,0.4
+Parmesan Cheese,Individual Foods,PARMESAN CHEESE,WEIS,Cheese,429.0,3.57,0.0,0.0,28.6,35.7,0.434
+Parmesan Cheese,Individual Foods,PARMESAN CHEESE,,Cheese,400.0,0.0,0.0,0.0,30.0,40.0,0.4
+Parmesan Cheese,Individual Foods,PARMESAN CHEESE,MILLER'S,Cheese,393.0,3.57,0.0,0.0,28.6,32.1,0.434
+Parmesan Cheese,Individual Foods,PARMESAN CHEESE,CELLO,Cheese,400.0,3.33,0.0,0.0,30.0,30.0,0.432
+Unsweetened Coconut Milk,Individual Foods,UNSWEETENED COCONUT MILK,NATURE'S PLACE,Plant Based Milk,175.0,2.5,0.0,1.25,17.5,1.25,0.28
+Unsweetened Coconut Milk,Individual Foods,"Beverages, rice milk, unsweetened",,Beverages,195.0,9.17,0.3,5.28,0.97,0.28,0.182
+Unsweetened Coconut Milk,Individual Foods,"Beverages, Coconut water, ready-to-drink, unsweetened",,Beverages,75.0,4.24,0.0,3.92,0.0,0.22,0.185
+Unsweetened Coconut Milk,Individual Foods,"Almond milk, unsweetened, plain, refrigerated",,Beverages,,0.671,0.0,,1.56,0.656,-1.0
+Unsweetened Coconut Milk,Individual Foods,"Oat milk, unsweetened, plain, refrigerated",,Beverages,,5.1,0.0,,2.75,0.797,-1.0
+Olive oil,Individual Foods,OLIVE OIL,NUTRIOLI',Vegetable & Cooking Oils,867.0,0.0,,,93.3,0.0,-1.0
+Olive oil,Individual Foods,OLIVE OIL,KROGER,Salad Dressing & Mayonnaise,429.0,7.14,0.0,0.0,42.9,0.0,0.368
+Olive oil,Individual Foods,OLIVE OIL,GOYA,Vegetable & Cooking Oils,800.0,0.0,,,93.3,0.0,-1.0
+Olive oil,Individual Foods,OLIVE OIL,AHOLD,Vegetable & Cooking Oils,800.0,0.0,,,93.3,0.0,-1.0
+Olive oil,Individual Foods,OLIVE OIL,NAPOLEON,Vegetable & Cooking Oils,800.0,0.0,,,93.3,0.0,-1.0
+Avocado oil,Individual Foods,AVOCADO OIL,PUBLIX,Vegetable & Cooking Oils,800.0,0.0,,,93.3,0.0,-1.0
+Avocado oil,Individual Foods,AVOCADO OIL,PRIVATE SELECTION,Vegetable & Cooking Oils,800.0,0.0,,,93.3,0.0,-1.0
+Avocado oil,Individual Foods,AVOCADO OIL,SPECTRUM CULINARY,Vegetable & Cooking Oils,800.0,0.0,,,93.3,0.0,-1.0
+Avocado oil,Individual Foods,AVOCADO OIL,SUN HARVEST,Vegetable & Cooking Oils,800.0,0.0,,,93.3,0.0,-1.0
+Avocado oil,Individual Foods,AVOCADO OIL,NAPOLEON,Vegetable & Cooking Oils,867.0,0.0,,,93.3,0.0,-1.0
+Coconut oil,Individual Foods,COCONUT OIL,HARVEST FARMS,Vegetable & Cooking Oils,929.0,0.0,0.0,0.0,100.0,0.0,0.3
+Coconut oil,Individual Foods,COCONUT OIL,,Vegetable & Cooking Oils,867.0,0.0,,,100.0,0.0,-1.0
+Coconut oil,Individual Foods,COCONUT OIL,PUBLIX,Vegetable & Cooking Oils,857.0,0.0,0.0,0.0,100.0,0.0,0.3
+Coconut oil,Individual Foods,COCONUT OIL,HARRIS TEETER,Vegetable & Cooking Oils,857.0,0.0,,,100.0,0.0,-1.0
+Coconut oil,Individual Foods,COCONUT OIL,,Vegetable & Cooking Oils,867.0,0.0,0.0,0.0,93.3,0.0,0.3
+Ghee,Individual Foods,GHEE,FULL MOON GHEE,Butter & Spread,929.0,0.0,,,100.0,0.0,-1.0
+Ghee,Individual Foods,GHEE,SHOPRITE,Butter & Spread,900.0,0.0,,,100.0,0.0,-1.0
+Ghee,Individual Foods,GHEE,URBAN GITA,Butter & Spread,882.0,0.0,,,100.0,0.0,-1.0
+Ghee,Individual Foods,GHEE,SHAH,Butter & Spread,923.0,0.0,0.0,0.0,100.0,53.8,0.4
+Ghee,Individual Foods,GHEE,,Butter & Spread,867.0,0.0,,0.0,100.0,0.0,-1.0
+Sesame OilPopcorn,Individual Foods,"Candies, sesame crunch",,Sweets,516.0,50.3,7.7,31.2,33.3,11.6,0.637
+Sesame OilPopcorn,Individual Foods,"Sesame butter, creamy",,Nut and Seed Products,,14.2,8.37,,62.4,19.7,-1.0
+Sesame OilPopcorn,Individual Foods,"Oil, sesame, salad or cooking",,Fats and Oils,884.0,0.0,0.0,0.0,100.0,0.0,0.3
+Sesame OilPopcorn,Individual Foods,"Restaurant, Chinese, sesame chicken",,Restaurant Foods,1230.0,26.9,0.7,16.0,14.2,14.3,0.337
+Sesame OilPopcorn,Individual Foods,"Seeds, sesame butter, paste",,Nut and Seed Products,586.0,24.0,5.5,,50.9,18.1,-1.0
+Hummus,Individual Foods,HUMMUS,HAFLA,Dips & Salsa,321.0,21.4,7.1,3.57,28.6,7.14,0.491
+Hummus,Individual Foods,HUMMUS,PITA'Z,Dips & Salsa,250.0,25.0,7.1,3.57,12.5,10.7,0.543
+Hummus,Individual Foods,HUMMUS,YEHUDA,Dips & Salsa,200.0,10.0,3.3,0.0,16.7,6.67,0.473
+Hummus,Individual Foods,HUMMUS,CHICKPEA CHICKS,Dips & Salsa,214.0,17.9,3.6,3.57,14.3,7.14,0.411
+Hummus,Individual Foods,HUMMUS,TRUITT FAMILY FOODS,Dips & Salsa,180.0,22.0,4.0,6.0,8.0,8.0,0.363
+Hard-boiled eggs,Individual Foods,HARD-BOILED EGGS,ARCHER FARMS,Eggs & Egg Substitutes,159.0,1.14,0.0,0.0,10.2,12.5,0.373
+Hard-boiled eggs,Individual Foods,HARD-BOILED EGGS,ALMARK FOODS,Eggs & Egg Substitutes,136.0,0.0,,,9.09,13.6,-1.0
+Hard-boiled eggs,Individual Foods,HARD-BOILED EGGS,ALMARK FOODS,Eggs & Egg Substitutes,136.0,0.0,,,9.09,13.6,-1.0
+Hard-boiled eggs,Individual Foods,HARD-BOILED EGGS,ALMARK FOODS,Eggs & Egg Substitutes,136.0,0.0,,,9.09,13.6,-1.0
+Hard-boiled eggs,Individual Foods,HARD-BOILED EGGS,INSPIRED ORGANICS,Eggs & Egg Substitutes,159.0,0.0,0.0,0.0,9.09,13.6,0.368
+Mixed nuts,Individual Foods,MIXED NUTS,DIAMOND OF CALIFORNIA,"Popcorn, Peanuts, Seeds & Related Snacks",633.0,16.7,10.0,3.33,60.0,16.7,0.509
+Mixed nuts,Individual Foods,MIXED NUTS,WINN-DIXIE,"Popcorn, Peanuts, Seeds & Related Snacks",600.0,20.0,10.0,3.33,53.3,23.3,0.557
+Mixed nuts,Individual Foods,MIXED NUTS,HOODY'S,"Popcorn, Peanuts, Seeds & Related Snacks",643.0,17.9,7.1,3.57,53.6,21.4,0.522
+Mixed nuts,Individual Foods,MIXED NUTS,GOODFIELDS,"Popcorn, Peanuts, Seeds & Related Snacks",588.0,20.6,8.8,2.94,52.9,20.6,0.579
+Mixed nuts,Individual Foods,MIXED NUTS,RIVERTRAIL NATURALS,"Popcorn, Peanuts, Seeds & Related Snacks",633.0,20.0,6.7,3.33,60.0,16.7,0.53
+Mixed Nuts,Individual Foods,MIXED NUTS,DIAMOND OF CALIFORNIA,"Popcorn, Peanuts, Seeds & Related Snacks",633.0,16.7,10.0,3.33,60.0,16.7,0.509
+Mixed Nuts,Individual Foods,MIXED NUTS,WINN-DIXIE,"Popcorn, Peanuts, Seeds & Related Snacks",600.0,20.0,10.0,3.33,53.3,23.3,0.557
+Mixed Nuts,Individual Foods,MIXED NUTS,HOODY'S,"Popcorn, Peanuts, Seeds & Related Snacks",643.0,17.9,7.1,3.57,53.6,21.4,0.522
+Mixed Nuts,Individual Foods,MIXED NUTS,GOODFIELDS,"Popcorn, Peanuts, Seeds & Related Snacks",588.0,20.6,8.8,2.94,52.9,20.6,0.579
+Mixed Nuts,Individual Foods,MIXED NUTS,RIVERTRAIL NATURALS,"Popcorn, Peanuts, Seeds & Related Snacks",633.0,20.0,6.7,3.33,60.0,16.7,0.53
+Roasted Chickpeas,Individual Foods,Chickpea flour (besan),,Legumes and Legume Products,1620.0,57.8,10.8,10.8,6.69,22.4,0.65
+Roasted Chickpeas,Individual Foods,"Chickpeas, (garbanzo beans, bengal gram), dry",,Legumes and Legume Products,,60.4,,,6.27,21.3,-1.0
+Roasted Chickpeas,Individual Foods,"Chickpeas (garbanzo beans, bengal gram), mature seeds, raw",,Legumes and Legume Products,378.0,63.0,12.2,10.7,6.04,20.5,0.6
+Roasted Chickpeas,Individual Foods,"HONEY ROASTED CHICKPEA SNACKS, HONEY ROASTED CHICKPEA",BIENA,"Chips, Pretzels & Snacks",393.0,67.9,17.9,21.4,7.14,17.9,0.543
+Roasted Chickpeas,Individual Foods,"Chickpeas (garbanzo beans, bengal gram), canned, sodium added, drained and rinsed",,Legumes and Legume Products,,20.3,,,3.1,7.02,-1.0
+Seaweed Snacks,Individual Foods,SEAWEED SNACKS,A-SHA,Other Snacks,415.0,69.2,7.7,23.1,7.69,15.4,0.518
+Seaweed Snacks,Individual Foods,SEAWEED SNACKS,,Other Snacks,431.0,69.2,7.7,23.1,15.4,7.69,0.479
+Seaweed Snacks,Individual Foods,SEAWEED SNACKS,SEA CRUNCHY,Other Snacks,520.0,36.0,20.0,0.0,28.0,26.0,0.843
+Seaweed Snacks,Individual Foods,"Seaweed, agar, dried",,Vegetables and Vegetable Products,1280.0,80.9,7.7,2.97,0.3,6.21,0.542
+Seaweed Snacks,Individual Foods,"Seaweed, agar, raw",,Vegetables and Vegetable Products,109.0,6.75,0.5,0.28,0.03,0.54,0.362
+Kale Chips,Individual Foods,KALE CHIPS,KALE AMAZOO CHIPS,"Chips, Pretzels & Snacks",607.0,35.7,10.7,3.57,50.0,10.7,0.651
+Kale Chips,Individual Foods,KALE CHIPS,MADE IN NATURE,"Chips, Pretzels & Snacks",429.0,39.3,10.7,3.57,25.0,17.9,0.721
+Kale Chips,Individual Foods,KALE CHIPS,LIVING ZEN ORGANICS,"Chips, Pretzels & Snacks",436.0,33.3,9.1,,30.3,21.2,-1.0
+Kale Chips,Individual Foods,KALE CHIPS,SUNSEASONED,"Chips, Pretzels & Snacks",500.0,35.7,7.1,0.0,28.6,17.9,0.824
+Kale Chips,Individual Foods,KALE CHIPS,ROUNDY'S,"Chips, Pretzels & Snacks",536.0,42.9,10.7,7.14,32.1,21.4,0.623
+Protein Bars,Individual Foods,PROTEIN BARS,,"Snack, Energy & Granola Bars",333.0,40.7,14.8,3.7,9.26,37.0,0.74
+Protein Bars,Individual Foods,PROTEIN BARS,GOOD! SNACKS,"Snack, Energy & Granola Bars",367.0,50.0,21.7,16.7,10.0,25.0,0.676
+Protein Bars,Individual Foods,PROTEIN BARS,,"Snack, Energy & Granola Bars",333.0,40.7,14.8,3.7,7.41,37.0,0.74
+Protein Bars,Individual Foods,PROTEIN BARS,,"Snack, Energy & Granola Bars",333.0,40.7,14.8,3.7,7.41,37.0,0.74
+Protein Bars,Individual Foods,"Formulated Bar, SOUTH BEACH protein bar",,Snacks,412.0,38.4,7.3,15.2,15.2,30.3,0.563
+Dark Chocolate,Individual Foods,DARK CHOCOLATE,CIRCLE K,"Popcorn, Peanuts, Seeds & Related Snacks",526.0,39.5,10.5,21.0,42.1,13.2,0.542
+Dark Chocolate,Individual Foods,DARK CHOCOLATE,7-SELECT,Chocolate,,,,,,,-1.0
+Dark Chocolate,Individual Foods,DARK CHOCOLATE,MOONSTRUCK,Chocolate,581.0,51.2,11.6,30.2,37.2,6.98,0.623
+Dark Chocolate,Individual Foods,DARK CHOCOLATE,BALDUCCI'S,Chocolate,,,,,,,-1.0
+Dark Chocolate,Individual Foods,DARK CHOCOLATE,,Chocolate,512.0,48.8,4.7,34.9,39.5,4.65,0.551
+Chocolate,Individual Foods,CHOCOLATE,KAKAO CHOCOLATE,Chocolate,514.0,54.3,8.6,40.0,37.1,5.71,0.611
+Chocolate,Individual Foods,CHOCOLATE,ELMER CHOCOLATE,Chocolate,412.0,73.5,2.9,64.7,14.7,2.94,0.353
+Chocolate,Individual Foods,CHOCOLATE,ELMER CHOCOLATE,Chocolate,441.0,70.6,2.9,58.8,17.6,2.94,0.381
+Chocolate,Individual Foods,CHOCOLATE,ENJOY CHOCOLATE,Chocolate,550.0,57.5,2.5,55.0,32.5,7.5,0.523
+Chocolate,Individual Foods,CHOCOLATE,ELMER CHOCOLATE,Chocolate,444.0,71.1,2.2,62.2,17.8,2.22,0.363
+White Bread,Individual Foods,WHITE BREAD,BROOKSHIRE'S,Breads & Buns,277.0,53.2,2.1,6.38,3.19,8.51,0.609
+White Bread,Individual Foods,WHITE BREAD,PRICE FIRST,Breads & Buns,267.0,51.1,2.2,6.67,2.22,11.1,0.605
+White Bread,Individual Foods,WHITE BREAD,KNEADIN' BREAD,Breads & Buns,244.0,42.2,2.2,4.44,4.44,6.67,0.587
+White Bread,Individual Foods,WHITE BREAD,KITCHEN QUEEN,Breads & Buns,260.0,48.0,2.0,6.0,3.0,8.0,0.584
+White Bread,Individual Foods,WHITE BREAD,HEIDELBERG,Breads & Buns,220.0,43.9,2.4,0.0,0.0,7.32,0.787
+Wheat Bread,Individual Foods,WHEAT BREAD,,Breads & Buns,267.0,53.3,2.2,6.67,2.22,11.1,0.61
+Wheat Bread,Individual Foods,WHEAT BREAD,PRICE FIRST,Breads & Buns,255.0,48.9,4.3,6.38,3.19,10.6,0.621
+Wheat Bread,Individual Foods,WHEAT BREAD,PRICE FIRST,Breads & Buns,269.0,50.0,3.8,7.69,3.85,11.5,0.584
+Wheat Bread,Individual Foods,WHEAT BREAD,THE NATURAL LA CAMPAGNE BAKERY,Breads & Buns,267.0,50.0,5.0,0.0,3.33,8.33,0.885
+Wheat Bread,Individual Foods,WHEAT BREAD,SIGNATURE SELECT,Breads & Buns,256.0,48.8,2.3,4.65,3.49,9.3,0.656
+Whole Grain Bread,Individual Foods,WHOLE GRAIN BREAD,SHAW'S,Breads & Buns,286.0,45.2,11.9,4.76,7.14,11.9,0.7
+Whole Grain Bread,Individual Foods,WHOLE GRAIN BREAD,LOVE'S,Breads & Buns,233.0,41.9,4.7,6.98,3.49,9.3,0.529
+Whole Grain Bread,Individual Foods,WHOLE GRAIN BREAD,UDI'S GLUTEN FREE,Breads & Buns,282.0,47.4,2.6,5.13,7.69,7.69,0.619
+Whole Grain Bread,Individual Foods,WHOLE GRAIN BREAD,NATURAL OVENS,Breads & Buns,250.0,41.7,8.3,5.56,4.17,11.1,0.63
+Whole Grain Bread,Individual Foods,WHOLE GRAIN BREAD,NATURAL OVENS,Breads & Buns,250.0,41.7,8.3,2.78,5.56,11.1,0.741
+Rye Bread,Individual Foods,RYE BREAD,RUSSO'S BAKERY,Breads & Buns,267.0,53.3,3.3,0.0,0.0,10.0,0.886
+Rye Bread,Individual Foods,RYE BREAD,RUBSCHLAGER,Breads & Buns,250.0,47.2,5.6,2.78,4.17,8.33,0.755
+Rye Bread,Individual Foods,RYE BREAD,S. ROSEN'S,Breads & Buns,260.0,46.0,4.0,0.0,4.0,8.0,0.831
+Rye Bread,Individual Foods,"Bread, rye",,Baked Products,1080.0,48.3,5.8,3.85,3.3,8.5,0.726
+Rye Bread,Individual Foods,"Bread, rye, toasted",,Baked Products,1190.0,53.1,6.4,4.23,3.6,9.4,0.757
+Ritz Crackers,Individual Foods,"Nabisco, Nabisco Ritz Crackers",,Baked Products,492.0,63.5,2.3,8.14,23.2,7.23,0.462
+Ritz Crackers,Individual Foods,RITZ CRACKERS CHEESE,,Dough Based Products / Meals,,,2.2,3.4,24.5,10.0,-1.0
+Ritz Crackers,Individual Foods,RITZ CRACKERS HERBS,,Dough Based Products / Meals,,,3.9,5.9,18.5,8.7,-1.0
+Ritz Crackers,Individual Foods,RITZ CRACKERS ORIGINAL,,Dough Based Products / Meals,,,2.2,8.8,23.0,7.7,-1.0
+Ritz Crackers,Individual Foods,"RITZ, BIG CRACKERS",RITZ,Crackers & Biscotti,500.0,62.5,0.0,6.25,21.9,6.25,0.486
+Whole Wheat Crackers,Individual Foods,WHOLE WHEAT CRACKERS,CRICH,Crackers & Biscotti,480.0,72.0,8.0,0.0,12.0,12.0,0.774
+Whole Wheat Crackers,Individual Foods,WHOLE WHEAT CRACKERS,,Crackers & Biscotti,471.0,70.6,5.9,17.6,20.6,5.88,0.436
+Whole Wheat Crackers,Individual Foods,WHOLE WHEAT CRACKERS,CRICH,Crackers & Biscotti,416.0,64.0,6.4,0.0,12.8,9.6,0.824
+Whole Wheat Crackers,Individual Foods,WHOLE WHEAT CRACKERS,WINN-DIXIE,Crackers & Biscotti,452.0,67.7,9.7,0.0,19.4,9.68,0.804
+Whole Wheat Crackers,Individual Foods,"Crackers, whole-wheat",,Baked Products,1790.0,69.6,10.3,1.19,14.1,10.6,0.743
+Rice Cakes,Individual Foods,RICE CAKES,,Other Snacks,405.0,78.0,2.1,3.7,6.1,7.0,0.472
+Rice Cakes,Individual Foods,RICE CAKES,FORRELLI,Other Snacks,400.0,80.0,20.0,0.0,0.0,20.0,0.738
+Rice Cakes,Individual Foods,RICE CAKES,KELKIN,Other Snacks,488.0,61.0,5.1,27.0,23.0,6.3,0.519
+Rice Cakes,Individual Foods,RICE CAKES,EATING RIGHT,Other Snacks,400.0,80.0,0.0,0.0,0.0,10.0,0.588
+Rice Cakes,Individual Foods,"Rice cake, cracker (include hain mini rice cakes)",,Snacks,392.0,81.1,4.2,0.88,4.3,7.1,0.584
+Almond Flour,Individual Foods,ALMOND FLOUR,KRUSTEAZ,Flours & Corn Meal,667.0,20.0,6.7,6.67,53.3,20.0,0.413
+Almond Flour,Individual Foods,ALMOND FLOUR,ESSENTIAL EVERYDAY,Flours & Corn Meal,615.0,15.4,7.7,7.69,53.8,23.1,0.347
+Almond Flour,Individual Foods,ALMOND FLOUR,365 WHOLE FOODS MARKET,Flours & Corn Meal,600.0,20.0,6.7,6.67,53.3,20.0,0.413
+Almond Flour,Individual Foods,ALMOND FLOUR,RALEY'S,Flours & Corn Meal,571.0,21.4,14.3,7.14,50.0,21.4,0.418
+Almond Flour,Individual Foods,ALMOND FLOUR,BARNEY BAKERY,Flours & Corn Meal,571.0,21.4,10.7,3.57,50.0,21.4,0.561
+Sweet potatoes,Individual Foods,SWEET POTATOES,RALEY'S,Pre-Packaged Fruit & Vegetables,82.0,20.0,3.5,4.71,0.0,1.18,0.355
+Sweet potatoes,Individual Foods,SWEET POTATOES,PICTSWEET FARMS,Frozen Vegetables,85.0,20.3,3.4,4.24,0.0,1.69,0.378
+Sweet potatoes,Individual Foods,SWEET POTATOES,,Pre-Packaged Fruit & Vegetables,85.0,20.0,3.1,3.85,0.0,1.54,0.386
+Sweet potatoes,Individual Foods,SWEET POTATOES,,Pre-Packaged Fruit & Vegetables,86.0,20.3,3.0,4.51,0.0,1.5,0.36
+Sweet potatoes,Individual Foods,SWEET POTATOES,TAYLOR'S,Canned Vegetables,80.0,19.5,1.8,10.6,0.0,0.88,0.214
+Dark chocolate,Individual Foods,DARK CHOCOLATE,CIRCLE K,"Popcorn, Peanuts, Seeds & Related Snacks",526.0,39.5,10.5,21.0,42.1,13.2,0.542
+Dark chocolate,Individual Foods,DARK CHOCOLATE,7-SELECT,Chocolate,,,,,,,-1.0
+Dark chocolate,Individual Foods,DARK CHOCOLATE,MOONSTRUCK,Chocolate,581.0,51.2,11.6,30.2,37.2,6.98,0.623
+Dark chocolate,Individual Foods,DARK CHOCOLATE,BALDUCCI'S,Chocolate,,,,,,,-1.0
+Dark chocolate,Individual Foods,DARK CHOCOLATE,,Chocolate,512.0,48.8,4.7,34.9,39.5,4.65,0.551
+Vinegar,Individual Foods,VINEGAR,,Other Cooking Sauces,0.0,0.0,,0.0,0.0,0.0,-1.0
+Vinegar,Individual Foods,VINEGAR,,Other Cooking Sauces,67.0,6.67,0.0,6.67,0.0,6.67,0.13
+Vinegar,Individual Foods,VINEGAR,RALEY'S,Other Cooking Sauces,0.0,0.0,,,0.0,0.0,-1.0
+Vinegar,Individual Foods,VINEGAR,,Other Cooking Sauces,0.0,0.0,,0.0,0.0,0.0,-1.0
+Vinegar,Individual Foods,VINEGAR,ROUNDY'S,Other Cooking Sauces,0.0,0.0,,0.0,0.0,0.0,-1.0
+Basil,Individual Foods,BASIL,CORA,Herbs & Spices,0.0,0.0,,,0.0,0.0,-1.0
+Basil,Individual Foods,BASIL,GALANTINO,Vegetable & Cooking Oils,800.0,0.0,,,93.3,0.0,-1.0
+Basil,Individual Foods,BASIL,GOODNESS GARDENS,Herbs & Spices,125.0,0.0,0.0,0.0,12.5,0.0,0.3
+Basil,Individual Foods,BASIL,CUB,Herbs & Spices,0.0,0.0,,0.0,0.0,0.0,-1.0
+Basil,Individual Foods,BASIL,LOWES FOODS,Herbs & Spices,0.0,71.4,71.4,,0.0,0.0,-1.0
+Oregano,Individual Foods,OREGANO,SUGAR 'N SPICE,Herbs & Spices,0.0,0.0,,0.0,0.0,0.0,-1.0
+Oregano,Individual Foods,OREGANO,,Herbs & Spices,0.0,0.0,,,0.0,0.0,-1.0
+Oregano,Individual Foods,OREGANO,CUB,Herbs & Spices,0.0,0.0,,0.0,0.0,0.0,-1.0
+Oregano,Individual Foods,OREGANO,ROUNDY'S,Herbs & Spices,0.0,0.0,0.0,0.0,0.0,0.0,0.3
+Oregano,Individual Foods,OREGANO,SCHNUCKS,Herbs & Spices,0.0,0.0,,0.0,0.0,0.0,-1.0
+Parsley,Individual Foods,PARSLEY,CUB,Herbs & Spices,0.0,0.0,,0.0,0.0,0.0,-1.0
+Parsley,Individual Foods,PARSLEY,CORA,Herbs & Spices,0.0,0.0,,,0.0,0.0,-1.0
+Parsley,Individual Foods,PARSLEY,HERB BLASTZ,Herbs & Spices,0.0,0.0,,0.0,0.0,0.0,-1.0
+Parsley,Individual Foods,PARSLEY,SUGAR N SPICE,Herbs & Spices,0.0,0.0,,0.0,0.0,0.0,-1.0
+Parsley,Individual Foods,PARSLEY,ADAMS,Herbs & Spices,0.0,0.0,0.0,0.0,0.0,0.0,0.3
+Cinnamon,Individual Foods,CINNAMON,ROUNDY'S,Herbs & Spices,0.0,0.0,,0.0,0.0,0.0,-1.0
+Cinnamon,Individual Foods,CINNAMON,DONA ISABEL,Herbs & Spices,0.0,0.0,0.0,0.0,0.0,0.0,0.3
+Cinnamon,Individual Foods,CINNAMON,SCHNUCKS,Herbs & Spices,0.0,0.0,,0.0,0.0,0.0,-1.0
+Cinnamon,Individual Foods,CINNAMON,CUB,Herbs & Spices,0.0,0.0,,0.0,0.0,0.0,-1.0
+Cinnamon,Individual Foods,CINNAMON,SUGAR 'N SPICE,Herbs & Spices,0.0,0.0,,0.0,0.0,0.0,-1.0
+Turmeric,Individual Foods,TURMERIC,CHEFZITO,Herbs & Spices,0.0,125.0,31.2,0.0,0.0,0.0,0.4
+Turmeric,Individual Foods,TURMERIC,LA FLOR,Herbs & Spices,0.0,0.0,0.0,0.0,0.0,0.0,0.3
+Turmeric,Individual Foods,TURMERIC,SUGAR 'N SPICE,Herbs & Spices,0.0,125.0,,0.0,0.0,0.0,-1.0
+Turmeric,Individual Foods,TURMERIC,ROUNDY'S,Herbs & Spices,0.0,125.0,31.2,0.0,0.0,0.0,0.4
+Turmeric,Individual Foods,TURMERIC,,Herbs & Spices,0.0,0.0,,,0.0,0.0,-1.0
+Ginger,Individual Foods,GINGER,SUGAR 'N SPICE,Herbs & Spices,0.0,0.0,,0.0,0.0,0.0,-1.0
+Ginger,Individual Foods,GINGER,FUJISAN,Pre-Packaged Fruit & Vegetables,,,,,,0.0,-1.0
+Ginger,Individual Foods,GINGER,CHRISTOPHER RANCH,Herbs & Spices,100.0,0.0,0.0,,0.0,0.0,-1.0
+Ginger,Individual Foods,"Ginger root, raw",,Vegetables and Vegetable Products,333.0,17.8,2.0,1.7,0.75,1.82,0.437
+Ginger,Individual Foods,"Spices, ginger, ground",,Spices and Herbs,1400.0,71.6,14.1,3.39,4.24,8.98,0.627
+Hot Sauce,Individual Foods,HOT SAUCE,SOUTHERN ART,"Ketchup, Mustard, BBQ & Cheese Sauce",0.0,0.0,0.0,0.0,0.0,0.0,0.3
+Hot Sauce,Individual Foods,HOT SAUCE,TIA LUPITA,"Ketchup, Mustard, BBQ & Cheese Sauce",0.0,0.0,,,0.0,0.0,-1.0
+Hot Sauce,Individual Foods,HOT SAUCE,TEXAS BRAND,"Ketchup, Mustard, BBQ & Cheese Sauce",0.0,0.0,0.0,0.0,0.0,0.0,0.3
+Hot Sauce,Individual Foods,HOT SAUCE,FAT SMACK'S,"Ketchup, Mustard, BBQ & Cheese Sauce",0.0,0.0,,,0.0,0.0,-1.0
+Hot Sauce,Individual Foods,HOT SAUCE,CRYSTAL,"Ketchup, Mustard, BBQ & Cheese Sauce",0.0,0.0,,,0.0,0.0,-1.0
+Mustard,Individual Foods,MUSTARD,HONEYCUP,"Ketchup, Mustard, BBQ & Cheese Sauce",400.0,40.0,0.0,40.0,20.0,0.0,0.381
+Mustard,Individual Foods,MUSTARD,VALU TIME,"Ketchup, Mustard, BBQ & Cheese Sauce",0.0,0.0,,0.0,0.0,0.0,-1.0
+Mustard,Individual Foods,MUSTARD,NUM NUM SAUCE,"Ketchup, Mustard, BBQ & Cheese Sauce",200.0,40.0,,40.0,0.0,0.0,-1.0
+Mustard,Individual Foods,MUSTARD,FRENCH'S,"Ketchup, Mustard, BBQ & Cheese Sauce",100.0,0.0,,,0.0,0.0,-1.0
+Mustard,Individual Foods,MUSTARD,BONE SUCKIN',"Ketchup, Mustard, BBQ & Cheese Sauce",167.0,33.3,,33.3,0.0,0.0,-1.0
+Ketchup,Individual Foods,KETCHUP,KICKIN' KETCHUP,"Ketchup, Mustard, BBQ & Cheese Sauce",118.0,29.4,0.0,17.6,0.0,0.0,0.28
+Ketchup,Individual Foods,KETCHUP,FIRST STREET,"Ketchup, Mustard, BBQ & Cheese Sauce",143.0,28.6,0.0,14.3,0.0,0.0,0.272
+Ketchup,Individual Foods,KETCHUP,WINCO FOODS,"Ketchup, Mustard, BBQ & Cheese Sauce",118.0,23.5,0.0,23.5,0.0,0.0,0.224
+Ketchup,Individual Foods,KETCHUP,BEST CHOICE,"Ketchup, Mustard, BBQ & Cheese Sauce",118.0,29.4,0.0,23.5,0.0,0.0,0.28
+Ketchup,Individual Foods,KETCHUP,HY-TOP,"Ketchup, Mustard, BBQ & Cheese Sauce",118.0,29.4,0.0,23.5,0.0,0.0,0.28
+Mayonnaise,Individual Foods,MAYONNAISE,SIMPLE TRUTH,Salad Dressing & Mayonnaise,714.0,0.0,0.0,0.0,78.6,0.0,0.3
+Mayonnaise,Individual Foods,MAYONNAISE,FIRST STREET,Salad Dressing & Mayonnaise,750.0,0.0,0.0,0.0,75.0,0.0,0.3
+Mayonnaise,Individual Foods,MAYONNAISE,GREAT VALUE,Salad Dressing & Mayonnaise,692.0,0.0,0.0,0.0,76.9,0.0,0.3
+Mayonnaise,Individual Foods,MAYONNAISE,FIRST STREET,Salad Dressing & Mayonnaise,667.0,0.0,0.0,0.0,77.8,0.0,0.3
+Mayonnaise,Individual Foods,MAYONNAISE,VALUE CORNER,Salad Dressing & Mayonnaise,714.0,0.0,,,78.6,0.0,-1.0
+Salsa,Individual Foods,SALSA,D.A.M. SALSA,Dips & Salsa,33.0,6.67,0.0,3.33,0.0,0.0,0.23
+Salsa,Individual Foods,SALSA,XIMENA'S LATIN FLAVORS,Dips & Salsa,214.0,10.7,0.0,10.7,17.9,0.0,0.102
+Salsa,Individual Foods,SALSA,TIMOTEO,Dips & Salsa,23.0,6.45,0.0,3.23,0.0,0.0,0.232
+Salsa,Individual Foods,SALSA,LILLY'S,Dips & Salsa,36.0,7.14,3.6,0.0,0.0,0.0,0.416
+Salsa,Individual Foods,SALSA,SIMPLY SASSY SALSA,Dips & Salsa,54.0,7.14,0.0,3.57,3.57,0.0,0.225
+Tahini,Individual Foods,TAHINI,WEGMANS ORGANIC,Salad Dressing & Mayonnaise,714.0,10.7,0.9,0.0,64.3,21.4,0.514
+Tahini,Individual Foods,TAHINI,CHESHNI FOODS,Salad Dressing & Mayonnaise,571.0,2.54,10.7,0.0,62.0,,-1.0
+Tahini,Individual Foods,TAHINI,GOLCHIN,Salad Dressing & Mayonnaise,714.0,10.7,3.6,0.0,64.3,25.0,0.55
+Tahini,Individual Foods,TAHINI,SADAF,Nut & Seed Butters,643.0,17.9,14.3,0.0,53.6,25.0,0.67
+Tahini,Individual Foods,TAHINI,BRANDLESS,Salad Dressing & Mayonnaise,656.0,15.6,12.5,0.0,59.4,25.0,0.649
+Pickles,Individual Foods,PICKLES,GEFEN,"Pickles, Olives, Peppers & Relishes",20.0,4.0,0.0,4.0,0.0,0.0,0.178
+Pickles,Individual Foods,PICKLES,BOAT STREET,"Jam, Jelly & Fruit Spreads",167.0,46.7,3.3,33.3,0.0,0.0,0.489
+Pickles,Individual Foods,PICKLES,MCCLURE'S,"Pickles, Olives, Peppers & Relishes",18.0,7.14,,3.57,0.0,0.0,-1.0
+Pickles,Individual Foods,PICKLES,SCHNUCKS,"Pickles, Olives, Peppers & Relishes",0.0,0.0,,0.0,0.0,0.0,-1.0
+Pickles,Individual Foods,PICKLES,TALL PAUL'S PICKLES,"Pickles, Olives, Peppers & Relishes",18.0,3.51,0.0,1.75,0.0,0.0,0.263
+Kimchi,Individual Foods,KIMCHI,,"Pickles, Olives, Peppers & Relishes",34.0,6.8,1.9,3.88,0.49,0.97,0.24
+Kimchi,Individual Foods,KIMCHI,BRITT'S MARKET KIMCHI,"Pickles, Olives, Peppers & Relishes",39.0,7.14,3.6,3.57,0.46,3.57,0.291
+Kimchi,Individual Foods,KIMCHI,MADGE'S FOOD COMPANY,Other Drinks,0.0,3.39,0.8,,0.0,0.0,-1.0
+Kimchi,Individual Foods,KIMCHI,SCOTTY'S FERMENTED FOODS,"Pickles, Olives, Peppers & Relishes",36.0,7.14,0.0,0.0,0.0,3.57,0.386
+Kimchi,Individual Foods,KIMCHI,,"Pickles, Olives, Peppers & Relishes",24.0,4.71,1.2,2.35,0.0,1.18,0.273
+Sauerkraut,Individual Foods,SAUERKRAUT,,Canned Vegetables,25.0,5.83,0.8,3.33,0.0,1.67,0.241
+Sauerkraut,Individual Foods,SAUERKRAUT,SCHNUCKS,"Pickles, Olives, Peppers & Relishes",17.0,3.33,3.3,3.33,0.0,0.0,0.243
+Sauerkraut,Individual Foods,SAUERKRAUT,DEL MONTE,Canned Vegetables,0.0,3.33,3.3,0.0,0.0,0.0,0.376
+Sauerkraut,Individual Foods,SAUERKRAUT,MEIJER,"Pickles, Olives, Peppers & Relishes",17.0,3.33,3.3,3.33,0.0,0.0,0.243
+Sauerkraut,Individual Foods,SAUERKRAUT,SCHNUCKS,"Pickles, Olives, Peppers & Relishes",17.0,3.33,3.3,3.33,0.0,0.0,0.243
+Lemon Juice,Individual Foods,LEMON JUICE,SUNFRUIT,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",0.0,0.0,,,0.0,0.0,-1.0
+Lemon Juice,Individual Foods,LEMON JUICE,SPARTAN,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",0.0,0.0,,0.0,0.0,0.0,-1.0
+Lemon Juice,Individual Foods,LEMON JUICE,CHEF'S QUALITY,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",0.0,0.0,0.0,0.0,0.0,0.0,0.3
+Lemon Juice,Individual Foods,LEMON JUICE,SUNFRUIT,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",0.0,0.0,,,0.0,0.0,-1.0
+Lemon Juice,Individual Foods,"Lemon juice, raw",,Fruits and Fruit Juices,91.0,6.9,0.3,2.52,0.24,0.35,0.271
+Lime Juice,Individual Foods,LIME JUICE,PERRICONE FARMS,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",,6.67,,3.33,0.0,0.0,-1.0
+Lime Juice,Individual Foods,"Lime juice, raw",,Fruits and Fruit Juices,104.0,8.42,0.4,1.69,0.07,0.42,0.32
+Lime Juice,Individual Foods,"Lime juice, canned or bottled, unsweetened",,Fruits and Fruit Juices,21.0,6.69,0.4,1.37,0.23,0.25,0.315
+Lime Juice,Individual Foods,"Limes, raw",,Fruits and Fruit Juices,30.0,10.5,2.8,1.69,0.2,0.7,0.373
+Lime Juice,Individual Foods,"Frozen novelties, juice type, juice with cream",,Sweets,115.0,24.1,0.1,20.6,1.41,1.41,0.238
+Cocounut Flakes,Individual Foods,"Onions, dehydrated flakes",,Vegetables and Vegetable Products,349.0,83.3,9.2,37.4,0.46,8.95,0.351
+Cocounut Flakes,Individual Foods,"Breakfast bar, corn flake crust with fruit",,Snacks,1570.0,72.8,2.1,35.1,7.5,4.4,0.357
+Cocounut Flakes,Individual Foods,"Cereals ready-to-eat, POST Bran Flakes",,Breakfast Cereals,328.0,80.5,18.3,18.6,2.1,9.9,0.383
+Cocounut Flakes,Individual Foods,"Cereals ready-to-eat, RALSTON Corn Flakes",,Breakfast Cereals,1610.0,88.0,2.7,7.84,0.91,5.9,0.227
+Cocounut Flakes,Individual Foods,"Cereals ready-to-eat, POST, GRAPE-NUTS Flakes",,Breakfast Cereals,376.0,82.0,10.2,15.2,3.7,9.4,0.366
+Zoodles,Individual Foods,"ZOODLES ZUCCHINI NOODLES WITH TOMATO & MUSHROOM SAUCE, ZOODLES",REDDIHOT GO,"Entrees, Sides & Small Meals",110.0,4.0,1.3,1.0,9.67,2.33,0.327
+Zoodles,Individual Foods,CARB WISE MEAT LOVERS ZOODLES BOWL,LIFE CUISINE,Frozen Dinners & Entrees,119.0,5.95,1.9,2.6,7.81,5.95,0.308
+Zoodles,Individual Foods,"SESAME CHICKEN WITH ZOODLES CHICKEN BREAST WITH ZUCCHINI SPIRALS & VEGETABLES IN A SPICY SESAME TAHINI SAUCE, SESAME CHICKEN WITH ZOODLES",HEALTHY CHOICE,Frozen Dinners & Entrees,74.0,3.72,1.9,1.49,3.72,6.69,0.335
+Zoodles,Individual Foods,"MEATLOVERS ZOODLES ITALIAN SAUSAGE AND PEPPERONI MADE WITH PORK, CHICKEN & BEEF OVER ZUCCHINI SPIRALS WITH TOMATO SAUCE & CHEESE STYLE BOWLS, MEATLOVERS ZOODLES",LIFE CUISINE,Frozen Dinners & Entrees,133.0,6.83,2.0,2.81,8.43,6.83,0.313
+Zoodles,Individual Foods,"LIFE CUISINE LIFESTYLE BOWLS MEATLOVERS ZOODLES BOWL, 10 3/8 OZ",LIFE CUISINE,Frozen Dinners & Entrees,133.0,6.83,2.0,2.81,8.43,6.83,0.313
+Cauliflower Rice,Individual Foods,CAULIFLOWER RICE,ROUNDY'S,Pre-Packaged Fruit & Vegetables,24.0,4.71,2.4,2.35,0.0,2.35,0.295
+Cauliflower Rice,Individual Foods,CAULIFLOWER RICE,WEGMANS,Pre-Packaged Fruit & Vegetables,24.0,4.71,2.4,2.35,0.0,2.35,0.295
+Cauliflower Rice,Individual Foods,"Cauliflower, raw",,Vegetables and Vegetable Products,,4.72,1.95,,0.238,1.64,-1.0
+Cauliflower Rice,Individual Foods,"Cauliflower, raw",,Vegetables and Vegetable Products,104.0,4.97,2.0,1.91,0.28,1.92,0.307
+Cauliflower Rice,Individual Foods,"Cauliflower, frozen, unprepared",,Vegetables and Vegetable Products,100.0,4.68,2.3,2.22,0.27,2.01,0.296
+Tea,Individual Foods,TEA,,Iced & Bottle Tea,34.0,8.46,,8.25,0.0,0.0,-1.0
+Tea,Individual Foods,TEA,,Iced & Bottle Tea,34.0,8.46,,8.25,0.0,0.0,-1.0
+Tea,Individual Foods,TEA,,Iced & Bottle Tea,33.0,8.23,,8.04,0.0,0.0,-1.0
+Tea,Individual Foods,TEA,BHAKTI CHAI,Iced & Bottle Tea,11.0,2.44,0.8,0.0,0.0,0.0,0.334
+Tea,Individual Foods,TEA,RUVED,Tea Bags,0.0,0.0,0.0,0.0,0.0,0.0,0.3
+Lemonade,Individual Foods,LEMONADE,DEL'S,Soda,42.0,11.7,0.0,10.8,0.0,0.0,0.111
+Lemonade,Individual Foods,LEMONADE,WHOLE FOODS MARKET,Soda,42.0,10.4,0.0,10.4,0.0,0.0,0.099
+Lemonade,Individual Foods,LEMONADE,WEGMANS,Soda,54.0,13.3,,13.3,0.0,0.0,-1.0
+Lemonade,Individual Foods,LEMONADE,,Powdered Drinks,367.0,83.3,,83.3,0.0,0.0,-1.0
+Lemonade,Individual Foods,LEMONADE,BLOSSOM GROVE,Soda,55.0,13.1,,13.1,0.0,0.0,-1.0
+Soda,Individual Foods,SODA,,Soda,25.0,6.76,,6.76,0.0,0.0,-1.0
+Soda,Individual Foods,SODA,,Soda,39.0,9.58,0.0,9.01,0.0,0.0,0.091
+Soda,Individual Foods,SODA,OUZON SODA,Soda,33.0,8.06,,8.06,0.0,0.0,-1.0
+Soda,Individual Foods,SODA,REAL SODA,Soda,45.0,11.3,,11.3,0.0,0.0,-1.0
+Soda,Individual Foods,SODA,DR THUNDER,Soda,42.0,11.6,,11.6,0.0,0.0,-1.0
+Juice,Individual Foods,JUICE,,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",37.0,9.01,0.3,6.76,0.0,0.85,0.124
+Juice,Individual Foods,JUICE,REAL GOOD JUICE CO,Other Drinks,24.0,6.39,1.1,3.74,0.0,0.44,0.228
+Juice,Individual Foods,JUICE,,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",59.0,14.4,0.3,12.7,0.0,0.28,0.143
+Juice,Individual Foods,JUICE,,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",0.0,0.0,0.0,0.0,0.0,0.0,0.3
+Juice,Individual Foods,JUICE,WELCH'S,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",42.0,10.4,,9.58,0.0,0.0,-1.0
+Coffee,Individual Foods,COFFEE,,Other Drinks,1.0,0.32,0.0,0.0,0.0,0.0,0.303
+Coffee,Individual Foods,COFFEE,MODERN TIMES,Other Drinks,1.0,0.28,0.0,0.0,0.0,0.0,0.303
+Coffee,Individual Foods,COFFEE,DAVID'S FAMOUS GOURMET FROZEN CUSTARD,Other Frozen Desserts,310.0,21.4,0.0,19.0,23.8,2.38,0.216
+Coffee,Individual Foods,COFFEE,VAN LEEUWEN,Other Frozen Desserts,295.0,24.8,2.9,18.1,22.9,2.86,0.289
+Coffee,Individual Foods,COFFEE,SEATTLE GRANOLA COMPANY,Cereal,500.0,57.1,7.1,21.4,25.0,10.7,0.604
+Coconut Water,Individual Foods,COCONUT WATER,VITA COCO,Plant Based Water,19.0,4.58,0.0,4.17,0.0,0.0,0.177
+Coconut Water,Individual Foods,COCONUT WATER,SIMPLY BALANCED,Plant Based Water,19.0,4.58,,4.58,0.0,0.0,-1.0
+Coconut Water,Individual Foods,COCONUT WATER,C2O,Plant Based Water,21.0,,,4.17,0.0,0.0,-1.0
+Coconut Water,Individual Foods,COCONUT WATER,COCO NIAU,Plant Based Water,22.0,3.98,0.0,2.99,0.45,0.5,0.221
+Coconut Water,Individual Foods,COCONUT WATER,REFRESHE,Plant Based Water,19.0,5.0,0.0,4.17,0.0,0.0,0.181

@@ -2,7 +2,7 @@ MS-MADS Capstone
 # Smart Meal Choices
 ## A Data Science Approach to Personalized Diabetes-Friendly Restaurant Meal Recommendations
 
-### Team 5: [Claire Bentzen](mailto:cbentzen@sandiego.edu), [Tara Dehdari](mailto:tdehdari@sandiego.edu), [Logan Van Dine](mailto:lvandine@sandiego.edu)
+#### Team 5: [Claire Bentzen](mailto:cbentzen@sandiego.edu), [Tara Dehdari](mailto:tdehdari@sandiego.edu), [Logan Van Dine](mailto:lvandine@sandiego.edu)
 
 ## Overview
 

@@ -12,7 +12,7 @@ In order to assist the millions of individuals who are diabetic or prediabetic, 
 
 #### If running unique data:
 1. Obtain API from Dexcom, NutritionX, USDA
-2. Download desired datasets from https://www.kaggle.com/datasets/julnazz/diabetes-health-indicators-dataset
+2. Download desired datasets from [Kaggle Diabetic Data](https://www.kaggle.com/datasets/julnazz/diabetes-health-indicators-dataset)
 3. Follow notebooks 3-4b
 
 #### If running with this project:

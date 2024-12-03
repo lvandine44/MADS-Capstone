@@ -6,7 +6,7 @@ import numpy as np
 from sklearn.preprocessing import StandardScaler
 
 # Initialize Flask app
-app = Flask(__name__, template_folder='../templates')
+app = Flask(__name__, template_folder='../templates',  static_folder='../static')
 
 # Load pre-trained models
 menu_model = joblib.load('../../models/menu_xgb_model.pkl')

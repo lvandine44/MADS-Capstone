@@ -39,12 +39,12 @@
         <!-- Choose a Menu -->
         <div id="restaurant-menu">
             <label for="menu">Choose a Menu:</label><br>
-            <select id="menu" name="menu" required>
+            <select id="menu" name="menu">
                 <!-- Options will be dynamically populated -->
             </select><br><br>
 
             <label for="food">Choose a Food:</label><br>
-            <select id="food" name="food" required>
+            <select id="food" name="food">
                 <!-- Options will be dynamically populated based on selected menu -->
             </select><br><br>
         </div>
@@ -52,7 +52,7 @@
         <!-- Choose an Individual Food -->
         <div id="individual-food">
             <label for="individual-food-select">Choose an Individual Food:</label><br>
-            <select id="individual-food-select" name="individual-food" required>
+            <select id="individual-food-select" name="individual-food">
                 <!-- Options will be dynamically populated -->
             </select><br><br>
         </div>
@@ -90,7 +90,7 @@
             });
 
         // Toggle between menu and individual food selection
-        document.getElementById("food-type").addEventListener("change", function() {
+        document.getElementById("food-type").addEventListener("change", function () {
             const foodType = this.value;
 
             // Show the respective dropdown based on the food type selected
@@ -107,7 +107,7 @@
         });
 
         // Handle restaurant selection and dynamically fetch foods
-        document.getElementById("menu").addEventListener("change", function() {
+        document.getElementById("menu").addEventListener("change", function () {
             const selectedRestaurant = this.value;
             fetch(`http://127.0.0.1:5000/get-foods/${selectedRestaurant}`)
                 .then(response => response.json())
@@ -129,63 +129,64 @@
         });
 
         // Handle form submission
-        document.getElementById("recommendation-form").addEventListener("submit", function(event) {
-        event.preventDefault();
+        document.getElementById("recommendation-form").addEventListener("submit", function (event) {
+            event.preventDefault();
 
-        const bmi = document.getElementById("bmi").value;
-        const glucose = document.getElementById("glucose").value;
+            const bmi = document.getElementById("bmi").value;
+            const glucose = document.getElementById("glucose").value;
 
-        // Get values from dropdowns
-        const menu = document.getElementById("menu").value;
-        const food = document.getElementById("food").value; // Menu-based food
-        const individualFood = document.getElementById("individual-food-select").value; // Individual food
+            // Get values from dropdowns
+            const foodType = document.getElementById("food-type").value;
+            const food = document.getElementById("food").value || ""; // Menu-based food
+            const individualFood = document.getElementById("individual-food-select").value || ""; // Individual food
 
-        let foodSelection = "";
+            let foodSelection = "";
+            let route = "";
 
-        // Determine which dropdown is selected (menu or individual food)
-        if (food && food !== "") {
-            foodSelection = food;  // Use menu food
-        } else if (individualFood && individualFood !== "") {
-            foodSelection = individualFood;  // Use individual food
-        }
-
-        // Ensure that a valid food is selected
-        if (!foodSelection) {
-            alert("Please select a food option.");
-            return;
-        }
-
-        let requestData = {
-            bmi: bmi,
-            glucose: glucose,
-            food: foodSelection,  // Send either menu food or individual food based on selection
-        };
-
-        // Determine the correct API route based on food selection
-        const route = food ? 'http://127.0.0.1:5000/predict-menu' : 'http://127.0.0.1:5000/predict-food';
-
-        // Send the request to the backend
-        fetch(route, {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json'
-            },
-            body: JSON.stringify({ data: requestData })
-        })
-        .then(response => response.json())
-        .then(data => {
-            if (data.recommendation) {
-                document.getElementById("result").innerHTML = `Recommendation: ${data.recommendation}`;
+            // Determine which dropdown is selected (menu or individual food)
+            if (foodType === "menu" && food !== "") {
+                foodSelection = food; // Use menu food
+                route = 'http://127.0.0.1:5000/predict-menu';
+            } else if (foodType === "individual" && individualFood !== "") {
+                foodSelection = individualFood; // Use individual food
+                route = 'http://127.0.0.1:5000/predict-food';
             } else {
-                document.getElementById("result").innerHTML = `Error: ${data.error || "No recommendation data available"}`;
+                alert("Please select a valid food option.");
+                return; // Prevent submission if no valid selection
             }
-        })
-        .catch(error => {
-            console.error("Error:", error);
-            document.getElementById("result").innerHTML = "There was an error processing the recommendation.";
+
+            const requestData = {
+                bmi: bmi,
+                glucose: glucose,
+                food: foodSelection,
+            };
+
+            console.log("Request Data:", requestData); // Debugging
+            console.log("API Route:", route); // Debugging
+
+            // Send the request to the backend
+            fetch(route, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ data: requestData })
+            })
+                .then(response => response.json())
+                .then(data => {
+                    if (data.recommendation) {
+                        document.getElementById("result").innerHTML = `Recommendation: ${data.recommendation}`;
+                    } else {
+                        document.getElementById("result").innerHTML = `Error: ${data.error || "No recommendation data available"}`;
+                    }
+                })
+                .catch(error => {
+                    console.error("Error:", error);
+                    document.getElementById("result").innerHTML = "There was an error processing the recommendation.";
+                });
         });
-    });
     </script>
 </body>
 </html>
+
 

@@ -62,4 +62,7 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
-5. Open a browser and go to: [Food Recommendation App](http://127.0.0.1:5000/form)
+5. Open a browser and go to URL documented on git bash 
+
+6. Optional:
+   - Download application on to computer (on website line shows download option)

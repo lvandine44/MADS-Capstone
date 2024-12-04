@@ -1,0 +1,20 @@
+{
+    "short_name": "Food App",
+    "name": "Food Recommendation App",
+    "start_url": "/form",
+    "background_color": "#ffffff",
+    "theme_color": "#4CAF50",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/static/icons/balance.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/static/icons/balance.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

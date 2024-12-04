@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food Recommendation</title>
+
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+    <!-- Manifest File -->
+    <link rel="manifest" href="{{ url_for('static', filename='manifest.json') }}">
+
+    <!-- Theme Color -->
+    <meta name="theme-color" content="#4CAF50">
+
+    <!-- Service Worker -->
+    <script>
+        if ("serviceWorker" in navigator) {
+            navigator.serviceWorker.register("{{ url_for('static', filename='service-worker.js') }}")
+                .then(() => console.log("Service Worker Registered"))
+                .catch(error => console.error("Service Worker Registration Failed:", error));
+        }
+    </script>
+</head>
+<body>
+<body>
+    <h1>Food Recommendation System</h1>
+
+    <form id="recommendation-form">
+        <label for="bmi">BMI:</label><br>
+        <input type="number" id="bmi" name="bmi" required><br><br>
+
+        <label for="glucose">Glucose Value:</label><br>
+        <input type="number" id="glucose" name="glucose" required><br><br>
+
+        <!-- Choose either menu or individual food -->
+        <label for="food-type">Choose a food type:</label><br>
+        <select id="food-type" name="food-type" required>
+            <option value="">Select Food Type</option>
+            <option value="menu">Menu (Restaurant)</option>
+            <option value="individual">Individual Food</option>
+        </select><br><br>
+
+        <!-- Choose a Menu -->
+        <div id="restaurant-menu">
+            <label for="menu">Choose a Menu:</label><br>
+            <select id="menu" name="menu">
+                <!-- Options will be dynamically populated -->
+            </select><br><br>
+
+            <label for="food">Choose a Food:</label><br>
+            <select id="food" name="food">
+                <!-- Options will be dynamically populated based on selected menu -->
+            </select><br><br>
+        </div>
+
+        <!-- Choose an Individual Food -->
+        <div id="individual-food">
+            <label for="individual-food-select">Choose an Individual Food:</label><br>
+            <select id="individual-food-select" name="individual-food">
+                <!-- Options will be dynamically populated -->
+            </select><br><br>
+        </div>
+
+        <button type="submit">Recommend</button>
+    </form>
+
+    <div id="result"></div>
+
+    <script>
+        // Fetch restaurant names and populate menu dropdown
+        fetch('http://127.0.0.1:5000/get-restaurants')
+            .then(response => response.json())
+            .then(data => {
+                const menuSelect = document.getElementById("menu");
+                data.restaurants.forEach(restaurant => {
+                    const option = document.createElement("option");
+                    option.value = restaurant;
+                    option.textContent = restaurant;
+                    menuSelect.appendChild(option);
+                });
+            });
+
+        // Fetch individual food items and populate individual food dropdown
+        fetch('http://127.0.0.1:5000/get-individual-foods')
+            .then(response => response.json())
+            .then(data => {
+                const individualFoodSelect = document.getElementById("individual-food-select");
+                data.food_items.forEach(food => {
+                    const option = document.createElement("option");
+                    option.value = food;
+                    option.textContent = food;
+                    individualFoodSelect.appendChild(option);
+                });
+            });
+
+        // Toggle between menu and individual food selection
+        document.getElementById("food-type").addEventListener("change", function () {
+            const foodType = this.value;
+
+            // Show the respective dropdown based on the food type selected
+            if (foodType === "menu") {
+                document.getElementById("restaurant-menu").style.display = "block";
+                document.getElementById("individual-food").style.display = "none";
+            } else if (foodType === "individual") {
+                document.getElementById("restaurant-menu").style.display = "none";
+                document.getElementById("individual-food").style.display = "block";
+            } else {
+                document.getElementById("restaurant-menu").style.display = "none";
+                document.getElementById("individual-food").style.display = "none";
+            }
+        });
+
+        // Handle restaurant selection and dynamically fetch foods
+        document.getElementById("menu").addEventListener("change", function () {
+            const selectedRestaurant = this.value;
+            fetch(`http://127.0.0.1:5000/get-foods/${selectedRestaurant}`)
+                .then(response => response.json())
+                .then(data => {
+                    const foodSelect = document.getElementById("food");
+                    foodSelect.innerHTML = ''; // Clear previous options
+                    if (data.foods) {
+                        data.foods.forEach(food => {
+                            const option = document.createElement("option");
+                            option.value = food;
+                            option.textContent = food;
+                            foodSelect.appendChild(option);
+                        });
+                    }
+                })
+                .catch(error => {
+                    console.error("Error fetching foods:", error);
+                });
+        });
+
+        // Handle form submission
+        document.getElementById("recommendation-form").addEventListener("submit", function (event) {
+            event.preventDefault();
+
+            const bmi = document.getElementById("bmi").value;
+            const glucose = document.getElementById("glucose").value;
+
+            // Get values from dropdowns
+            const foodType = document.getElementById("food-type").value;
+            const food = document.getElementById("food").value || ""; // Menu-based food
+            const individualFood = document.getElementById("individual-food-select").value || ""; // Individual food
+
+            let foodSelection = "";
+            let route = "";
+
+            // Determine which dropdown is selected (menu or individual food)
+            if (foodType === "menu" && food !== "") {
+                foodSelection = food; // Use menu food
+                route = 'http://127.0.0.1:5000/predict-menu';
+            } else if (foodType === "individual" && individualFood !== "") {
+                foodSelection = individualFood; // Use individual food
+                route = 'http://127.0.0.1:5000/predict-food';
+            } else {
+                alert("Please select a valid food option.");
+                return; // Prevent submission if no valid selection
+            }
+
+            const requestData = {
+                bmi: bmi,
+                glucose: glucose,
+                food: foodSelection,
+            };
+
+            console.log("Request Data:", requestData); // Debugging
+            console.log("API Route:", route); // Debugging
+
+            // Send the request to the backend
+            fetch(route, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ data: requestData })
+            })
+                .then(response => response.json())
+                .then(data => {
+                    const resultElement = document.getElementById("result");
+
+                    if (data.recommendation) {
+                        if (data.recommendation === "Recommended") {
+                            resultElement.style.color = "white"; // Text color inside the box
+                            resultElement.style.backgroundColor = "green"; // Box color
+                            resultElement.innerHTML = `Recommendation: ${data.recommendation}`;
+                        } else {
+                            resultElement.style.color = "white"; // Text color inside the box
+                            resultElement.style.backgroundColor = "red"; // Box color
+                            resultElement.innerHTML = `Recommendation: ${data.recommendation}`;
+                        }
+                    } else {
+                        resultElement.style.color = "black"; // Default text color
+                        resultElement.style.backgroundColor = "transparent"; // Default box background
+                        resultElement.innerHTML = `Error: ${data.error || "No recommendation data available"}`;
+                    }
+                })
+                .catch(error => {
+                    console.error("Error:", error);
+                    document.getElementById("result").innerHTML = "There was an error processing the recommendation.";
+                });
+        });
+    </script>
+</body>
+</html>
+
+

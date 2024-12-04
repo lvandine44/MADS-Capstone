@@ -4,8 +4,26 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Food Recommendation</title>
+
+    <!-- Stylesheet -->
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+    <!-- Manifest File -->
+    <link rel="manifest" href="{{ url_for('static', filename='manifest.json') }}">
+
+    <!-- Theme Color -->
+    <meta name="theme-color" content="#4CAF50">
+
+    <!-- Service Worker -->
+    <script>
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('/static/service-worker.js')
+                .then(() => console.log("Service Worker Registered"))
+                .catch(error => console.error("Service Worker Registration Failed:", error));
+        }
+    </script>
 </head>
+<body>
 <body>
     <h1>Food Recommendation System</h1>
 
@@ -162,10 +180,22 @@
             })
                 .then(response => response.json())
                 .then(data => {
+                    const resultElement = document.getElementById("result");
+
                     if (data.recommendation) {
-                        document.getElementById("result").innerHTML = `Recommendation: ${data.recommendation}`;
+                        if (data.recommendation === "Recommended") {
+                            resultElement.style.color = "white"; // Text color inside the box
+                            resultElement.style.backgroundColor = "green"; // Box color
+                            resultElement.innerHTML = `Recommendation: ${data.recommendation}`;
+                        } else {
+                            resultElement.style.color = "white"; // Text color inside the box
+                            resultElement.style.backgroundColor = "red"; // Box color
+                            resultElement.innerHTML = `Recommendation: ${data.recommendation}`;
+                        }
                     } else {
-                        document.getElementById("result").innerHTML = `Error: ${data.error || "No recommendation data available"}`;
+                        resultElement.style.color = "black"; // Default text color
+                        resultElement.style.backgroundColor = "transparent"; // Default box background
+                        resultElement.innerHTML = `Error: ${data.error || "No recommendation data available"}`;
                     }
                 })
                 .catch(error => {

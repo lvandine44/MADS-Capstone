@@ -1,5 +1,5 @@
 # Imports
-from flask import Flask, request, jsonify, render_template
+from flask import Flask, request, redirect, jsonify, render_template
 import joblib
 import pandas as pd
 import numpy as np
@@ -40,7 +40,7 @@ food_features = [
 # Home route
 @app.route('/')
 def home():
-    return "Welcome to our Food Recommendation Application!"
+    return redirect('/form')  # Redirects to the form route
 
 # Menu recommendation endpoint
 @app.route('/predict-menu', methods=['POST'])

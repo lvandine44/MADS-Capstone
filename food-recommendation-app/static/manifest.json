@@ -1,0 +1,8 @@
+{
+    "short_name": "Food App",
+    "name": "Food Recommendation App",
+    "start_url": "/form",
+    "background_color": "#ffffff",
+    "theme_color": "#4CAF50",
+    "display": "standalone"
+}

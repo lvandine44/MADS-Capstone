@@ -4,6 +4,7 @@ import joblib
 import pandas as pd
 import numpy as np
 from sklearn.preprocessing import StandardScaler
+import os
 
 # Initialize Flask app
 app = Flask(__name__, template_folder='../templates',  static_folder='../static')
@@ -172,4 +173,5 @@ def form():
 
 # Run the Flask app
 if __name__ == '__main__':
-    app.run(debug=True)
+    port = int(os.environ.get("PORT", 5000))  # Use PORT environment variable if available
+    app.run(host="0.0.0.0", port=port, debug=True)  # Bind to 0.0.0.0 for external access

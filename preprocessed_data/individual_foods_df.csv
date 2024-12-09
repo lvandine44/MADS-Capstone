@@ -1,0 +1,139 @@
+food_name,category,description,food_category,calories,carbohydrates,fiber,sugars,fats,proteins,score
+Almond Butter,Individual Foods,ALMOND BUTTER,Nut & Seed Butters,587.8,22.5,11.0,6.992,50.980000000000004,21.32,0.4612
+Almond Flour,Individual Foods,ALMOND FLOUR,Flours & Corn Meal,604.8,19.639999999999997,9.22,6.348,52.08,21.18,0.4304
+Almonds,Individual Foods,ALMONDS,"Popcorn, Peanuts, Seeds & Related Snacks",594.8,18.119999999999997,11.9,3.1420000000000003,51.9,20.66,0.5462
+Apples,Individual Foods,APPLES,Pre-Packaged Fruit & Vegetables,52.8,14.180000000000001,2.7600000000000002,10.48,0.0,0.554,0.1746
+Asparagus,Individual Foods,ASPARAGUS,Pre-Packaged Fruit & Vegetables,21.0,3.9199999999999995,2.3600000000000003,2.0759999999999996,0.0,2.0759999999999996,0.296
+Avocado oil,Individual Foods,AVOCADO OIL,Vegetable & Cooking Oils,813.4,0.0,0.0,0.0,93.3,0.0,0.3
+Barley,Individual Foods,BARLEY,Other Grains & Seeds,593.5,50.38,9.120000000000001,0.6839999999999999,1.158,6.678,0.5796
+Basil,Individual Foods,BASIL,Herbs & Spices,231.25,0.0,0.0,0.0,26.45,0.0,0.3
+Bell peppers,Individual Foods,BELL PEPPERS,Pre-Packaged Fruit & Vegetables,43.6,5.888,1.0677999999999999,1.998,0.1018,0.8984,0.29500000000000004
+Black beans,Individual Foods,BLACK BEANS,Canned & Bottled Beans,96.75,17.225,6.074999999999999,0.4875,0.1475,6.0975,0.55375
+Blackberries,Individual Foods,BLACKBERRIES,Frozen Fruit & Fruit Juice Concentrates,61.6,13.937999999999999,5.0200000000000005,8.623999999999999,0.21799999999999997,1.152,0.2398
+Blueberries,Individual Foods,BLUEBERRIES,Frozen Fruit & Fruit Juice Concentrates,50.6,11.394,2.7399999999999998,8.142,0.71,0.426,0.1554
+Broccoli,Individual Foods,BROCCOLI,Frozen Vegetables,28.0,4.614,2.98,1.448,0.068,2.4219999999999997,0.3378
+Brown rice,Individual Foods,BROWN RICE,Rice,372.8,76.64,4.7,0.0,3.78,8.0,0.6728
+Brussels sprouts,Individual Foods,BRUSSELS SPROUTS,Pre-Packaged Fruit & Vegetables,50.6,9.41,3.5,2.35,0.06999999999999999,3.53,0.36
+Buckwheat,Individual Foods,Buckwheat,Cereal Grains and Pasta,784.4,61.55999999999999,7.4300000000000015,1.208,2.524,9.751999999999999,0.6668000000000001
+Bulgur,Individual Foods,BULGUR,Other Grains & Seeds,522.0,53.9,9.4,1.6099999999999999,1.2280000000000002,8.776,0.6416000000000001
+Cabbage,Individual Foods,"Cabbage, kimchi",Vegetables and Vegetable Products,26.0,4.488,2.15,1.8960000000000001,0.21960000000000002,1.1082,0.301
+Canned Tuna,Individual Foods,"Fish, tuna, light, canned in oil, drained solids",Finfish and Shellfish Products,486.4,0.016,0.0,0.0,5.682,25.46,0.3992
+Cashews,Individual Foods,CASHEWS,"Popcorn, Peanuts, Seeds & Related Snacks",574.8,30.220000000000006,4.12,5.366,46.339999999999996,16.839999999999996,0.5122
+Cauliflower,Individual Foods,CAULIFLOWER,Frozen Vegetables,80.4,12.824000000000002,6.92,5.706,0.118,3.91,0.3992
+Cauliflower Rice,Individual Foods,CAULIFLOWER RICE,Pre-Packaged Fruit & Vegetables,60.4,4.758,2.21,2.148,0.15760000000000002,2.054,0.2992
+Celery,Individual Foods,CELERY,Pre-Packaged Fruit & Vegetables,29.8,3.442,1.7550000000000001,1.7420000000000002,0.0664,0.2364,0.28759999999999997
+Cherries,Individual Foods,CHERRIES,Baking Decorations & Dessert Toppings,264.0,58.04,1.92,46.040000000000006,0.04,1.2120000000000002,0.2666
+Chia seeds,Individual Foods,CHIA SEEDS,Other Grains & Seeds,488.0,43.099999999999994,33.3,0.0,30.5,16.7,0.894
+Chicken Legs,Individual Foods,"Chicken, broilers or fryers, leg, meat and skin, raw",Poultry Products,674.4,0.164,0.0,0.0,10.286,22.439999999999998,0.39720000000000005
+Chicken Tenders,Individual Foods,CHICKEN TENDERS,Frozen Appetizers & Hors D'oeuvres,204.8,12.0,1.6199999999999999,0.238,10.432,15.680000000000001,0.5024
+Chicken Thigh,Individual Foods,CHICKEN THIGH,"Frozen Poultry, Chicken & Turkey",459.25,3.9675,0.025,0.22,22.805,15.219999999999999,0.40525
+Chicken breast,Individual Foods,CHICKEN BREAST,"Poultry, Chicken & Turkey",123.6,2.4259999999999997,0.26,0.602,4.954,17.419999999999998,0.38780000000000003
+Chickpeas,Individual Foods,CHICKPEAS,Canned & Bottled Beans,104.0,18.619999999999997,4.66,1.392,1.474,6.062,0.5136000000000001
+Chocolate,Individual Foods,CHOCOLATE,Chocolate,472.2,65.4,3.8200000000000003,56.14,23.94,4.262,0.4462
+Cinnamon,Individual Foods,CINNAMON,Herbs & Spices,0.0,0.0,0.0,0.0,0.0,0.0,0.3
+Coconut Water,Individual Foods,COCONUT WATER,Plant Based Water,20.0,4.544,0.0,4.016,0.09,0.1,0.18319999999999997
+Coconut oil,Individual Foods,COCONUT OIL,Vegetable & Cooking Oils,875.4,0.0,0.0,0.0,98.66,0.0,0.3
+Cocounut Flakes,Individual Foods,"Onions, dehydrated flakes",Vegetables and Vegetable Products,655.75,79.65,9.95,26.575,3.44,8.1625,0.36424999999999996
+Cod,Individual Foods,COD,Frozen Fish & Seafood,153.25,1.3225,0.15,0.0,1.2,17.1,0.3995
+Coffee,Individual Foods,COFFEE,Other Drinks,221.4,20.78,2.0,11.7,14.34,3.1879999999999997,0.34299999999999997
+Cottage cheese,Individual Foods,COTTAGE CHEESE,Cheese,90.6,5.029999999999999,0.0,3.998,3.226,10.124,0.2386
+Couscous,Individual Foods,COUSCOUS,Pasta by Shape & Type,366.75,74.475,4.375,0.9575,0.5725,12.9,0.675
+Cucumber,Individual Foods,"Cucumber, peeled, raw",Vegetables and Vegetable Products,34.0,2.598,1.035,1.5859999999999999,0.2156,0.5349999999999999,0.2778
+Dark Chocolate,Individual Foods,DARK CHOCOLATE,"Popcorn, Peanuts, Seeds & Related Snacks",528.6,49.62,7.24,33.22,38.6,6.8260000000000005,0.5708
+Dark chocolate,Individual Foods,DARK CHOCOLATE,"Popcorn, Peanuts, Seeds & Related Snacks",528.6,49.62,7.24,33.22,38.6,6.8260000000000005,0.5708
+Edamame,Individual Foods,EDAMAME,Frozen Vegetables,119.4,10.267999999999999,4.7,2.3200000000000003,4.62,10.602,0.42060000000000003
+Eggplant,Individual Foods,"Eggplant, pickled",Vegetables and Vegetable Products,38.4,7.5840000000000005,2.59,3.3280000000000003,0.292,0.8783999999999998,0.2782
+Eggs,Individual Foods,EGGS,Eggs & Egg Substitutes,141.0,0.0,0.0,0.0,9.294,12.66,0.363
+Farro,Individual Foods,FARRO,Other Grains & Seeds,263.4,53.779999999999994,5.12,0.44000000000000006,2.2960000000000003,10.208000000000002,0.7128
+Feta Cheese,Individual Foods,FETA CHEESE,Cheese,246.6,3.5700000000000003,0.72,0.714,18.567999999999998,17.88,0.40279999999999994
+Flax seeds,Individual Foods,FLAX SEEDS,Other Grains & Seeds,487.6,29.580000000000002,27.439999999999998,0.0,40.54,17.66,0.77
+Ghee,Individual Foods,GHEE,Butter & Spread,900.2,0.0,0.0,0.0,100.0,10.76,0.32
+Ginger,Individual Foods,GINGER,Herbs & Spices,374.8,19.738,3.6399999999999997,1.65,0.998,2.16,0.3908
+Grapefruit,Individual Foods,GRAPEFRUIT,Pre-Packaged Fruit & Vegetables,66.8,10.268,0.9099999999999999,8.732,0.02,0.384,0.1192
+Greek yogurt,Individual Foods,GREEK YOGURT,"Popcorn, Peanuts, Seeds & Related Snacks",167.4,21.824,0.8,20.718,5.8100000000000005,7.196000000000001,0.21459999999999999
+Green Peas,Individual Foods,GREEN PEAS,Frozen Vegetables,79.8,12.568000000000001,4.540000000000001,5.004,0.11200000000000002,5.465999999999999,0.3074
+Green beans,Individual Foods,GREEN BEANS,Canned Vegetables,27.0,5.884,2.1399999999999997,2.82,0.0,1.518,0.2796
+Hard-boiled eggs,Individual Foods,HARD-BOILED EGGS,Eggs & Egg Substitutes,145.2,0.22799999999999998,0.0,0.0,9.312000000000001,13.38,0.369
+Hot Sauce,Individual Foods,HOT SAUCE,"Ketchup, Mustard, BBQ & Cheese Sauce",0.0,0.0,0.0,14.1,0.0,0.0,0.12
+Hummus,Individual Foods,HUMMUS,Dips & Salsa,233.0,19.259999999999998,5.0200000000000005,3.342,16.02,7.93,0.45620000000000005
+Juice,Individual Foods,JUICE,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",32.4,8.040000000000001,0.34,6.556,0.0,0.314,0.17880000000000001
+Kale,Individual Foods,KALE,Pre-Packaged Fruit & Vegetables,69.6,7.366,2.94,0.9039999999999999,1.238,3.412,0.3902
+Kale Chips,Individual Foods,KALE CHIPS,"Chips, Pretzels & Snacks",501.6,37.38,9.66,3.5700000000000003,33.2,17.82,0.6986
+Ketchup,Individual Foods,KETCHUP,"Ketchup, Mustard, BBQ & Cheese Sauce",123.0,28.060000000000002,0.0,20.48,0.0,0.0,0.2672
+Kidney beans,Individual Foods,KIDNEY BEANS,Canned & Bottled Beans,86.4,15.080000000000002,5.88,1.54,0.076,5.996,0.4902
+Kimchi,Individual Foods,KIMCHI,"Pickles, Olives, Peppers & Relishes",26.6,5.836,1.5,1.9600000000000002,0.19,1.8579999999999999,0.3066
+Kiwi,Individual Foods,KIWI,Pre-Packaged Fruit & Vegetables,89.5,12.8475,1.875,8.08,0.34,1.03125,0.196
+Lemon Juice,Individual Foods,LEMON JUICE,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",18.2,1.3800000000000001,0.06,2.522,0.048,0.06999999999999999,0.21339999999999998
+Lemonade,Individual Foods,LEMONADE,Soda,112.0,26.360000000000003,0.42000000000000004,26.18,0.0,0.0,0.13940000000000002
+Lentils,Individual Foods,LENTILS,Vegetable and Lentil Mixes,233.0,50.18,15.4,0.726,0.702,19.804,0.7916000000000001
+Lime Juice,Individual Foods,LIME JUICE,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",54.0,11.276,0.74,5.736,0.382,0.5559999999999999,0.2952
+Macadamia Nuts,Individual Foods,MACADAMIA NUTS,"Popcorn, Peanuts, Seeds & Related Snacks",691.2,18.78,7.380000000000001,8.238,67.42,8.709999999999999,0.4342
+Mayonnaise,Individual Foods,MAYONNAISE,Salad Dressing & Mayonnaise,707.4,0.0,0.0,0.0,77.38,0.0,0.3
+Mixed Nuts,Individual Foods,MIXED NUTS,"Popcorn, Peanuts, Seeds & Related Snacks",619.4,19.04,8.52,3.3,55.96,19.740000000000002,0.5394
+Mixed nuts,Individual Foods,MIXED NUTS,"Popcorn, Peanuts, Seeds & Related Snacks",619.4,19.04,8.52,3.3,55.96,19.740000000000002,0.5394
+Mozzarella cheese,Individual Foods,MOZZARELLA CHEESE,Cheese,292.8,3.678,0.0,0.714,20.06,24.22,0.4064
+Mushrooms,Individual Foods,MUSHROOMS,Canned Vegetables,20.0,3.3939999999999997,1.9600000000000002,0.706,0.154,1.512,0.3378
+Mustard,Individual Foods,MUSTARD,"Ketchup, Mustard, BBQ & Cheese Sauce",173.4,22.66,0.0,27.360000000000003,4.0,0.0,0.2758
+Oats,Individual Foods,OATS,Cereal,738.2,45.62,5.62,2.866,23.619999999999997,9.22,0.612
+Okra,Individual Foods,OKRA,Frozen Vegetables,55.6,7.382000000000001,2.2,1.6179999999999999,0.038,2.35,0.3468
+Olive oil,Individual Foods,OLIVE OIL,Vegetable & Cooking Oils,739.2,1.428,0.0,0.0,83.22,0.0,0.3136
+Oranges,Individual Foods,ORANGES,Pre-Packaged Fruit & Vegetables,105.8,26.560000000000002,1.7,22.018,0.48999999999999994,0.66,0.2262
+Oregano,Individual Foods,OREGANO,Herbs & Spices,0.0,0.0,0.0,0.0,0.0,0.0,0.3
+Parmesan Cheese,Individual Foods,PARMESAN CHEESE,Cheese,404.4,2.094,0.0,0.0,29.439999999999998,35.56,0.42000000000000004
+Parsley,Individual Foods,PARSLEY,Herbs & Spices,0.0,0.0,0.0,0.0,0.0,0.0,0.3
+Peaches,Individual Foods,PEACHES,Wholesome Snacks,172.8,41.538,4.9799999999999995,28.133999999999997,0.068,0.636,0.3568
+Peanut Butter,Individual Foods,PEANUT BUTTER,Nut & Seed Butters,571.0,28.76,5.82,13.786000000000001,42.1,19.994,0.42160000000000003
+Pears,Individual Foods,PEARS,Pre-Packaged Fruit & Vegetables,152.0,24.18,5.08,13.744,0.074,0.792,0.23020000000000002
+Pecans,Individual Foods,PECANS,"Popcorn, Peanuts, Seeds & Related Snacks",699.2,14.219999999999999,8.16,4.0920000000000005,72.26,10.14,0.41600000000000004
+Pickles,Individual Foods,PICKLES,"Pickles, Olives, Peppers & Relishes",44.6,12.27,1.42,8.524,0.0,0.0,0.3012
+Pineapple,Individual Foods,PINEAPPLE,Wholesome Snacks,197.0,38.55,1.375,28.0825,4.8875,1.1225,0.26675
+Pinto beans,Individual Foods,PINTO BEANS,Canned & Bottled Beans,119.2,23.9,6.38,1.342,0.154,8.0,0.5631999999999999
+Pistachios,Individual Foods,PISTACHIOS,"Popcorn, Peanuts, Seeds & Related Snacks",487.8,24.78,9.28,6.1899999999999995,40.88,17.86,0.4694
+Plums,Individual Foods,"Plums, raw",Fruits and Fruit Juices,185.9,23.6,2.67,15.454000000000002,0.4944,0.9356,0.22160000000000002
+Pomegranate,Individual Foods,POMEGRANATE,"Fruit & Vegetable Juice, Nectars & Fruit Drinks",184.8,22.72,2.36,11.508,4.574,3.2380000000000004,0.24939999999999998
+Pork Loin,Individual Foods,"Pork, loin, boneless, raw",Pork Products,486.8,0.152,0.0,0.016,6.587999999999999,21.080000000000002,0.39980000000000004
+Potatoes,Individual Foods,POTATOES,Pre-Packaged Fruit & Vegetables,74.2,16.9,1.64,1.084,0.0,2.164,0.4502
+Protein Bars,Individual Foods,PROTEIN BARS,"Snack, Energy & Granola Bars",355.6,42.1,14.680000000000001,8.6,9.856,33.260000000000005,0.6918
+Pumpkin seeds,Individual Foods,PUMPKIN SEEDS,"Popcorn, Peanuts, Seeds & Related Snacks",591.75,12.475000000000001,5.825,0.8325,49.175,29.974999999999998,0.55475
+Quinoa,Individual Foods,QUINOA,Frozen Dinners & Entrees,306.4,58.48,6.359999999999999,1.78,4.965999999999999,11.152000000000001,0.6832
+Raspberries,Individual Foods,RASPBERRIES,Frozen Fruit & Fruit Juice Concentrates,61.8,14.559999999999999,5.5600000000000005,7.587999999999999,0.47400000000000003,1.234,0.3298
+Rice Cakes,Individual Foods,RICE CAKES,Other Snacks,417.0,76.02000000000001,6.28,6.316,6.68,10.08,0.5801999999999999
+Ricotta cheese,Individual Foods,RICOTTA CHEESE,Cheese,142.0,5.622,0.0,4.586,7.226000000000001,13.392000000000001,0.23200000000000004
+Ritz Crackers,Individual Foods,"Nabisco, Nabisco Ritz Crackers",Baked Products,290.2,31.619999999999997,2.12,6.498,22.22,7.976000000000001,0.3448
+Roasted Chickpeas,Individual Foods,"Chickpeas, (garbanzo beans, bengal gram), dry",Legumes and Legume Products,594.25,52.900000000000006,11.675,9.594999999999999,5.6375,16.68,0.6112500000000001
+Rye Bread,Individual Foods,RYE BREAD,Breads & Buns,609.4,49.58,5.0200000000000005,2.1719999999999997,3.0140000000000002,8.846,0.791
+Salmon,Individual Foods,SALMON,Fish & Seafood,196.75,1.1175,0.175,0.0,12.1125,19.175,0.40575
+Salsa,Individual Foods,SALSA,Dips & Salsa,72.0,7.62,0.72,4.1659999999999995,4.294,0.0,0.24100000000000002
+Sardines,Individual Foods,SARDINES,Canned Seafood,178.6,0.0,0.0,0.0,10.431999999999999,20.94,0.394
+Sauerkraut,Individual Foods,SAUERKRAUT,Canned Vegetables,15.2,3.8299999999999996,2.8,2.664,0.0,0.33399999999999996,0.2692
+Scallops,Individual Foods,SCALLOPS,Frozen Fish & Seafood,122.6,2.652,0.24,0.47800000000000004,0.67,12.1,0.37
+Seaweed Snacks,Individual Foods,SEAWEED SNACKS,Other Snacks,551.0,52.410000000000004,8.72,9.89,10.284,11.168000000000001,0.5488
+Sesame OilPopcorn,Individual Foods,"Candies, sesame crunch",Sweets,760.4,23.08,4.454,10.379999999999999,52.15999999999999,12.74,0.4824
+Shrimp,Individual Foods,SHRIMP,Frozen Fish & Seafood,86.8,0.354,0.0,0.0,1.126,18.36,0.3928
+Soda,Individual Foods,SODA,Soda,36.8,9.459999999999999,0.0,9.346,0.0,0.0,0.096
+Spinach,Individual Foods,SPINACH,Pre-Packaged Fruit & Vegetables,20.8,3.07,1.8199999999999998,0.0,0.0,2.268,0.3648
+Split Peas,Individual Foods,"Peas, green, split, mature seeds, raw",Legumes and Legume Products,469.6,27.04,8.440000000000001,2.552,1.922,10.416,0.539
+Strawberries,Individual Foods,STRAWBERRIES,Frozen Fruit & Fruit Juice Concentrates,38.6,8.856,2.22,5.514,0.078,0.868,0.19780000000000003
+Sunflower seeds,Individual Foods,SUNFLOWER SEEDS,"Popcorn, Peanuts, Seeds & Related Snacks",441.4,17.6,8.14,2.714,37.38,17.619999999999997,0.5294000000000001
+Sweet potatoes,Individual Foods,SWEET POTATOES,Pre-Packaged Fruit & Vegetables,83.6,20.02,2.96,5.582,0.0,1.358,0.3386
+Tahini,Individual Foods,TAHINI,Salad Dressing & Mayonnaise,659.6,11.488,8.4,0.0,60.720000000000006,19.28,0.5614
+Tea,Individual Foods,TEA,Iced & Bottle Tea,22.4,5.518000000000001,0.64,4.9079999999999995,0.0,0.0,0.181
+Tempeh,Individual Foods,Tempeh,Legumes and Legume Products,431.8,12.516,7.1,1.608,8.004000000000001,18.012,0.532
+Tofu,Individual Foods,TOFU,Other Meats,82.6,1.866,0.96,0.0,4.556,8.174000000000001,0.37120000000000003
+Turkey breast,Individual Foods,TURKEY BREAST,"Pepperoni, Salami & Cold Cuts",99.4,1.786,0.0,1.074,1.268,19.9,0.364
+Turmeric,Individual Foods,TURMERIC,Herbs & Spices,0.0,0.0,0.0,0.0,0.0,0.0,0.3
+Unsweetened Coconut Milk,Individual Foods,UNSWEETENED COCONUT MILK,Plant Based Milk,167.0,4.3362,0.06,4.202,4.556,0.6406000000000001,0.1772
+Unsweetened almond milk,Individual Foods,"Almond milk, unsweetened, plain, refrigerated",Beverages,169.0,3.3176,0.1,4.386,1.492,0.5376000000000001,0.16019999999999998
+Unsweetened soy milk,Individual Foods,"Soy milk, unsweetened, plain, shelf stable",Legumes and Legume Products,437.4,3.8862,0.06,4.428,1.722,1.7731999999999999,0.1694
+Vinegar,Individual Foods,VINEGAR,Other Cooking Sauces,13.4,1.334,0.0,1.334,0.0,1.334,0.266
+Walnuts,Individual Foods,WALNUTS,"Popcorn, Peanuts, Seeds & Related Snacks",655.2,14.26,6.0600000000000005,3.3840000000000003,64.8,15.52,0.4588
+Watermelon,Individual Foods,WATERMELON,Pre-Packaged Fruit & Vegetables,30.2,7.508,0.44000000000000006,6.436,0.188,0.6060000000000001,0.12279999999999999
+Wheat Bread,Individual Foods,WHEAT BREAD,Breads & Buns,262.8,50.2,3.5200000000000005,5.078,3.216,10.166,0.6712
+White Bread,Individual Foods,WHITE BREAD,Breads & Buns,253.6,47.68,2.18,4.698,2.5700000000000003,8.32,0.6344
+White Rice,Individual Foods,WHITE RICE,Rice,351.8,80.24,0.78,0.0,0.0,7.098000000000001,0.5816
+Whole Grain Bread,Individual Foods,WHOLE GRAIN BREAD,Breads & Buns,260.2,43.58,7.160000000000001,5.042,5.61,10.218,0.6437999999999999
+Whole Wheat Crackers,Individual Foods,WHOLE WHEAT CRACKERS,Crackers & Biscotti,454.75,68.575,7.5,4.4,16.2,9.29,0.7095
+Whole wheat pasta,Individual Foods,WHOLE WHEAT PASTA,Pasta by Shape & Type,693.5,63.974999999999994,9.625,1.565,2.2025,9.907499999999999,0.6677500000000001
+Wild Rice,Individual Foods,WILD RICE,Rice,318.8,67.38,5.380000000000001,1.002,1.012,12.36,0.6688000000000001
+Zoodles,Individual Foods,"ZOODLES ZUCCHINI NOODLES WITH TOMATO & MUSHROOM SAUCE, ZOODLES","Entrees, Sides & Small Meals",113.8,5.465999999999999,1.8199999999999998,2.1420000000000003,7.612,5.726000000000001,0.31920000000000004
+Zucchini,Individual Foods,ZUCCHINI,Pre-Packaged Fruit & Vegetables,59.4,4.493,1.1454,2.278,0.20700000000000002,1.3968,0.274
